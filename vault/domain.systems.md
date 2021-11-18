@@ -2,7 +2,7 @@
 id: EZjAtrJ4BD1pkRZ04LR3e
 title: Systems
 desc: ""
-updated: 1637273958669
+updated: 1637274105989
 created: 1637263138122
 ---
 
@@ -45,6 +45,10 @@ created: 1637263138122
 #### eBPF
 
 - https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html
+
+#### An Introduction to Lockless Algorithms
+
+- https://lwn.net/Articles/844224
 
 ### Thinking
 

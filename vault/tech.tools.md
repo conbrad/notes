@@ -2,7 +2,7 @@
 id: 0uSDtdy733xoX3Y68LMQ9
 title: Tools
 desc: ""
-updated: 1637274031174
+updated: 1637274175556
 created: 1637269778105
 ---
 
@@ -34,6 +34,10 @@ created: 1637269778105
 
 - https://github.com/junegunn/fzf
 - https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf
+
+#### KeypassXC - password manager
+
+- https://keepassxc.org
 
 ### VSCode Extensions
 

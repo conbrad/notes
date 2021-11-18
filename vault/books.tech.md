@@ -2,7 +2,7 @@
 id: rCCbU6JgFk3nnkyXrVMSs
 title: Tech
 desc: ""
-updated: 1637273766742
+updated: 1637274295157
 created: 1637270292899
 ---
 
@@ -25,3 +25,7 @@ created: 1637270292899
 #### Logic Programming in Scheme
 
 - http://t3x.org/amk/
+
+#### Static Program Analysis
+
+- https://cs.au.dk/~amoeller/spa/spa.pdf

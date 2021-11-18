@@ -2,7 +2,7 @@
 id: rYQt8aiZwtMNzT2ARlEKA
 title: Ds
 desc: ""
-updated: 1637273299635
+updated: 1637274262637
 created: 1637270139292
 ---
 
@@ -25,3 +25,11 @@ https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization
 #### E-graphs
 
 - https://www.philipzucker.com/egraph-1/
+
+#### Cache-Aware Lock-Free Concurrent Hash Tries
+
+- https://arxiv.org/abs/1709.06056
+
+#### HAT-Trie: A Cache-Conscious Trie-Based Data Structure For Strings
+
+- https://www.semanticscholar.org/paper/HAT-Trie:-A-Cache-Conscious-Trie-Based-Data-For-Askitis-Sinha/cbd461aebf6c8288d7afddbb30f7b727d798044b?p2df
