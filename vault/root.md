@@ -2,12 +2,17 @@
 id: root
 title: root
 desc: ""
-updated: 1637270183589
+updated: 1637272024734
 created: 1595961348801
 stub: false
 ---
 
 Root of Dendron vault.
+
+### Books
+
+- [[Tech Books | books.tech.md]]
+
 ###Python
 
 - [[Python specific commands | tech.python.cli.alembic]]
@@ -19,6 +24,10 @@ Root of Dendron vault.
 ### GIS
 
 - [[GIS commands | cli.gis]]
+
+### Rust
+
+- [[Rust First Steps | tech.rust.md]]
 
 ### Algorithms & Data Structures
 
@@ -65,6 +74,7 @@ Implementations and analyses
 ### People
 
 - [[Leslie Lamport | people.leslie-lamport.md]]
+- [[Paul Graham | people.paul-graham.md]]
 
 ### Hobbies
 
@@ -83,3 +93,7 @@ Implementations and analyses
 - [[Game Theory | domain.game-theory.md]]
 - [[Personal Finance | domain.personal-finance.md]]
 - [[Calculus | domain.calculus.md]]
+- [[UX | domains.ux.md]]
+- [[Graphics | domain.graphics.md]]
+- [[Business | domain.business.md]]
+- [[Math | domain.math.md]]

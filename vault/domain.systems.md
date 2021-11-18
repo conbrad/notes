@@ -2,7 +2,7 @@
 id: EZjAtrJ4BD1pkRZ04LR3e
 title: Systems
 desc: ""
-updated: 1637269543482
+updated: 1637271757512
 created: 1637263138122
 ---
 
@@ -34,9 +34,23 @@ created: 1637263138122
 
 - https://www.snellman.net/blog/archive/2015-07-09-unit-testing-a-tcp-stack/
 
+#### Let's code a TCP/IP stack
+
+- http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
+
 #### Replicated Object Design
 
 - http://replicated.cc
+
+#### eBPF
+
+- https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html
+
+### Thinking
+
+#### A Lifetime of Systems Thinking
+
+- https://thesystemsthinker.com/a-lifetime-of-systems-thinking
 
 ### Programming Languages
 
@@ -45,3 +59,7 @@ created: 1637263138122
 ### Performance
 
 [[perf | domain.systems.perf.md]]
+
+### Distributed Consensus
+
+- https://writings.stephenwolfram.com/2021/05/the-problem-of-distributed-consensus/
