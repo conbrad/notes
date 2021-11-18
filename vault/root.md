@@ -2,7 +2,7 @@
 id: root
 title: root
 desc: ""
-updated: 1637272024734
+updated: 1637273500734
 created: 1595961348801
 stub: false
 ---
@@ -97,3 +97,8 @@ Implementations and analyses
 - [[Graphics | domain.graphics.md]]
 - [[Business | domain.business.md]]
 - [[Math | domain.math.md]]
+- [[Privacy | domain.privacy.md]]
+- [[Philosophy | domain.philosophy.md]]
+- [[Mental Health | domain.mental-health.md]]
+- [[Crypto | domain.crypto.md]]
+- [[Software Design | domain.software-design.md]]

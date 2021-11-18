@@ -2,7 +2,7 @@
 id: rYQt8aiZwtMNzT2ARlEKA
 title: Ds
 desc: ""
-updated: 1637270662734
+updated: 1637273299635
 created: 1637270139292
 ---
 
@@ -17,3 +17,11 @@ https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization
 #### Verkle Trees
 
 - https://vitalik.ca/general/2021/06/18/verkle.html
+
+#### Bloom Filters
+
+- https://exampl.io/bloom-filters/
+
+#### E-graphs
+
+- https://www.philipzucker.com/egraph-1/

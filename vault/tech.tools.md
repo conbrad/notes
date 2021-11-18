@@ -2,7 +2,7 @@
 id: 0uSDtdy733xoX3Y68LMQ9
 title: Tools
 desc: ""
-updated: 1637271246860
+updated: 1637273435348
 created: 1637269778105
 ---
 
@@ -15,6 +15,25 @@ created: 1637269778105
 #### TapeX - Screen Recorder
 
 - https://tapex.app
+
+#### Zellij - terminal workspace
+
+- https://zellij.dev/about/
+- https://github.com/zellij-org/zellij
+
+#### Fig - Autocomplete for terminal
+
+- https://fig.io
+
+#### What is my IP address?
+
+- https://ifconfig.co
+- `curl ifconfig.co/`
+
+#### fzf - CLI fuzzy finder
+
+- https://github.com/junegunn/fzf
+- https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf
 
 ### VSCode Extensions
 

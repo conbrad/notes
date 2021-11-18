@@ -2,7 +2,7 @@
 id: PTiR4arCSWkrmbiSHsxA3
 title: Languages
 desc: ""
-updated: 1637271325139
+updated: 1637273576485
 created: 1637263815582
 ---
 
@@ -27,3 +27,17 @@ created: 1637263815582
 #### Types and Programming Languages
 
 - https://www.cis.upenn.edu/~bcpierce/tapl/
+
+### Compilers
+
+#### Resources for Amateur Compiler Writers
+
+- https://c9x.me/compile/bib/
+
+#### Static Program Analysis
+
+- https://cs.au.dk/~amoeller/spa/
+
+#### Loop alignment in .NET 6
+
+- https://devblogs.microsoft.com/dotnet/loop-alignment-in-net-6/

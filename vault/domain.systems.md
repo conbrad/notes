@@ -2,7 +2,7 @@
 id: EZjAtrJ4BD1pkRZ04LR3e
 title: Systems
 desc: ""
-updated: 1637271757512
+updated: 1637272316767
 created: 1637263138122
 ---
 
@@ -52,7 +52,7 @@ created: 1637263138122
 
 - https://thesystemsthinker.com/a-lifetime-of-systems-thinking
 
-### Programming Languages
+### Compilers and Programming Languages
 
 [[Programming Languages | domain.systems.languages.md]]
 

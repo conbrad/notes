@@ -2,7 +2,7 @@
 id: dy9k1oRVoe6i3l6bzvKos
 title: System Design
 desc: ""
-updated: 1637271967157
+updated: 1637272878457
 created: 1637269418874
 ---
 
@@ -21,3 +21,15 @@ created: 1637269418874
 #### Query Engines: Push vs. Pull
 
 - http://justinjaffray.com/query-engines-push-vs.-pull/
+
+#### Diving Deep on S3 Consistency
+
+- https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html
+
+#### Deep Dive in CORS
+
+- https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/
+
+#### Demystifying programs that create programs, part 1: A disassembler
+
+- https://briancallahan.net/blog/20210407.html
