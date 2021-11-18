@@ -2,7 +2,7 @@
 id: EZjAtrJ4BD1pkRZ04LR3e
 title: Systems
 desc: ""
-updated: 1637274105989
+updated: 1637274907997
 created: 1637263138122
 ---
 
@@ -64,9 +64,10 @@ created: 1637263138122
 
 [[perf | domain.systems.perf.md]]
 
-### Distributed Consensus
+### Distributed Systems
 
 - https://writings.stephenwolfram.com/2021/05/the-problem-of-distributed-consensus/
+- https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/
 
 ### RFCs
 

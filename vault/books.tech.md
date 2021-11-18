@@ -2,7 +2,7 @@
 id: rCCbU6JgFk3nnkyXrVMSs
 title: Tech
 desc: ""
-updated: 1637274717688
+updated: 1637274864828
 created: 1637270292899
 ---
 
@@ -37,3 +37,11 @@ created: 1637270292899
 #### Operating Systems: Three Easy Pieces
 
 - https://pages.cs.wisc.edu/~remzi/OSTEP/
+
+#### The Elements of Computing Systems, Second Edition
+
+- https://mitpress.mit.edu/books/elements-computing-systems-second-edition
+
+#### Computer Graphics from Scratch
+
+- https://gabrielgambetta.com/computer-graphics-from-scratch/

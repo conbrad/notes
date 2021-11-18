@@ -2,7 +2,7 @@
 id: PTiR4arCSWkrmbiSHsxA3
 title: Languages
 desc: ""
-updated: 1637274476430
+updated: 1637275085207
 created: 1637263815582
 ---
 
@@ -49,3 +49,7 @@ created: 1637263815582
 #### TLB Hit Podcast
 
 - https://tlbh.it/index.html
+
+#### Design notes on inline caches in guile
+
+- https://wingolog.org/archives/2018/02/07/design-notes-on-inline-caches-in-guile

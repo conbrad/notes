@@ -2,7 +2,7 @@
 id: dy9k1oRVoe6i3l6bzvKos
 title: System Design
 desc: ""
-updated: 1637274678882
+updated: 1637275006240
 created: 1637269418874
 ---
 
@@ -45,3 +45,11 @@ created: 1637269418874
 #### OS Projects
 
 - https://github.com/remzi-arpacidusseau/ostep-projects
+
+#### Nand2Tetris
+
+- https://www.nand2tetris.org
+
+#### Load balancing and its different types
+
+- https://www.wisdomgeek.com/development/software-architecture/load-balancing-and-its-different-types/

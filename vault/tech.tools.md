@@ -2,7 +2,7 @@
 id: 0uSDtdy733xoX3Y68LMQ9
 title: Tools
 desc: ""
-updated: 1637274542360
+updated: 1637274965809
 created: 1637269778105
 ---
 
@@ -42,6 +42,10 @@ created: 1637269778105
 #### Starship - Cross-shell prompt
 
 - https://starship.rs
+
+#### O&O ShutUp10++:Free antispy tool for Windows 10 and 11
+
+- https://www.oo-software.com/en/shutup10
 
 ### VSCode Extensions
 

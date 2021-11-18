@@ -2,7 +2,7 @@
 id: root
 title: root
 desc: ""
-updated: 1637274354408
+updated: 1637275149112
 created: 1595961348801
 stub: false
 ---
@@ -42,6 +42,10 @@ Implementations and analyses
 ### Kubernetes
 
 - [[Kubernetes | tech.kubernetes]]
+
+### Docker
+
+- [[Docker | tech.docker]]
 
 ### CSS
 
