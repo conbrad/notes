@@ -2,7 +2,7 @@
 id: EZjAtrJ4BD1pkRZ04LR3e
 title: Systems
 desc: ""
-updated: 1637272316767
+updated: 1637273958669
 created: 1637263138122
 ---
 
@@ -63,3 +63,7 @@ created: 1637263138122
 ### Distributed Consensus
 
 - https://writings.stephenwolfram.com/2021/05/the-problem-of-distributed-consensus/
+
+### RFCs
+
+- https://datatracker.ietf.org/doc/html/draft-main-magic-00

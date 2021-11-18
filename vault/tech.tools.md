@@ -2,7 +2,7 @@
 id: 0uSDtdy733xoX3Y68LMQ9
 title: Tools
 desc: ""
-updated: 1637273435348
+updated: 1637274031174
 created: 1637269778105
 ---
 
@@ -40,3 +40,9 @@ created: 1637269778105
 #### Code Graph
 
 - https://marketplace.visualstudio.com/items?itemName=YaobinOuyang.CodeAtlas
+
+### Browser Extensions
+
+#### Bypass Paywalls
+
+- https://github.com/iamadamdev/bypass-paywalls-chrome

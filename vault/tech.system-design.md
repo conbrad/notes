@@ -2,7 +2,7 @@
 id: dy9k1oRVoe6i3l6bzvKos
 title: System Design
 desc: ""
-updated: 1637272878457
+updated: 1637273635562
 created: 1637269418874
 ---
 
@@ -33,3 +33,7 @@ created: 1637269418874
 #### Demystifying programs that create programs, part 1: A disassembler
 
 - https://briancallahan.net/blog/20210407.html
+
+#### How to implement a hash table (in C)
+
+- https://benhoyt.com/writings/hash-table-in-c/

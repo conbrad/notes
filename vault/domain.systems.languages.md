@@ -2,7 +2,7 @@
 id: PTiR4arCSWkrmbiSHsxA3
 title: Languages
 desc: ""
-updated: 1637273576485
+updated: 1637273802269
 created: 1637263815582
 ---
 
@@ -41,3 +41,7 @@ created: 1637263815582
 #### Loop alignment in .NET 6
 
 - https://devblogs.microsoft.com/dotnet/loop-alignment-in-net-6/
+
+#### How C++ Resolves a Function Call
+
+- https://preshing.com/20210315/how-cpp-resolves-a-function-call/
