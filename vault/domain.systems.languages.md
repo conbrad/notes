@@ -2,7 +2,7 @@
 id: PTiR4arCSWkrmbiSHsxA3
 title: Languages
 desc: ""
-updated: 1637273802269
+updated: 1637274476430
 created: 1637263815582
 ---
 
@@ -45,3 +45,7 @@ created: 1637263815582
 #### How C++ Resolves a Function Call
 
 - https://preshing.com/20210315/how-cpp-resolves-a-function-call/
+
+#### TLB Hit Podcast
+
+- https://tlbh.it/index.html

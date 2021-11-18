@@ -2,7 +2,7 @@
 id: rCCbU6JgFk3nnkyXrVMSs
 title: Tech
 desc: ""
-updated: 1637274295157
+updated: 1637274717688
 created: 1637270292899
 ---
 
@@ -29,3 +29,11 @@ created: 1637270292899
 #### Static Program Analysis
 
 - https://cs.au.dk/~amoeller/spa/spa.pdf
+
+#### Beej's Guide to Network Programming
+
+- https://beej.us/guide/bgnet/html/
+
+#### Operating Systems: Three Easy Pieces
+
+- https://pages.cs.wisc.edu/~remzi/OSTEP/

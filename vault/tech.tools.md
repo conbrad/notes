@@ -2,7 +2,7 @@
 id: 0uSDtdy733xoX3Y68LMQ9
 title: Tools
 desc: ""
-updated: 1637274175556
+updated: 1637274542360
 created: 1637269778105
 ---
 
@@ -38,6 +38,10 @@ created: 1637269778105
 #### KeypassXC - password manager
 
 - https://keepassxc.org
+
+#### Starship - Cross-shell prompt
+
+- https://starship.rs
 
 ### VSCode Extensions
 

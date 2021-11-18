@@ -2,7 +2,7 @@
 id: dy9k1oRVoe6i3l6bzvKos
 title: System Design
 desc: ""
-updated: 1637273635562
+updated: 1637274678882
 created: 1637269418874
 ---
 
@@ -37,3 +37,11 @@ created: 1637269418874
 #### How to implement a hash table (in C)
 
 - https://benhoyt.com/writings/hash-table-in-c/
+
+#### A visual guide to SSH tunnels
+
+- https://robotmoon.com/ssh-tunnels/
+
+#### OS Projects
+
+- https://github.com/remzi-arpacidusseau/ostep-projects
