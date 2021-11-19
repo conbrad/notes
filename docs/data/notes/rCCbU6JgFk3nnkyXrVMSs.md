@@ -38,3 +38,7 @@
 #### Computer Graphics from Scratch
 
 - https://gabrielgambetta.com/computer-graphics-from-scratch/
+
+#### Algorithms for Decision Making
+
+- https://algorithmsbook.com

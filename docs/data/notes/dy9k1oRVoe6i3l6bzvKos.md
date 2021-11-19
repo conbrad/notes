@@ -46,3 +46,7 @@
 #### Load balancing and its different types
 
 - https://www.wisdomgeek.com/development/software-architecture/load-balancing-and-its-different-types/
+
+#### Build Your own Async Primitive
+
+- https://tweedegolf.nl/blog/50/build-your-own-async-primitive

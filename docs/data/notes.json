@@ -11,8 +11,8 @@
       "links": [],
       "anchors": {},
       "fname": "403",
-      "updated": 1637348148367,
-      "created": 1637348148367,
+      "updated": 1637348990258,
+      "created": 1637348990258,
       "parent": null,
       "children": [],
       "data": {}
@@ -61,45 +61,18 @@
             "id": "root",
             "vaultName": "vault"
           },
-          "value": "tags.Python",
-          "alias": "#Python",
-          "position": {
-            "start": {
-              "line": 8,
-              "column": 3,
-              "offset": 72
-            },
-            "end": {
-              "line": 8,
-              "column": 10,
-              "offset": 79
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "to": {
-            "fname": "tags.Python"
-          }
-        },
-        {
-          "type": "wiki",
-          "from": {
-            "fname": "root",
-            "id": "root",
-            "vaultName": "vault"
-          },
           "value": "tech.python.cli.alembic",
           "alias": "Python specific commands",
           "position": {
             "start": {
               "line": 10,
               "column": 3,
-              "offset": 83
+              "offset": 84
             },
             "end": {
               "line": 10,
               "column": 57,
-              "offset": 137
+              "offset": 138
             },
             "indent": []
           },
@@ -116,18 +89,46 @@
             "id": "root",
             "vaultName": "vault"
           },
+          "value": "tech.python.nlp",
+          "alias": "Python NLP",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 3,
+              "offset": 141
+            },
+            "end": {
+              "line": 11,
+              "column": 35,
+              "offset": 173
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tech.python.nlp"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "root",
+            "vaultName": "vault"
+          },
           "value": "tech.postgres.postgis",
           "alias": "Postgis extension",
           "position": {
             "start": {
-              "line": 14,
+              "line": 15,
               "column": 3,
-              "offset": 155
+              "offset": 191
             },
             "end": {
-              "line": 14,
+              "line": 15,
               "column": 48,
-              "offset": 200
+              "offset": 236
             },
             "indent": []
           },
@@ -148,14 +149,14 @@
           "alias": "GIS commands",
           "position": {
             "start": {
-              "line": 18,
+              "line": 19,
               "column": 3,
-              "offset": 213
+              "offset": 249
             },
             "end": {
-              "line": 18,
+              "line": 19,
               "column": 29,
-              "offset": 239
+              "offset": 275
             },
             "indent": []
           },
@@ -176,14 +177,14 @@
           "alias": "Rust First Steps",
           "position": {
             "start": {
-              "line": 22,
+              "line": 23,
               "column": 3,
-              "offset": 253
+              "offset": 289
             },
             "end": {
-              "line": 22,
+              "line": 23,
               "column": 38,
-              "offset": 288
+              "offset": 324
             },
             "indent": []
           },
@@ -204,14 +205,14 @@
           "alias": "Data Structure Visualizations",
           "position": {
             "start": {
-              "line": 28,
+              "line": 29,
               "column": 3,
-              "offset": 356
+              "offset": 392
             },
             "end": {
-              "line": 28,
+              "line": 29,
               "column": 49,
-              "offset": 402
+              "offset": 438
             },
             "indent": []
           },
@@ -232,14 +233,14 @@
           "alias": "Linux",
           "position": {
             "start": {
-              "line": 32,
+              "line": 33,
               "column": 3,
-              "offset": 417
+              "offset": 453
             },
             "end": {
-              "line": 32,
+              "line": 33,
               "column": 25,
-              "offset": 439
+              "offset": 475
             },
             "indent": []
           },
@@ -260,14 +261,14 @@
           "alias": "Kubernetes",
           "position": {
             "start": {
-              "line": 36,
+              "line": 37,
               "column": 3,
-              "offset": 459
+              "offset": 495
             },
             "end": {
-              "line": 36,
+              "line": 37,
               "column": 35,
-              "offset": 491
+              "offset": 527
             },
             "indent": []
           },
@@ -288,14 +289,14 @@
           "alias": "Docker",
           "position": {
             "start": {
-              "line": 40,
+              "line": 41,
               "column": 3,
-              "offset": 507
+              "offset": 543
             },
             "end": {
-              "line": 40,
+              "line": 41,
               "column": 27,
-              "offset": 531
+              "offset": 567
             },
             "indent": []
           },
@@ -316,14 +317,14 @@
           "alias": "CSS",
           "position": {
             "start": {
-              "line": 44,
+              "line": 45,
               "column": 3,
-              "offset": 544
+              "offset": 580
             },
             "end": {
-              "line": 44,
+              "line": 45,
               "column": 21,
-              "offset": 562
+              "offset": 598
             },
             "indent": []
           },
@@ -344,14 +345,14 @@
           "alias": "Web 3",
           "position": {
             "start": {
-              "line": 48,
+              "line": 49,
               "column": 3,
-              "offset": 576
+              "offset": 612
             },
             "end": {
-              "line": 48,
+              "line": 49,
               "column": 27,
-              "offset": 600
+              "offset": 636
             },
             "indent": []
           },
@@ -372,14 +373,14 @@
           "alias": "Git",
           "position": {
             "start": {
-              "line": 52,
+              "line": 53,
               "column": 3,
-              "offset": 613
+              "offset": 649
             },
             "end": {
-              "line": 52,
+              "line": 53,
               "column": 24,
-              "offset": 634
+              "offset": 670
             },
             "indent": []
           },
@@ -400,14 +401,14 @@
           "alias": "Flutter",
           "position": {
             "start": {
-              "line": 56,
+              "line": 57,
               "column": 3,
-              "offset": 651
+              "offset": 687
             },
             "end": {
-              "line": 56,
+              "line": 57,
               "column": 32,
-              "offset": 680
+              "offset": 716
             },
             "indent": []
           },
@@ -428,14 +429,14 @@
           "alias": "Web Assembly",
           "position": {
             "start": {
-              "line": 60,
+              "line": 61,
               "column": 3,
-              "offset": 702
+              "offset": 738
             },
             "end": {
-              "line": 60,
+              "line": 61,
               "column": 34,
-              "offset": 733
+              "offset": 769
             },
             "indent": []
           },
@@ -456,14 +457,14 @@
           "alias": "Tools",
           "position": {
             "start": {
-              "line": 64,
+              "line": 65,
               "column": 3,
-              "offset": 748
+              "offset": 784
             },
             "end": {
-              "line": 64,
+              "line": 65,
               "column": 28,
-              "offset": 773
+              "offset": 809
             },
             "indent": []
           },
@@ -484,14 +485,14 @@
           "alias": "System Design",
           "position": {
             "start": {
-              "line": 68,
+              "line": 69,
               "column": 3,
-              "offset": 797
+              "offset": 833
             },
             "end": {
-              "line": 68,
+              "line": 69,
               "column": 44,
-              "offset": 838
+              "offset": 874
             },
             "indent": []
           },
@@ -512,14 +513,14 @@
           "alias": "Leslie Lamport",
           "position": {
             "start": {
-              "line": 72,
+              "line": 73,
               "column": 3,
-              "offset": 854
+              "offset": 890
             },
             "end": {
-              "line": 72,
+              "line": 73,
               "column": 48,
-              "offset": 899
+              "offset": 935
             },
             "indent": []
           },
@@ -540,14 +541,14 @@
           "alias": "Paul Graham",
           "position": {
             "start": {
-              "line": 73,
+              "line": 74,
               "column": 3,
-              "offset": 902
+              "offset": 938
             },
             "end": {
-              "line": 73,
+              "line": 74,
               "column": 42,
-              "offset": 941
+              "offset": 977
             },
             "indent": []
           },
@@ -568,14 +569,14 @@
           "alias": "Hobbies",
           "position": {
             "start": {
-              "line": 77,
+              "line": 78,
               "column": 3,
-              "offset": 958
+              "offset": 994
             },
             "end": {
-              "line": 77,
+              "line": 78,
               "column": 37,
-              "offset": 992
+              "offset": 1028
             },
             "indent": []
           },
@@ -596,14 +597,14 @@
           "alias": "Queuing Theory",
           "position": {
             "start": {
-              "line": 81,
+              "line": 82,
               "column": 3,
-              "offset": 1009
+              "offset": 1045
             },
             "end": {
-              "line": 81,
+              "line": 82,
               "column": 48,
-              "offset": 1054
+              "offset": 1090
             },
             "indent": []
           },
@@ -624,14 +625,14 @@
           "alias": "Reversing",
           "position": {
             "start": {
-              "line": 82,
+              "line": 83,
               "column": 3,
-              "offset": 1057
+              "offset": 1093
             },
             "end": {
-              "line": 82,
+              "line": 83,
               "column": 38,
-              "offset": 1092
+              "offset": 1128
             },
             "indent": []
           },
@@ -652,14 +653,14 @@
           "alias": "Recruiting",
           "position": {
             "start": {
-              "line": 83,
+              "line": 84,
               "column": 3,
-              "offset": 1095
+              "offset": 1131
             },
             "end": {
-              "line": 83,
+              "line": 84,
               "column": 40,
-              "offset": 1132
+              "offset": 1168
             },
             "indent": []
           },
@@ -680,14 +681,14 @@
           "alias": "Systems",
           "position": {
             "start": {
-              "line": 84,
+              "line": 85,
               "column": 3,
-              "offset": 1135
+              "offset": 1171
             },
             "end": {
-              "line": 84,
+              "line": 85,
               "column": 34,
-              "offset": 1166
+              "offset": 1202
             },
             "indent": []
           },
@@ -708,14 +709,14 @@
           "alias": "Functional",
           "position": {
             "start": {
-              "line": 85,
+              "line": 86,
               "column": 3,
-              "offset": 1169
+              "offset": 1205
             },
             "end": {
-              "line": 85,
+              "line": 86,
               "column": 40,
-              "offset": 1206
+              "offset": 1242
             },
             "indent": []
           },
@@ -736,14 +737,14 @@
           "alias": "Probability",
           "position": {
             "start": {
-              "line": 86,
+              "line": 87,
               "column": 3,
-              "offset": 1209
+              "offset": 1245
             },
             "end": {
-              "line": 86,
+              "line": 87,
               "column": 43,
-              "offset": 1249
+              "offset": 1285
             },
             "indent": []
           },
@@ -764,14 +765,14 @@
           "alias": "Category Theory",
           "position": {
             "start": {
-              "line": 87,
+              "line": 88,
               "column": 3,
-              "offset": 1252
+              "offset": 1288
             },
             "end": {
-              "line": 87,
+              "line": 88,
               "column": 50,
-              "offset": 1299
+              "offset": 1335
             },
             "indent": []
           },
@@ -792,14 +793,14 @@
           "alias": "Relativity",
           "position": {
             "start": {
-              "line": 88,
+              "line": 89,
               "column": 3,
-              "offset": 1302
+              "offset": 1338
             },
             "end": {
-              "line": 88,
+              "line": 89,
               "column": 40,
-              "offset": 1339
+              "offset": 1375
             },
             "indent": []
           },
@@ -820,14 +821,14 @@
           "alias": "Game Theory",
           "position": {
             "start": {
-              "line": 89,
+              "line": 90,
               "column": 3,
-              "offset": 1342
+              "offset": 1378
             },
             "end": {
-              "line": 89,
+              "line": 90,
               "column": 42,
-              "offset": 1381
+              "offset": 1417
             },
             "indent": []
           },
@@ -848,14 +849,14 @@
           "alias": "Personal Finance",
           "position": {
             "start": {
-              "line": 90,
+              "line": 91,
               "column": 3,
-              "offset": 1384
+              "offset": 1420
             },
             "end": {
-              "line": 90,
+              "line": 91,
               "column": 52,
-              "offset": 1433
+              "offset": 1469
             },
             "indent": []
           },
@@ -876,14 +877,14 @@
           "alias": "Calculus",
           "position": {
             "start": {
-              "line": 91,
+              "line": 92,
               "column": 3,
-              "offset": 1436
+              "offset": 1472
             },
             "end": {
-              "line": 91,
+              "line": 92,
               "column": 36,
-              "offset": 1469
+              "offset": 1505
             },
             "indent": []
           },
@@ -904,14 +905,14 @@
           "alias": "UX",
           "position": {
             "start": {
-              "line": 92,
+              "line": 93,
               "column": 3,
-              "offset": 1472
+              "offset": 1508
             },
             "end": {
-              "line": 92,
+              "line": 93,
               "column": 25,
-              "offset": 1494
+              "offset": 1530
             },
             "indent": []
           },
@@ -932,14 +933,14 @@
           "alias": "Graphics",
           "position": {
             "start": {
-              "line": 93,
+              "line": 94,
               "column": 3,
-              "offset": 1497
+              "offset": 1533
             },
             "end": {
-              "line": 93,
+              "line": 94,
               "column": 36,
-              "offset": 1530
+              "offset": 1566
             },
             "indent": []
           },
@@ -960,14 +961,14 @@
           "alias": "Business",
           "position": {
             "start": {
-              "line": 94,
+              "line": 95,
               "column": 3,
-              "offset": 1533
+              "offset": 1569
             },
             "end": {
-              "line": 94,
+              "line": 95,
               "column": 36,
-              "offset": 1566
+              "offset": 1602
             },
             "indent": []
           },
@@ -988,14 +989,14 @@
           "alias": "Math",
           "position": {
             "start": {
-              "line": 95,
+              "line": 96,
               "column": 3,
-              "offset": 1569
+              "offset": 1605
             },
             "end": {
-              "line": 95,
+              "line": 96,
               "column": 28,
-              "offset": 1594
+              "offset": 1630
             },
             "indent": []
           },
@@ -1016,14 +1017,14 @@
           "alias": "Privacy",
           "position": {
             "start": {
-              "line": 96,
+              "line": 97,
               "column": 3,
-              "offset": 1597
+              "offset": 1633
             },
             "end": {
-              "line": 96,
+              "line": 97,
               "column": 34,
-              "offset": 1628
+              "offset": 1664
             },
             "indent": []
           },
@@ -1044,14 +1045,14 @@
           "alias": "Philosophy",
           "position": {
             "start": {
-              "line": 97,
+              "line": 98,
               "column": 3,
-              "offset": 1631
+              "offset": 1667
             },
             "end": {
-              "line": 97,
+              "line": 98,
               "column": 40,
-              "offset": 1668
+              "offset": 1704
             },
             "indent": []
           },
@@ -1072,14 +1073,14 @@
           "alias": "Mental Health",
           "position": {
             "start": {
-              "line": 98,
+              "line": 99,
               "column": 3,
-              "offset": 1671
+              "offset": 1707
             },
             "end": {
-              "line": 98,
+              "line": 99,
               "column": 46,
-              "offset": 1714
+              "offset": 1750
             },
             "indent": []
           },
@@ -1100,14 +1101,14 @@
           "alias": "Crypto",
           "position": {
             "start": {
-              "line": 99,
+              "line": 100,
               "column": 3,
-              "offset": 1717
+              "offset": 1753
             },
             "end": {
-              "line": 99,
+              "line": 100,
               "column": 32,
-              "offset": 1746
+              "offset": 1782
             },
             "indent": []
           },
@@ -1128,14 +1129,14 @@
           "alias": "Software Design",
           "position": {
             "start": {
-              "line": 100,
+              "line": 101,
               "column": 3,
-              "offset": 1749
+              "offset": 1785
             },
             "end": {
-              "line": 100,
+              "line": 101,
               "column": 50,
-              "offset": 1796
+              "offset": 1832
             },
             "indent": []
           },
@@ -1156,14 +1157,14 @@
           "alias": "Writing",
           "position": {
             "start": {
-              "line": 101,
+              "line": 102,
               "column": 3,
-              "offset": 1799
+              "offset": 1835
             },
             "end": {
-              "line": 101,
+              "line": 102,
               "column": 34,
-              "offset": 1830
+              "offset": 1866
             },
             "indent": []
           },
@@ -1182,143 +1183,150 @@
           "line": 11,
           "column": 0
         },
+        "python": {
+          "type": "header",
+          "text": "Python",
+          "value": "python",
+          "line": 15,
+          "column": 0
+        },
         "postgres": {
           "type": "header",
           "text": "Postgres",
           "value": "postgres",
-          "line": 19,
+          "line": 20,
           "column": 0
         },
         "gis": {
           "type": "header",
           "text": "GIS",
           "value": "gis",
-          "line": 23,
+          "line": 24,
           "column": 0
         },
         "rust": {
           "type": "header",
           "text": "Rust",
           "value": "rust",
-          "line": 27,
+          "line": 28,
           "column": 0
         },
         "algorithms--data-structures": {
           "type": "header",
           "text": "Algorithms & Data Structures",
           "value": "algorithms--data-structures",
-          "line": 31,
+          "line": 32,
           "column": 0
         },
         "linux": {
           "type": "header",
           "text": "Linux",
           "value": "linux",
-          "line": 37,
+          "line": 38,
           "column": 0
         },
         "kubernetes": {
           "type": "header",
           "text": "Kubernetes",
           "value": "kubernetes",
-          "line": 41,
+          "line": 42,
           "column": 0
         },
         "docker": {
           "type": "header",
           "text": "Docker",
           "value": "docker",
-          "line": 45,
+          "line": 46,
           "column": 0
         },
         "css": {
           "type": "header",
           "text": "CSS",
           "value": "css",
-          "line": 49,
+          "line": 50,
           "column": 0
         },
         "web3": {
           "type": "header",
           "text": "Web3",
           "value": "web3",
-          "line": 53,
+          "line": 54,
           "column": 0
         },
         "git": {
           "type": "header",
           "text": "Git",
           "value": "git",
-          "line": 57,
+          "line": 58,
           "column": 0
         },
         "flutter": {
           "type": "header",
           "text": "Flutter",
           "value": "flutter",
-          "line": 61,
+          "line": 62,
           "column": 0
         },
         "web-assembly": {
           "type": "header",
           "text": "Web Assembly",
           "value": "web-assembly",
-          "line": 65,
+          "line": 66,
           "column": 0
         },
         "tools": {
           "type": "header",
           "text": "Tools",
           "value": "tools",
-          "line": 69,
+          "line": 70,
           "column": 0
         },
         "system-design": {
           "type": "header",
           "text": "System Design",
           "value": "system-design",
-          "line": 73,
+          "line": 74,
           "column": 0
         },
         "people": {
           "type": "header",
           "text": "People",
           "value": "people",
-          "line": 77,
+          "line": 78,
           "column": 0
         },
         "hobbies": {
           "type": "header",
           "text": "Hobbies",
           "value": "hobbies",
-          "line": 82,
+          "line": 83,
           "column": 0
         },
         "domains": {
           "type": "header",
           "text": "Domains",
           "value": "domains",
-          "line": 86,
+          "line": 87,
           "column": 0
         }
       },
       "fname": "root",
-      "updated": 1637275149112,
+      "updated": 1637345884307,
       "created": 1595961348801,
       "parent": null,
       "children": [
-        "k5L85en4ZpgmnWbwy6Vyy",
-        "SMiVTLvKozmt8sNBHzDuA",
-        "zFbFDs6pv5RY831x0SyhF",
-        "sxkOuXGlFYLBSPMSWac9e",
-        "3oJn9Eln0V7XDr8TkFkkQ",
-        "FifBSEJTSes6vGG9o4ouk",
-        "HGqvRNOsa4iu5Jhujo1PL",
-        "jF9yfS9D7Kjl8t9I8BSb6",
+        "HmH3P1d4H7612LlIXHnCC",
+        "GjDkFgEr5m9r6SxocL0J9",
+        "9yagloTeRMuQzmsgNiiUb",
+        "nQ25lsPGG0GZgyiC9mRNT",
+        "wwRDiMzRtEn3Oa7bkwKW6",
+        "pe3x04h2NkAPH0UrRQz6D",
+        "9EUxx2cJ9KVFwxUCdtLBP",
+        "RJpOess77XPb82EqcdaaZ",
         "01u0co3RYjOM1bjpc2qIU"
       ],
       "data": {},
-      "contentHash": "1c3458975afb2f64e6ff901fd0c91dbb",
+      "contentHash": "05ebfc1e1337f4bcdc1eb226050ac415",
       "custom": {
         "stub": false,
         "nav_order": 0,
@@ -2603,8 +2611,8 @@
       "contentHash": "cc990951fc364ed9e03805c064a6ab89",
       "custom": {}
     },
-    "jF9yfS9D7Kjl8t9I8BSb6": {
-      "id": "jF9yfS9D7Kjl8t9I8BSb6",
+    "RJpOess77XPb82EqcdaaZ": {
+      "id": "RJpOess77XPb82EqcdaaZ",
       "title": "Tech",
       "vault": {
         "fsPath": "vault"
@@ -2614,8 +2622,8 @@
       "links": [],
       "anchors": {},
       "fname": "tech",
-      "updated": 1637347806162,
-      "created": 1637347806162,
+      "updated": 1637348807695,
+      "created": 1637277460939,
       "parent": "root",
       "children": [
         "OJqYj8ZlkPUnBMoCWNyVQ",
@@ -2624,8 +2632,8 @@
         "h6g54qtDu9tHiK508zh8W",
         "y57FmXlV93s0vyFyCR2Py",
         "yf1jTsxVbrEn7Q1Xx6QXR",
-        "qnbwDFMMNLFA9ZJVjnuVM",
-        "dNESs422VMTfrVMaErDhV",
+        "xAEfcJ2NIbVdso8bAm5mC",
+        "C9S5kN0bUUZgLGpI1N6r6",
         "RyKoGnbUO5Ero4bXWuDMm",
         "dy9k1oRVoe6i3l6bzvKos",
         "0uSDtdy733xoX3Y68LMQ9",
@@ -2633,7 +2641,7 @@
         "7u97tPNOEb2GJqyPBXnH4"
       ],
       "data": {},
-      "contentHash": "4ca78ecd26a6e5fb46811e5a7b1512fc",
+      "contentHash": "4e8cd856a4199b7e208ed86a74ecafe4",
       "stub": false,
       "custom": {
         "stub": true
@@ -2656,14 +2664,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 48,
+              "line": 49,
               "column": 3,
-              "offset": 576
+              "offset": 612
             },
             "end": {
-              "line": 48,
+              "line": 49,
               "column": 27,
-              "offset": 600
+              "offset": 636
             },
             "indent": []
           },
@@ -2682,7 +2690,7 @@
       "fname": "tech.web3",
       "updated": 1637264262826,
       "created": 1637264246789,
-      "parent": "jF9yfS9D7Kjl8t9I8BSb6",
+      "parent": "RJpOess77XPb82EqcdaaZ",
       "children": [],
       "data": {},
       "contentHash": "44ce6afab48c7dfd9bcdccddb02ae52b",
@@ -2705,14 +2713,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 60,
+              "line": 61,
               "column": 3,
-              "offset": 702
+              "offset": 738
             },
             "end": {
-              "line": 60,
+              "line": 61,
               "column": 34,
-              "offset": 733
+              "offset": 769
             },
             "indent": []
           },
@@ -2731,7 +2739,7 @@
       "fname": "tech.wasm",
       "updated": 1637269696393,
       "created": 1637269672200,
-      "parent": "jF9yfS9D7Kjl8t9I8BSb6",
+      "parent": "RJpOess77XPb82EqcdaaZ",
       "children": [],
       "data": {},
       "contentHash": "1a6e978f79d72e91128dbbb004c16f39",
@@ -2754,14 +2762,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 64,
+              "line": 65,
               "column": 3,
-              "offset": 748
+              "offset": 784
             },
             "end": {
-              "line": 64,
+              "line": 65,
               "column": 28,
-              "offset": 773
+              "offset": 809
             },
             "indent": []
           },
@@ -2871,7 +2879,7 @@
       "fname": "tech.tools",
       "updated": 1637274965809,
       "created": 1637269778105,
-      "parent": "jF9yfS9D7Kjl8t9I8BSb6",
+      "parent": "RJpOess77XPb82EqcdaaZ",
       "children": [],
       "data": {},
       "contentHash": "6ce7c3b0acb914922c98ef6636870b0d",
@@ -2894,14 +2902,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 68,
+              "line": 69,
               "column": 3,
-              "offset": 797
+              "offset": 833
             },
             "end": {
-              "line": 68,
+              "line": 69,
               "column": 44,
-              "offset": 838
+              "offset": 874
             },
             "indent": []
           },
@@ -2992,15 +3000,22 @@
           "value": "load-balancing-and-its-different-types",
           "line": 52,
           "column": 0
+        },
+        "build-your-own-async-primitive": {
+          "type": "header",
+          "text": "Build Your own Async Primitive",
+          "value": "build-your-own-async-primitive",
+          "line": 56,
+          "column": 0
         }
       },
       "fname": "tech.system-design",
-      "updated": 1637275006240,
+      "updated": 1637275838084,
       "created": 1637269418874,
-      "parent": "jF9yfS9D7Kjl8t9I8BSb6",
+      "parent": "RJpOess77XPb82EqcdaaZ",
       "children": [],
       "data": {},
-      "contentHash": "1530907b703fe194e16e7bb2baaf75f1",
+      "contentHash": "f635b7bb8b2212b00a070466556a3175",
       "custom": {}
     },
     "RyKoGnbUO5Ero4bXWuDMm": {
@@ -3020,14 +3035,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 22,
+              "line": 23,
               "column": 3,
-              "offset": 253
+              "offset": 289
             },
             "end": {
-              "line": 22,
+              "line": 23,
               "column": 38,
-              "offset": 288
+              "offset": 324
             },
             "indent": []
           },
@@ -3046,14 +3061,14 @@
       "fname": "tech.rust",
       "updated": 1637270612391,
       "created": 1637270598217,
-      "parent": "jF9yfS9D7Kjl8t9I8BSb6",
+      "parent": "RJpOess77XPb82EqcdaaZ",
       "children": [],
       "data": {},
       "contentHash": "2018f35e26c6fe35e8adf14bca969989",
       "custom": {}
     },
-    "dNESs422VMTfrVMaErDhV": {
-      "id": "dNESs422VMTfrVMaErDhV",
+    "C9S5kN0bUUZgLGpI1N6r6": {
+      "id": "C9S5kN0bUUZgLGpI1N6r6",
       "title": "Python",
       "vault": {
         "fsPath": "vault"
@@ -3063,21 +3078,71 @@
       "links": [],
       "anchors": {},
       "fname": "tech.python",
-      "updated": 1637347806165,
-      "created": 1637347806165,
-      "parent": "jF9yfS9D7Kjl8t9I8BSb6",
+      "updated": 1637348828863,
+      "created": 1637277460942,
+      "parent": "RJpOess77XPb82EqcdaaZ",
       "children": [
-        "oCRcC4KhFIF5zGTPusrPV"
+        "prBfGVuKANtWFCPMrCUYc",
+        "x3YMGw4MEl4A7W4yuWCzX"
       ],
       "data": {},
-      "contentHash": "8973634f8b7aefcf6b54e4d633b86c67",
+      "contentHash": "23b887da5fa8b059fbdf45cb4a253c9b",
       "stub": false,
       "custom": {
         "stub": true
       }
     },
-    "oCRcC4KhFIF5zGTPusrPV": {
-      "id": "oCRcC4KhFIF5zGTPusrPV",
+    "x3YMGw4MEl4A7W4yuWCzX": {
+      "id": "x3YMGw4MEl4A7W4yuWCzX",
+      "title": "Nlp",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 3,
+              "offset": 141
+            },
+            "end": {
+              "line": 11,
+              "column": 35,
+              "offset": 173
+            },
+            "indent": []
+          },
+          "value": "tech.python.nlp"
+        }
+      ],
+      "anchors": {
+        "ecco---look-inside-language-models": {
+          "type": "header",
+          "text": "Ecco - Look Inside Language Models",
+          "value": "ecco---look-inside-language-models",
+          "line": 8,
+          "column": 0
+        }
+      },
+      "fname": "tech.python.nlp",
+      "updated": 1637275793073,
+      "created": 1637275774619,
+      "parent": "C9S5kN0bUUZgLGpI1N6r6",
+      "children": [],
+      "data": {},
+      "contentHash": "fb4ba87203b30d4c6e5e097bb0c896f8",
+      "custom": {}
+    },
+    "prBfGVuKANtWFCPMrCUYc": {
+      "id": "prBfGVuKANtWFCPMrCUYc",
       "title": "CLI",
       "vault": {
         "fsPath": "vault"
@@ -3087,14 +3152,14 @@
       "links": [],
       "anchors": {},
       "fname": "tech.python.cli",
-      "updated": 1637347806165,
-      "created": 1637347806165,
-      "parent": "dNESs422VMTfrVMaErDhV",
+      "updated": 1637348813745,
+      "created": 1637277460943,
+      "parent": "C9S5kN0bUUZgLGpI1N6r6",
       "children": [
         "ulIDF3xiWsnEVBi52du6l"
       ],
       "data": {},
-      "contentHash": "b75b4fe69a1aa757cff8a2971b6921f5",
+      "contentHash": "1cb0da6a07aa5064f048bb41fb55f77a",
       "stub": false,
       "custom": {
         "stub": true
@@ -3119,12 +3184,12 @@
             "start": {
               "line": 10,
               "column": 3,
-              "offset": 83
+              "offset": 84
             },
             "end": {
               "line": 10,
               "column": 57,
-              "offset": 137
+              "offset": 138
             },
             "indent": []
           },
@@ -3150,14 +3215,14 @@
       "fname": "tech.python.cli.alembic",
       "updated": 1637261253474,
       "created": 1637261207176,
-      "parent": "oCRcC4KhFIF5zGTPusrPV",
+      "parent": "prBfGVuKANtWFCPMrCUYc",
       "children": [],
       "data": {},
       "contentHash": "1c7e113605fdd99c45b2fdc0c31edf51",
       "custom": {}
     },
-    "qnbwDFMMNLFA9ZJVjnuVM": {
-      "id": "qnbwDFMMNLFA9ZJVjnuVM",
+    "xAEfcJ2NIbVdso8bAm5mC": {
+      "id": "xAEfcJ2NIbVdso8bAm5mC",
       "title": "Postgres",
       "vault": {
         "fsPath": "vault"
@@ -3167,14 +3232,14 @@
       "links": [],
       "anchors": {},
       "fname": "tech.postgres",
-      "updated": 1637347806165,
-      "created": 1637347806165,
-      "parent": "jF9yfS9D7Kjl8t9I8BSb6",
+      "updated": 1637348809733,
+      "created": 1637277460942,
+      "parent": "RJpOess77XPb82EqcdaaZ",
       "children": [
         "k1wzz2lc5jAeXRKyEW775"
       ],
       "data": {},
-      "contentHash": "0fb6ce452219d9cf44701f2632fcda45",
+      "contentHash": "f40e50083ac1b68b047b9a648cc680fd",
       "stub": false,
       "custom": {
         "stub": true
@@ -3197,14 +3262,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 14,
+              "line": 15,
               "column": 3,
-              "offset": 155
+              "offset": 191
             },
             "end": {
-              "line": 14,
+              "line": 15,
               "column": 48,
-              "offset": 200
+              "offset": 236
             },
             "indent": []
           },
@@ -3230,7 +3295,7 @@
       "fname": "tech.postgres.postgis",
       "updated": 1637262376198,
       "created": 1637261807063,
-      "parent": "qnbwDFMMNLFA9ZJVjnuVM",
+      "parent": "xAEfcJ2NIbVdso8bAm5mC",
       "children": [],
       "data": {},
       "contentHash": "364067b95e4af116f9d0d14788ab279b",
@@ -3253,14 +3318,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 32,
+              "line": 33,
               "column": 3,
-              "offset": 417
+              "offset": 453
             },
             "end": {
-              "line": 32,
+              "line": 33,
               "column": 25,
-              "offset": 439
+              "offset": 475
             },
             "indent": []
           },
@@ -3279,7 +3344,7 @@
       "fname": "tech.linux",
       "updated": 1637263577194,
       "created": 1637263227588,
-      "parent": "jF9yfS9D7Kjl8t9I8BSb6",
+      "parent": "RJpOess77XPb82EqcdaaZ",
       "children": [],
       "data": {},
       "contentHash": "313cfe397d992e908c577e5c54ae4976",
@@ -3302,14 +3367,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 36,
+              "line": 37,
               "column": 3,
-              "offset": 459
+              "offset": 495
             },
             "end": {
-              "line": 36,
+              "line": 37,
               "column": 35,
-              "offset": 491
+              "offset": 527
             },
             "indent": []
           },
@@ -3328,7 +3393,7 @@
       "fname": "tech.kubernetes",
       "updated": 1637263346249,
       "created": 1637263320202,
-      "parent": "jF9yfS9D7Kjl8t9I8BSb6",
+      "parent": "RJpOess77XPb82EqcdaaZ",
       "children": [],
       "data": {},
       "contentHash": "fdcba6bd02428d2d86d607ecf34cc59b",
@@ -3351,14 +3416,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 52,
+              "line": 53,
               "column": 3,
-              "offset": 613
+              "offset": 649
             },
             "end": {
-              "line": 52,
+              "line": 53,
               "column": 24,
-              "offset": 634
+              "offset": 670
             },
             "indent": []
           },
@@ -3398,7 +3463,7 @@
       "fname": "tech.git",
       "updated": 1637273140466,
       "created": 1637264636201,
-      "parent": "jF9yfS9D7Kjl8t9I8BSb6",
+      "parent": "RJpOess77XPb82EqcdaaZ",
       "children": [],
       "data": {},
       "contentHash": "7dc9b6d003e146237c178ed7fd694bef",
@@ -3421,14 +3486,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 56,
+              "line": 57,
               "column": 3,
-              "offset": 651
+              "offset": 687
             },
             "end": {
-              "line": 56,
+              "line": 57,
               "column": 32,
-              "offset": 680
+              "offset": 716
             },
             "indent": []
           },
@@ -3447,7 +3512,7 @@
       "fname": "tech.flutter",
       "updated": 1637264900510,
       "created": 1637264826967,
-      "parent": "jF9yfS9D7Kjl8t9I8BSb6",
+      "parent": "RJpOess77XPb82EqcdaaZ",
       "children": [],
       "data": {},
       "contentHash": "bfdb6931d7b58f1c348b44057f44f07b",
@@ -3470,14 +3535,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 40,
+              "line": 41,
               "column": 3,
-              "offset": 507
+              "offset": 543
             },
             "end": {
-              "line": 40,
+              "line": 41,
               "column": 27,
-              "offset": 531
+              "offset": 567
             },
             "indent": []
           },
@@ -3496,7 +3561,7 @@
       "fname": "tech.docker",
       "updated": 1637275164417,
       "created": 1637275148920,
-      "parent": "jF9yfS9D7Kjl8t9I8BSb6",
+      "parent": "RJpOess77XPb82EqcdaaZ",
       "children": [],
       "data": {},
       "contentHash": "fe3952a9c6b644bb417db60313b53711",
@@ -3519,14 +3584,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 44,
+              "line": 45,
               "column": 3,
-              "offset": 544
+              "offset": 580
             },
             "end": {
-              "line": 44,
+              "line": 45,
               "column": 21,
-              "offset": 562
+              "offset": 598
             },
             "indent": []
           },
@@ -3545,14 +3610,14 @@
       "fname": "tech.css",
       "updated": 1637263491921,
       "created": 1637263463148,
-      "parent": "jF9yfS9D7Kjl8t9I8BSb6",
+      "parent": "RJpOess77XPb82EqcdaaZ",
       "children": [],
       "data": {},
       "contentHash": "1dfc4c1113a0003c9e681cfd56aadb54",
       "custom": {}
     },
-    "HGqvRNOsa4iu5Jhujo1PL": {
-      "id": "HGqvRNOsa4iu5Jhujo1PL",
+    "9EUxx2cJ9KVFwxUCdtLBP": {
+      "id": "9EUxx2cJ9KVFwxUCdtLBP",
       "title": "People",
       "vault": {
         "fsPath": "vault"
@@ -3562,15 +3627,15 @@
       "links": [],
       "anchors": {},
       "fname": "people",
-      "updated": 1637347806161,
-      "created": 1637347806161,
+      "updated": 1637348805438,
+      "created": 1637277460939,
       "parent": "root",
       "children": [
         "JSpnaAAzUC7SrmZgOotGy",
         "tX09Y1o2g7HKaSzeD8qgj"
       ],
       "data": {},
-      "contentHash": "9e5d249e530830ba0308e8c30b2190e5",
+      "contentHash": "887a8fdf9d98536e5978c34f1e184049",
       "stub": false,
       "custom": {
         "stub": true
@@ -3593,14 +3658,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 73,
+              "line": 74,
               "column": 3,
-              "offset": 902
+              "offset": 938
             },
             "end": {
-              "line": 73,
+              "line": 74,
               "column": 42,
-              "offset": 941
+              "offset": 977
             },
             "indent": []
           },
@@ -3619,7 +3684,7 @@
       "fname": "people.paul-graham",
       "updated": 1637270808438,
       "created": 1637270794688,
-      "parent": "HGqvRNOsa4iu5Jhujo1PL",
+      "parent": "9EUxx2cJ9KVFwxUCdtLBP",
       "children": [],
       "data": {},
       "contentHash": "e9a6a3093884c1ba913f5057fd87493a",
@@ -3642,14 +3707,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 72,
+              "line": 73,
               "column": 3,
-              "offset": 854
+              "offset": 890
             },
             "end": {
-              "line": 72,
+              "line": 73,
               "column": 48,
-              "offset": 899
+              "offset": 935
             },
             "indent": []
           },
@@ -3675,14 +3740,14 @@
       "fname": "people.leslie-lamport",
       "updated": 1637264451044,
       "created": 1637264318022,
-      "parent": "HGqvRNOsa4iu5Jhujo1PL",
+      "parent": "9EUxx2cJ9KVFwxUCdtLBP",
       "children": [],
       "data": {},
       "contentHash": "26fb7e894c8d2a36991e94ea45c51843",
       "custom": {}
     },
-    "FifBSEJTSes6vGG9o4ouk": {
-      "id": "FifBSEJTSes6vGG9o4ouk",
+    "pe3x04h2NkAPH0UrRQz6D": {
+      "id": "pe3x04h2NkAPH0UrRQz6D",
       "title": "Hobbies",
       "vault": {
         "fsPath": "vault"
@@ -3692,14 +3757,14 @@
       "links": [],
       "anchors": {},
       "fname": "hobbies",
-      "updated": 1637347806161,
-      "created": 1637347806161,
+      "updated": 1637348803263,
+      "created": 1637277460939,
       "parent": "root",
       "children": [
         "urfbs2lJqysEs7lqmcOEG"
       ],
       "data": {},
-      "contentHash": "abe0b53ae7bda3e124152cf4cda07204",
+      "contentHash": "91798683f46138abe7fbdd5f39d9d42d",
       "stub": false,
       "custom": {
         "stub": true
@@ -3722,14 +3787,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 77,
+              "line": 78,
               "column": 3,
-              "offset": 958
+              "offset": 994
             },
             "end": {
-              "line": 77,
+              "line": 78,
               "column": 37,
-              "offset": 992
+              "offset": 1028
             },
             "indent": []
           },
@@ -3755,14 +3820,14 @@
       "fname": "hobbies.bicycling",
       "updated": 1637269951185,
       "created": 1637269874373,
-      "parent": "FifBSEJTSes6vGG9o4ouk",
+      "parent": "pe3x04h2NkAPH0UrRQz6D",
       "children": [],
       "data": {},
       "contentHash": "a2e42eb398a4222e1ba315b8b33465bc",
       "custom": {}
     },
-    "3oJn9Eln0V7XDr8TkFkkQ": {
-      "id": "3oJn9Eln0V7XDr8TkFkkQ",
+    "wwRDiMzRtEn3Oa7bkwKW6": {
+      "id": "wwRDiMzRtEn3Oa7bkwKW6",
       "title": "Domains",
       "vault": {
         "fsPath": "vault"
@@ -3772,14 +3837,14 @@
       "links": [],
       "anchors": {},
       "fname": "domains",
-      "updated": 1637347806161,
-      "created": 1637347806161,
+      "updated": 1637348800827,
+      "created": 1637277460938,
       "parent": "root",
       "children": [
         "pEi5UIsdJOiNsujSr4VAc"
       ],
       "data": {},
-      "contentHash": "736223cb0d93529b3dfd2229783f530f",
+      "contentHash": "c86d459ace27ce466868c6a6b632a9f1",
       "stub": false,
       "custom": {
         "stub": true
@@ -3802,14 +3867,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 92,
+              "line": 93,
               "column": 3,
-              "offset": 1472
+              "offset": 1508
             },
             "end": {
-              "line": 92,
+              "line": 93,
               "column": 25,
-              "offset": 1494
+              "offset": 1530
             },
             "indent": []
           },
@@ -3842,14 +3907,14 @@
       "fname": "domains.ux",
       "updated": 1637274827790,
       "created": 1637271136261,
-      "parent": "3oJn9Eln0V7XDr8TkFkkQ",
+      "parent": "wwRDiMzRtEn3Oa7bkwKW6",
       "children": [],
       "data": {},
       "contentHash": "ba5d88609af9c515f608e6924ce4094f",
       "custom": {}
     },
-    "sxkOuXGlFYLBSPMSWac9e": {
-      "id": "sxkOuXGlFYLBSPMSWac9e",
+    "nQ25lsPGG0GZgyiC9mRNT": {
+      "id": "nQ25lsPGG0GZgyiC9mRNT",
       "title": "Domain",
       "vault": {
         "fsPath": "vault"
@@ -3859,8 +3924,8 @@
       "links": [],
       "anchors": {},
       "fname": "domain",
-      "updated": 1637347806158,
-      "created": 1637347806158,
+      "updated": 1637348798532,
+      "created": 1637277460936,
       "parent": "root",
       "children": [
         "rqDqNoAlQVPWvkqGhyMYP",
@@ -3885,7 +3950,7 @@
         "Fiz1kXocGeMXMFmFvPDSS"
       ],
       "data": {},
-      "contentHash": "efe6554368dea12fb321be8c9e48b4b0",
+      "contentHash": "b48ef746f3e3db3f5411f2a582f7a170",
       "stub": false,
       "custom": {
         "stub": true
@@ -3908,14 +3973,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 101,
+              "line": 102,
               "column": 3,
-              "offset": 1799
+              "offset": 1835
             },
             "end": {
-              "line": 101,
+              "line": 102,
               "column": 34,
-              "offset": 1830
+              "offset": 1866
             },
             "indent": []
           },
@@ -3941,7 +4006,7 @@
       "fname": "domain.writing",
       "updated": 1637274589319,
       "created": 1637274354200,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "e93e00f77446e59f34d16a20b276c5ee",
@@ -4020,14 +4085,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 84,
+              "line": 85,
               "column": 3,
-              "offset": 1135
+              "offset": 1171
             },
             "end": {
-              "line": 84,
+              "line": 85,
               "column": 34,
-              "offset": 1166
+              "offset": 1202
             },
             "indent": []
           },
@@ -4158,7 +4223,7 @@
       "fname": "domain.systems",
       "updated": 1637274907997,
       "created": 1637263138122,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [
         "PTiR4arCSWkrmbiSHsxA3",
         "gYF8Zzt18BV5OpCV8KDb0"
@@ -4380,14 +4445,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 100,
+              "line": 101,
               "column": 3,
-              "offset": 1749
+              "offset": 1785
             },
             "end": {
-              "line": 100,
+              "line": 101,
               "column": 50,
-              "offset": 1796
+              "offset": 1832
             },
             "indent": []
           },
@@ -4427,7 +4492,7 @@
       "fname": "domain.software-design",
       "updated": 1637273915120,
       "created": 1637273500517,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "cbc44b40533039ad1bdf1857a5c1b1be",
@@ -4450,14 +4515,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 82,
+              "line": 83,
               "column": 3,
-              "offset": 1057
+              "offset": 1093
             },
             "end": {
-              "line": 82,
+              "line": 83,
               "column": 38,
-              "offset": 1092
+              "offset": 1128
             },
             "indent": []
           },
@@ -4476,7 +4541,7 @@
       "fname": "domain.reversing",
       "updated": 1637263559114,
       "created": 1637262976209,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "8b6792fa6e6f10744992fd755519c21b",
@@ -4499,14 +4564,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 88,
+              "line": 89,
               "column": 3,
-              "offset": 1302
+              "offset": 1338
             },
             "end": {
-              "line": 88,
+              "line": 89,
               "column": 40,
-              "offset": 1339
+              "offset": 1375
             },
             "indent": []
           },
@@ -4525,7 +4590,7 @@
       "fname": "domain.relativity",
       "updated": 1637264779787,
       "created": 1637264765498,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "a632466a78d6dcfc75e755e1c2bc5a0f",
@@ -4548,14 +4613,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 83,
+              "line": 84,
               "column": 3,
-              "offset": 1095
+              "offset": 1131
             },
             "end": {
-              "line": 83,
+              "line": 84,
               "column": 40,
-              "offset": 1132
+              "offset": 1168
             },
             "indent": []
           },
@@ -4574,7 +4639,7 @@
       "fname": "domain.recruiting",
       "updated": 1637263562050,
       "created": 1637263047943,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "76e7e8873626a45c8022741cd39529be",
@@ -4597,14 +4662,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 81,
+              "line": 82,
               "column": 3,
-              "offset": 1009
+              "offset": 1045
             },
             "end": {
-              "line": 81,
+              "line": 82,
               "column": 48,
-              "offset": 1054
+              "offset": 1090
             },
             "indent": []
           },
@@ -4623,7 +4688,7 @@
       "fname": "domain.queuing-theory",
       "updated": 1637263568983,
       "created": 1637262906361,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "2cb390b64ee74132611e2b0950536e20",
@@ -4646,14 +4711,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 86,
+              "line": 87,
               "column": 3,
-              "offset": 1209
+              "offset": 1245
             },
             "end": {
-              "line": 86,
+              "line": 87,
               "column": 43,
-              "offset": 1249
+              "offset": 1285
             },
             "indent": []
           },
@@ -4686,7 +4751,7 @@
       "fname": "domain.probability",
       "updated": 1637271076402,
       "created": 1637264031910,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "851eaae445fccf5164e0c31c7544b2c5",
@@ -4709,14 +4774,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 96,
+              "line": 97,
               "column": 3,
-              "offset": 1597
+              "offset": 1633
             },
             "end": {
-              "line": 96,
+              "line": 97,
               "column": 34,
-              "offset": 1628
+              "offset": 1664
             },
             "indent": []
           },
@@ -4735,7 +4800,7 @@
       "fname": "domain.privacy",
       "updated": 1637272621115,
       "created": 1637272561394,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "f4fae0165488c9a8313e12bf857a0df1",
@@ -4758,14 +4823,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 97,
+              "line": 98,
               "column": 3,
-              "offset": 1631
+              "offset": 1667
             },
             "end": {
-              "line": 97,
+              "line": 98,
               "column": 40,
-              "offset": 1668
+              "offset": 1704
             },
             "indent": []
           },
@@ -4798,7 +4863,7 @@
       "fname": "domain.philosophy",
       "updated": 1637273261516,
       "created": 1637272695330,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "48906d9b93b762cd910d45602267f009",
@@ -4821,14 +4886,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 90,
+              "line": 91,
               "column": 3,
-              "offset": 1384
+              "offset": 1420
             },
             "end": {
-              "line": 90,
+              "line": 91,
               "column": 52,
-              "offset": 1433
+              "offset": 1469
             },
             "indent": []
           },
@@ -4868,7 +4933,7 @@
       "fname": "domain.personal-finance",
       "updated": 1637271805207,
       "created": 1637265097856,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "6a6cdecd7eb7ae3910d3b3250e12ac48",
@@ -4891,14 +4956,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 98,
+              "line": 99,
               "column": 3,
-              "offset": 1671
+              "offset": 1707
             },
             "end": {
-              "line": 98,
+              "line": 99,
               "column": 46,
-              "offset": 1714
+              "offset": 1750
             },
             "indent": []
           },
@@ -4917,7 +4982,7 @@
       "fname": "domain.mental-health",
       "updated": 1637273023204,
       "created": 1637273002076,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "8ff528f3792c62945d986c070d743e59",
@@ -4996,14 +5061,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 95,
+              "line": 96,
               "column": 3,
-              "offset": 1569
+              "offset": 1605
             },
             "end": {
-              "line": 95,
+              "line": 96,
               "column": 28,
-              "offset": 1594
+              "offset": 1630
             },
             "indent": []
           },
@@ -5022,7 +5087,7 @@
       "fname": "domain.math",
       "updated": 1637272144274,
       "created": 1637272024443,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "93c52c763e1e421382f4b12ffdbb74ad",
@@ -5045,14 +5110,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 93,
+              "line": 94,
               "column": 3,
-              "offset": 1497
+              "offset": 1533
             },
             "end": {
-              "line": 93,
+              "line": 94,
               "column": 36,
-              "offset": 1530
+              "offset": 1566
             },
             "indent": []
           },
@@ -5071,7 +5136,7 @@
       "fname": "domain.graphics",
       "updated": 1637271558205,
       "created": 1637271538567,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "2b6f07434c526f1918d60780a39a45b3",
@@ -5094,14 +5159,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 89,
+              "line": 90,
               "column": 3,
-              "offset": 1342
+              "offset": 1378
             },
             "end": {
-              "line": 89,
+              "line": 90,
               "column": 42,
-              "offset": 1381
+              "offset": 1417
             },
             "indent": []
           },
@@ -5120,7 +5185,7 @@
       "fname": "domain.game-theory",
       "updated": 1637265052679,
       "created": 1637265037441,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "b8583f046947a8bc587441e4ff2e1416",
@@ -5143,14 +5208,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 85,
+              "line": 86,
               "column": 3,
-              "offset": 1169
+              "offset": 1205
             },
             "end": {
-              "line": 85,
+              "line": 86,
               "column": 40,
-              "offset": 1206
+              "offset": 1242
             },
             "indent": []
           },
@@ -5169,7 +5234,7 @@
       "fname": "domain.functional",
       "updated": 1637263411123,
       "created": 1637263394535,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "3f0945ce421d3ac6f84c90d04573cfd5",
@@ -5192,14 +5257,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 99,
+              "line": 100,
               "column": 3,
-              "offset": 1717
+              "offset": 1753
             },
             "end": {
-              "line": 99,
+              "line": 100,
               "column": 32,
-              "offset": 1746
+              "offset": 1782
             },
             "indent": []
           },
@@ -5218,7 +5283,7 @@
       "fname": "domain.crypto",
       "updated": 1637273208228,
       "created": 1637273201211,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "260017f96f177d61b184500560979712",
@@ -5241,14 +5306,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 87,
+              "line": 88,
               "column": 3,
-              "offset": 1252
+              "offset": 1288
             },
             "end": {
-              "line": 87,
+              "line": 88,
               "column": 50,
-              "offset": 1299
+              "offset": 1335
             },
             "indent": []
           },
@@ -5288,7 +5353,7 @@
       "fname": "domain.category-theory",
       "updated": 1637264570728,
       "created": 1637264552352,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "5c7835ce350617cc51bb0fd5c3a8c585",
@@ -5311,14 +5376,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 91,
+              "line": 92,
               "column": 3,
-              "offset": 1436
+              "offset": 1472
             },
             "end": {
-              "line": 91,
+              "line": 92,
               "column": 36,
-              "offset": 1469
+              "offset": 1505
             },
             "indent": []
           },
@@ -5358,7 +5423,7 @@
       "fname": "domain.calculus",
       "updated": 1637269611301,
       "created": 1637269593799,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "80f420edceb4b2afa868ce7c91cfa0d7",
@@ -5381,14 +5446,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 94,
+              "line": 95,
               "column": 3,
-              "offset": 1533
+              "offset": 1569
             },
             "end": {
-              "line": 94,
+              "line": 95,
               "column": 36,
-              "offset": 1566
+              "offset": 1602
             },
             "indent": []
           },
@@ -5414,14 +5479,14 @@
       "fname": "domain.business",
       "updated": 1637273105403,
       "created": 1637271879534,
-      "parent": "sxkOuXGlFYLBSPMSWac9e",
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
       "children": [],
       "data": {},
       "contentHash": "356c2ac5c3e5f93403dcb782bf4a60ac",
       "custom": {}
     },
-    "zFbFDs6pv5RY831x0SyhF": {
-      "id": "zFbFDs6pv5RY831x0SyhF",
+    "9yagloTeRMuQzmsgNiiUb": {
+      "id": "9yagloTeRMuQzmsgNiiUb",
       "title": "CLI",
       "vault": {
         "fsPath": "vault"
@@ -5431,14 +5496,14 @@
       "links": [],
       "anchors": {},
       "fname": "cli",
-      "updated": 1637347806158,
-      "created": 1637347806158,
+      "updated": 1637348796255,
+      "created": 1637277460936,
       "parent": "root",
       "children": [
         "skuK3wKzCehUeboW5rWfq"
       ],
       "data": {},
-      "contentHash": "3378a1d00694ff38dffb617286725059",
+      "contentHash": "e08fb7cdf813b2371cf275385f6ecf12",
       "stub": false,
       "custom": {
         "stub": true
@@ -5461,14 +5526,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 18,
+              "line": 19,
               "column": 3,
-              "offset": 213
+              "offset": 249
             },
             "end": {
-              "line": 18,
+              "line": 19,
               "column": 29,
-              "offset": 239
+              "offset": 275
             },
             "indent": []
           },
@@ -5494,14 +5559,14 @@
       "fname": "cli.gis",
       "updated": 1637261628763,
       "created": 1637261483839,
-      "parent": "zFbFDs6pv5RY831x0SyhF",
+      "parent": "9yagloTeRMuQzmsgNiiUb",
       "children": [],
       "data": {},
       "contentHash": "04c229fce7f99f1f066befd684b84822",
       "custom": {}
     },
-    "SMiVTLvKozmt8sNBHzDuA": {
-      "id": "SMiVTLvKozmt8sNBHzDuA",
+    "GjDkFgEr5m9r6SxocL0J9": {
+      "id": "GjDkFgEr5m9r6SxocL0J9",
       "title": "Books",
       "vault": {
         "fsPath": "vault"
@@ -5511,14 +5576,14 @@
       "links": [],
       "anchors": {},
       "fname": "books",
-      "updated": 1637347806157,
-      "created": 1637347806157,
+      "updated": 1637348793135,
+      "created": 1637277460936,
       "parent": "root",
       "children": [
         "rCCbU6JgFk3nnkyXrVMSs"
       ],
       "data": {},
-      "contentHash": "501db06c587352dc8e19dbf9964f9af3",
+      "contentHash": "c4b9e69c5c72bbf54ddbde9d6395dc1d",
       "stub": false,
       "custom": {
         "stub": true
@@ -5625,19 +5690,26 @@
           "value": "computer-graphics-from-scratch",
           "line": 44,
           "column": 0
+        },
+        "algorithms-for-decision-making": {
+          "type": "header",
+          "text": "Algorithms for Decision Making",
+          "value": "algorithms-for-decision-making",
+          "line": 48,
+          "column": 0
         }
       },
       "fname": "books.tech",
-      "updated": 1637274864828,
+      "updated": 1637275687555,
       "created": 1637270292899,
-      "parent": "SMiVTLvKozmt8sNBHzDuA",
+      "parent": "GjDkFgEr5m9r6SxocL0J9",
       "children": [],
       "data": {},
-      "contentHash": "2a694994632c473daeee5954dabbf082",
+      "contentHash": "eb2e3223f8433ced994cc3559027f00e",
       "custom": {}
     },
-    "k5L85en4ZpgmnWbwy6Vyy": {
-      "id": "k5L85en4ZpgmnWbwy6Vyy",
+    "HmH3P1d4H7612LlIXHnCC": {
+      "id": "HmH3P1d4H7612LlIXHnCC",
       "title": "Algo",
       "vault": {
         "fsPath": "vault"
@@ -5647,14 +5719,14 @@
       "links": [],
       "anchors": {},
       "fname": "algo",
-      "updated": 1637347806157,
-      "created": 1637347806157,
+      "updated": 1637348790128,
+      "created": 1637277460935,
       "parent": "root",
       "children": [
         "rYQt8aiZwtMNzT2ARlEKA"
       ],
       "data": {},
-      "contentHash": "56d978af0874f2ad336116b887bfacee",
+      "contentHash": "96b028d72b6f48c5b3acabe021a2a7cb",
       "stub": false,
       "custom": {
         "stub": true
@@ -5677,14 +5749,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 28,
+              "line": 29,
               "column": 3,
-              "offset": 356
+              "offset": 392
             },
             "end": {
-              "line": 28,
+              "line": 29,
               "column": 49,
-              "offset": 402
+              "offset": 438
             },
             "indent": []
           },
@@ -5745,7 +5817,7 @@
       "fname": "algo.ds",
       "updated": 1637274262637,
       "created": 1637270139292,
-      "parent": "k5L85en4ZpgmnWbwy6Vyy",
+      "parent": "HmH3P1d4H7612LlIXHnCC",
       "children": [],
       "data": {},
       "contentHash": "61960bd6d169afccb831d5a1108db36b",
@@ -5797,45 +5869,18 @@
             "id": "root",
             "vaultName": "vault"
           },
-          "value": "tags.Python",
-          "alias": "#Python",
-          "position": {
-            "start": {
-              "line": 8,
-              "column": 3,
-              "offset": 72
-            },
-            "end": {
-              "line": 8,
-              "column": 10,
-              "offset": 79
-            },
-            "indent": []
-          },
-          "xvault": false,
-          "to": {
-            "fname": "tags.Python"
-          }
-        },
-        {
-          "type": "wiki",
-          "from": {
-            "fname": "root",
-            "id": "root",
-            "vaultName": "vault"
-          },
           "value": "tech.python.cli.alembic",
           "alias": "Python specific commands",
           "position": {
             "start": {
               "line": 10,
               "column": 3,
-              "offset": 83
+              "offset": 84
             },
             "end": {
               "line": 10,
               "column": 57,
-              "offset": 137
+              "offset": 138
             },
             "indent": []
           },
@@ -5852,18 +5897,46 @@
             "id": "root",
             "vaultName": "vault"
           },
+          "value": "tech.python.nlp",
+          "alias": "Python NLP",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 3,
+              "offset": 141
+            },
+            "end": {
+              "line": 11,
+              "column": 35,
+              "offset": 173
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tech.python.nlp"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "root",
+            "vaultName": "vault"
+          },
           "value": "tech.postgres.postgis",
           "alias": "Postgis extension",
           "position": {
             "start": {
-              "line": 14,
+              "line": 15,
               "column": 3,
-              "offset": 155
+              "offset": 191
             },
             "end": {
-              "line": 14,
+              "line": 15,
               "column": 48,
-              "offset": 200
+              "offset": 236
             },
             "indent": []
           },
@@ -5884,14 +5957,14 @@
           "alias": "GIS commands",
           "position": {
             "start": {
-              "line": 18,
+              "line": 19,
               "column": 3,
-              "offset": 213
+              "offset": 249
             },
             "end": {
-              "line": 18,
+              "line": 19,
               "column": 29,
-              "offset": 239
+              "offset": 275
             },
             "indent": []
           },
@@ -5912,14 +5985,14 @@
           "alias": "Rust First Steps",
           "position": {
             "start": {
-              "line": 22,
+              "line": 23,
               "column": 3,
-              "offset": 253
+              "offset": 289
             },
             "end": {
-              "line": 22,
+              "line": 23,
               "column": 38,
-              "offset": 288
+              "offset": 324
             },
             "indent": []
           },
@@ -5940,14 +6013,14 @@
           "alias": "Data Structure Visualizations",
           "position": {
             "start": {
-              "line": 28,
+              "line": 29,
               "column": 3,
-              "offset": 356
+              "offset": 392
             },
             "end": {
-              "line": 28,
+              "line": 29,
               "column": 49,
-              "offset": 402
+              "offset": 438
             },
             "indent": []
           },
@@ -5968,14 +6041,14 @@
           "alias": "Linux",
           "position": {
             "start": {
-              "line": 32,
+              "line": 33,
               "column": 3,
-              "offset": 417
+              "offset": 453
             },
             "end": {
-              "line": 32,
+              "line": 33,
               "column": 25,
-              "offset": 439
+              "offset": 475
             },
             "indent": []
           },
@@ -5996,14 +6069,14 @@
           "alias": "Kubernetes",
           "position": {
             "start": {
-              "line": 36,
+              "line": 37,
               "column": 3,
-              "offset": 459
+              "offset": 495
             },
             "end": {
-              "line": 36,
+              "line": 37,
               "column": 35,
-              "offset": 491
+              "offset": 527
             },
             "indent": []
           },
@@ -6024,14 +6097,14 @@
           "alias": "Docker",
           "position": {
             "start": {
-              "line": 40,
+              "line": 41,
               "column": 3,
-              "offset": 507
+              "offset": 543
             },
             "end": {
-              "line": 40,
+              "line": 41,
               "column": 27,
-              "offset": 531
+              "offset": 567
             },
             "indent": []
           },
@@ -6052,14 +6125,14 @@
           "alias": "CSS",
           "position": {
             "start": {
-              "line": 44,
+              "line": 45,
               "column": 3,
-              "offset": 544
+              "offset": 580
             },
             "end": {
-              "line": 44,
+              "line": 45,
               "column": 21,
-              "offset": 562
+              "offset": 598
             },
             "indent": []
           },
@@ -6080,14 +6153,14 @@
           "alias": "Web 3",
           "position": {
             "start": {
-              "line": 48,
+              "line": 49,
               "column": 3,
-              "offset": 576
+              "offset": 612
             },
             "end": {
-              "line": 48,
+              "line": 49,
               "column": 27,
-              "offset": 600
+              "offset": 636
             },
             "indent": []
           },
@@ -6108,14 +6181,14 @@
           "alias": "Git",
           "position": {
             "start": {
-              "line": 52,
+              "line": 53,
               "column": 3,
-              "offset": 613
+              "offset": 649
             },
             "end": {
-              "line": 52,
+              "line": 53,
               "column": 24,
-              "offset": 634
+              "offset": 670
             },
             "indent": []
           },
@@ -6136,14 +6209,14 @@
           "alias": "Flutter",
           "position": {
             "start": {
-              "line": 56,
+              "line": 57,
               "column": 3,
-              "offset": 651
+              "offset": 687
             },
             "end": {
-              "line": 56,
+              "line": 57,
               "column": 32,
-              "offset": 680
+              "offset": 716
             },
             "indent": []
           },
@@ -6164,14 +6237,14 @@
           "alias": "Web Assembly",
           "position": {
             "start": {
-              "line": 60,
+              "line": 61,
               "column": 3,
-              "offset": 702
+              "offset": 738
             },
             "end": {
-              "line": 60,
+              "line": 61,
               "column": 34,
-              "offset": 733
+              "offset": 769
             },
             "indent": []
           },
@@ -6192,14 +6265,14 @@
           "alias": "Tools",
           "position": {
             "start": {
-              "line": 64,
+              "line": 65,
               "column": 3,
-              "offset": 748
+              "offset": 784
             },
             "end": {
-              "line": 64,
+              "line": 65,
               "column": 28,
-              "offset": 773
+              "offset": 809
             },
             "indent": []
           },
@@ -6220,14 +6293,14 @@
           "alias": "System Design",
           "position": {
             "start": {
-              "line": 68,
+              "line": 69,
               "column": 3,
-              "offset": 797
+              "offset": 833
             },
             "end": {
-              "line": 68,
+              "line": 69,
               "column": 44,
-              "offset": 838
+              "offset": 874
             },
             "indent": []
           },
@@ -6248,14 +6321,14 @@
           "alias": "Leslie Lamport",
           "position": {
             "start": {
-              "line": 72,
+              "line": 73,
               "column": 3,
-              "offset": 854
+              "offset": 890
             },
             "end": {
-              "line": 72,
+              "line": 73,
               "column": 48,
-              "offset": 899
+              "offset": 935
             },
             "indent": []
           },
@@ -6276,14 +6349,14 @@
           "alias": "Paul Graham",
           "position": {
             "start": {
-              "line": 73,
+              "line": 74,
               "column": 3,
-              "offset": 902
+              "offset": 938
             },
             "end": {
-              "line": 73,
+              "line": 74,
               "column": 42,
-              "offset": 941
+              "offset": 977
             },
             "indent": []
           },
@@ -6304,14 +6377,14 @@
           "alias": "Hobbies",
           "position": {
             "start": {
-              "line": 77,
+              "line": 78,
               "column": 3,
-              "offset": 958
+              "offset": 994
             },
             "end": {
-              "line": 77,
+              "line": 78,
               "column": 37,
-              "offset": 992
+              "offset": 1028
             },
             "indent": []
           },
@@ -6332,14 +6405,14 @@
           "alias": "Queuing Theory",
           "position": {
             "start": {
-              "line": 81,
+              "line": 82,
               "column": 3,
-              "offset": 1009
+              "offset": 1045
             },
             "end": {
-              "line": 81,
+              "line": 82,
               "column": 48,
-              "offset": 1054
+              "offset": 1090
             },
             "indent": []
           },
@@ -6360,14 +6433,14 @@
           "alias": "Reversing",
           "position": {
             "start": {
-              "line": 82,
+              "line": 83,
               "column": 3,
-              "offset": 1057
+              "offset": 1093
             },
             "end": {
-              "line": 82,
+              "line": 83,
               "column": 38,
-              "offset": 1092
+              "offset": 1128
             },
             "indent": []
           },
@@ -6388,14 +6461,14 @@
           "alias": "Recruiting",
           "position": {
             "start": {
-              "line": 83,
+              "line": 84,
               "column": 3,
-              "offset": 1095
+              "offset": 1131
             },
             "end": {
-              "line": 83,
+              "line": 84,
               "column": 40,
-              "offset": 1132
+              "offset": 1168
             },
             "indent": []
           },
@@ -6416,14 +6489,14 @@
           "alias": "Systems",
           "position": {
             "start": {
-              "line": 84,
+              "line": 85,
               "column": 3,
-              "offset": 1135
+              "offset": 1171
             },
             "end": {
-              "line": 84,
+              "line": 85,
               "column": 34,
-              "offset": 1166
+              "offset": 1202
             },
             "indent": []
           },
@@ -6444,14 +6517,14 @@
           "alias": "Functional",
           "position": {
             "start": {
-              "line": 85,
+              "line": 86,
               "column": 3,
-              "offset": 1169
+              "offset": 1205
             },
             "end": {
-              "line": 85,
+              "line": 86,
               "column": 40,
-              "offset": 1206
+              "offset": 1242
             },
             "indent": []
           },
@@ -6472,14 +6545,14 @@
           "alias": "Probability",
           "position": {
             "start": {
-              "line": 86,
+              "line": 87,
               "column": 3,
-              "offset": 1209
+              "offset": 1245
             },
             "end": {
-              "line": 86,
+              "line": 87,
               "column": 43,
-              "offset": 1249
+              "offset": 1285
             },
             "indent": []
           },
@@ -6500,14 +6573,14 @@
           "alias": "Category Theory",
           "position": {
             "start": {
-              "line": 87,
+              "line": 88,
               "column": 3,
-              "offset": 1252
+              "offset": 1288
             },
             "end": {
-              "line": 87,
+              "line": 88,
               "column": 50,
-              "offset": 1299
+              "offset": 1335
             },
             "indent": []
           },
@@ -6528,14 +6601,14 @@
           "alias": "Relativity",
           "position": {
             "start": {
-              "line": 88,
+              "line": 89,
               "column": 3,
-              "offset": 1302
+              "offset": 1338
             },
             "end": {
-              "line": 88,
+              "line": 89,
               "column": 40,
-              "offset": 1339
+              "offset": 1375
             },
             "indent": []
           },
@@ -6556,14 +6629,14 @@
           "alias": "Game Theory",
           "position": {
             "start": {
-              "line": 89,
+              "line": 90,
               "column": 3,
-              "offset": 1342
+              "offset": 1378
             },
             "end": {
-              "line": 89,
+              "line": 90,
               "column": 42,
-              "offset": 1381
+              "offset": 1417
             },
             "indent": []
           },
@@ -6584,14 +6657,14 @@
           "alias": "Personal Finance",
           "position": {
             "start": {
-              "line": 90,
+              "line": 91,
               "column": 3,
-              "offset": 1384
+              "offset": 1420
             },
             "end": {
-              "line": 90,
+              "line": 91,
               "column": 52,
-              "offset": 1433
+              "offset": 1469
             },
             "indent": []
           },
@@ -6612,14 +6685,14 @@
           "alias": "Calculus",
           "position": {
             "start": {
-              "line": 91,
+              "line": 92,
               "column": 3,
-              "offset": 1436
+              "offset": 1472
             },
             "end": {
-              "line": 91,
+              "line": 92,
               "column": 36,
-              "offset": 1469
+              "offset": 1505
             },
             "indent": []
           },
@@ -6640,14 +6713,14 @@
           "alias": "UX",
           "position": {
             "start": {
-              "line": 92,
+              "line": 93,
               "column": 3,
-              "offset": 1472
+              "offset": 1508
             },
             "end": {
-              "line": 92,
+              "line": 93,
               "column": 25,
-              "offset": 1494
+              "offset": 1530
             },
             "indent": []
           },
@@ -6668,14 +6741,14 @@
           "alias": "Graphics",
           "position": {
             "start": {
-              "line": 93,
+              "line": 94,
               "column": 3,
-              "offset": 1497
+              "offset": 1533
             },
             "end": {
-              "line": 93,
+              "line": 94,
               "column": 36,
-              "offset": 1530
+              "offset": 1566
             },
             "indent": []
           },
@@ -6696,14 +6769,14 @@
           "alias": "Business",
           "position": {
             "start": {
-              "line": 94,
+              "line": 95,
               "column": 3,
-              "offset": 1533
+              "offset": 1569
             },
             "end": {
-              "line": 94,
+              "line": 95,
               "column": 36,
-              "offset": 1566
+              "offset": 1602
             },
             "indent": []
           },
@@ -6724,14 +6797,14 @@
           "alias": "Math",
           "position": {
             "start": {
-              "line": 95,
+              "line": 96,
               "column": 3,
-              "offset": 1569
+              "offset": 1605
             },
             "end": {
-              "line": 95,
+              "line": 96,
               "column": 28,
-              "offset": 1594
+              "offset": 1630
             },
             "indent": []
           },
@@ -6752,14 +6825,14 @@
           "alias": "Privacy",
           "position": {
             "start": {
-              "line": 96,
+              "line": 97,
               "column": 3,
-              "offset": 1597
+              "offset": 1633
             },
             "end": {
-              "line": 96,
+              "line": 97,
               "column": 34,
-              "offset": 1628
+              "offset": 1664
             },
             "indent": []
           },
@@ -6780,14 +6853,14 @@
           "alias": "Philosophy",
           "position": {
             "start": {
-              "line": 97,
+              "line": 98,
               "column": 3,
-              "offset": 1631
+              "offset": 1667
             },
             "end": {
-              "line": 97,
+              "line": 98,
               "column": 40,
-              "offset": 1668
+              "offset": 1704
             },
             "indent": []
           },
@@ -6808,14 +6881,14 @@
           "alias": "Mental Health",
           "position": {
             "start": {
-              "line": 98,
+              "line": 99,
               "column": 3,
-              "offset": 1671
+              "offset": 1707
             },
             "end": {
-              "line": 98,
+              "line": 99,
               "column": 46,
-              "offset": 1714
+              "offset": 1750
             },
             "indent": []
           },
@@ -6836,14 +6909,14 @@
           "alias": "Crypto",
           "position": {
             "start": {
-              "line": 99,
+              "line": 100,
               "column": 3,
-              "offset": 1717
+              "offset": 1753
             },
             "end": {
-              "line": 99,
+              "line": 100,
               "column": 32,
-              "offset": 1746
+              "offset": 1782
             },
             "indent": []
           },
@@ -6864,14 +6937,14 @@
           "alias": "Software Design",
           "position": {
             "start": {
-              "line": 100,
+              "line": 101,
               "column": 3,
-              "offset": 1749
+              "offset": 1785
             },
             "end": {
-              "line": 100,
+              "line": 101,
               "column": 50,
-              "offset": 1796
+              "offset": 1832
             },
             "indent": []
           },
@@ -6892,14 +6965,14 @@
           "alias": "Writing",
           "position": {
             "start": {
-              "line": 101,
+              "line": 102,
               "column": 3,
-              "offset": 1799
+              "offset": 1835
             },
             "end": {
-              "line": 101,
+              "line": 102,
               "column": 34,
-              "offset": 1830
+              "offset": 1866
             },
             "indent": []
           },
@@ -6918,149 +6991,156 @@
           "line": 11,
           "column": 0
         },
+        "python": {
+          "type": "header",
+          "text": "Python",
+          "value": "python",
+          "line": 15,
+          "column": 0
+        },
         "postgres": {
           "type": "header",
           "text": "Postgres",
           "value": "postgres",
-          "line": 19,
+          "line": 20,
           "column": 0
         },
         "gis": {
           "type": "header",
           "text": "GIS",
           "value": "gis",
-          "line": 23,
+          "line": 24,
           "column": 0
         },
         "rust": {
           "type": "header",
           "text": "Rust",
           "value": "rust",
-          "line": 27,
+          "line": 28,
           "column": 0
         },
         "algorithms--data-structures": {
           "type": "header",
           "text": "Algorithms & Data Structures",
           "value": "algorithms--data-structures",
-          "line": 31,
+          "line": 32,
           "column": 0
         },
         "linux": {
           "type": "header",
           "text": "Linux",
           "value": "linux",
-          "line": 37,
+          "line": 38,
           "column": 0
         },
         "kubernetes": {
           "type": "header",
           "text": "Kubernetes",
           "value": "kubernetes",
-          "line": 41,
+          "line": 42,
           "column": 0
         },
         "docker": {
           "type": "header",
           "text": "Docker",
           "value": "docker",
-          "line": 45,
+          "line": 46,
           "column": 0
         },
         "css": {
           "type": "header",
           "text": "CSS",
           "value": "css",
-          "line": 49,
+          "line": 50,
           "column": 0
         },
         "web3": {
           "type": "header",
           "text": "Web3",
           "value": "web3",
-          "line": 53,
+          "line": 54,
           "column": 0
         },
         "git": {
           "type": "header",
           "text": "Git",
           "value": "git",
-          "line": 57,
+          "line": 58,
           "column": 0
         },
         "flutter": {
           "type": "header",
           "text": "Flutter",
           "value": "flutter",
-          "line": 61,
+          "line": 62,
           "column": 0
         },
         "web-assembly": {
           "type": "header",
           "text": "Web Assembly",
           "value": "web-assembly",
-          "line": 65,
+          "line": 66,
           "column": 0
         },
         "tools": {
           "type": "header",
           "text": "Tools",
           "value": "tools",
-          "line": 69,
+          "line": 70,
           "column": 0
         },
         "system-design": {
           "type": "header",
           "text": "System Design",
           "value": "system-design",
-          "line": 73,
+          "line": 74,
           "column": 0
         },
         "people": {
           "type": "header",
           "text": "People",
           "value": "people",
-          "line": 77,
+          "line": 78,
           "column": 0
         },
         "hobbies": {
           "type": "header",
           "text": "Hobbies",
           "value": "hobbies",
-          "line": 82,
+          "line": 83,
           "column": 0
         },
         "domains": {
           "type": "header",
           "text": "Domains",
           "value": "domains",
-          "line": 86,
+          "line": 87,
           "column": 0
         }
       },
       "fname": "root",
-      "updated": 1637275149112,
+      "updated": 1637345884307,
       "created": 1595961348801,
       "parent": null,
       "children": [
-        "k5L85en4ZpgmnWbwy6Vyy",
-        "SMiVTLvKozmt8sNBHzDuA",
-        "zFbFDs6pv5RY831x0SyhF",
-        "sxkOuXGlFYLBSPMSWac9e",
-        "3oJn9Eln0V7XDr8TkFkkQ",
-        "FifBSEJTSes6vGG9o4ouk",
-        "HGqvRNOsa4iu5Jhujo1PL",
-        "jF9yfS9D7Kjl8t9I8BSb6",
+        "HmH3P1d4H7612LlIXHnCC",
+        "GjDkFgEr5m9r6SxocL0J9",
+        "9yagloTeRMuQzmsgNiiUb",
+        "nQ25lsPGG0GZgyiC9mRNT",
+        "wwRDiMzRtEn3Oa7bkwKW6",
+        "pe3x04h2NkAPH0UrRQz6D",
+        "9EUxx2cJ9KVFwxUCdtLBP",
+        "RJpOess77XPb82EqcdaaZ",
         "01u0co3RYjOM1bjpc2qIU"
       ],
       "data": {},
-      "contentHash": "1c3458975afb2f64e6ff901fd0c91dbb",
+      "contentHash": "05ebfc1e1337f4bcdc1eb226050ac415",
       "custom": {
         "stub": false,
         "nav_order": 0,
         "permalink": "/"
       },
-      "body": "\nRoot of Dendron vault.\n\n### Books\n\n- [[Tech Books | books.tech.md]]\n\n###Python\n\n- [[Python specific commands | tech.python.cli.alembic]]\n\n### Postgres\n\n- [[Postgis extension | tech.postgres.postgis]]\n\n### GIS\n\n- [[GIS commands | cli.gis]]\n\n### Rust\n\n- [[Rust First Steps | tech.rust.md]]\n\n### Algorithms & Data Structures\n\nImplementations and analyses\n\n- [[Data Structure Visualizations | algo.ds.md]]\n\n### Linux\n\n- [[Linux | tech.linux]]\n\n### Kubernetes\n\n- [[Kubernetes | tech.kubernetes]]\n\n### Docker\n\n- [[Docker | tech.docker]]\n\n### CSS\n\n- [[CSS | tech.css]]\n\n### Web3\n\n- [[Web 3 | tech.web3.md]]\n\n### Git\n\n- [[Git | tech.git.md]]\n\n### Flutter\n\n- [[Flutter | tech.flutter.md]]\n\n### Web Assembly\n\n- [[Web Assembly | tech.wasm.md]]\n\n### Tools\n\n- [[Tools | tech.tools.md]]\n\n#### System Design\n\n- [[System Design | tech.system-design.md]]\n\n### People\n\n- [[Leslie Lamport | people.leslie-lamport.md]]\n- [[Paul Graham | people.paul-graham.md]]\n\n### Hobbies\n\n- [[Hobbies | hobbies.bicycling.md]]\n\n### Domains\n\n- [[Queuing Theory | domain.queuing-theory.md]]\n- [[Reversing | domain.reversing.md]]\n- [[Recruiting | domain.recruiting.md]]\n- [[Systems | domain.systems.md]]\n- [[Functional | domain.functional.md]]\n- [[Probability |  domain.probability.md]]\n- [[Category Theory | domain.category-theory.md]]\n- [[Relativity | domain.relativity.md]]\n- [[Game Theory | domain.game-theory.md]]\n- [[Personal Finance | domain.personal-finance.md]]\n- [[Calculus | domain.calculus.md]]\n- [[UX | domains.ux.md]]\n- [[Graphics | domain.graphics.md]]\n- [[Business | domain.business.md]]\n- [[Math | domain.math.md]]\n- [[Privacy | domain.privacy.md]]\n- [[Philosophy | domain.philosophy.md]]\n- [[Mental Health | domain.mental-health.md]]\n- [[Crypto | domain.crypto.md]]\n- [[Software Design | domain.software-design.md]]\n- [[Writing | domain.writing.md]]\n"
+      "body": "\nRoot of Dendron vault.\n\n### Books\n\n- [[Tech Books | books.tech.md]]\n\n### Python\n\n- [[Python specific commands | tech.python.cli.alembic]]\n- [[Python NLP | tech.python.nlp]]\n\n### Postgres\n\n- [[Postgis extension | tech.postgres.postgis]]\n\n### GIS\n\n- [[GIS commands | cli.gis]]\n\n### Rust\n\n- [[Rust First Steps | tech.rust.md]]\n\n### Algorithms & Data Structures\n\nImplementations and analyses\n\n- [[Data Structure Visualizations | algo.ds.md]]\n\n### Linux\n\n- [[Linux | tech.linux]]\n\n### Kubernetes\n\n- [[Kubernetes | tech.kubernetes]]\n\n### Docker\n\n- [[Docker | tech.docker]]\n\n### CSS\n\n- [[CSS | tech.css]]\n\n### Web3\n\n- [[Web 3 | tech.web3.md]]\n\n### Git\n\n- [[Git | tech.git.md]]\n\n### Flutter\n\n- [[Flutter | tech.flutter.md]]\n\n### Web Assembly\n\n- [[Web Assembly | tech.wasm.md]]\n\n### Tools\n\n- [[Tools | tech.tools.md]]\n\n#### System Design\n\n- [[System Design | tech.system-design.md]]\n\n### People\n\n- [[Leslie Lamport | people.leslie-lamport.md]]\n- [[Paul Graham | people.paul-graham.md]]\n\n### Hobbies\n\n- [[Hobbies | hobbies.bicycling.md]]\n\n### Domains\n\n- [[Queuing Theory | domain.queuing-theory.md]]\n- [[Reversing | domain.reversing.md]]\n- [[Recruiting | domain.recruiting.md]]\n- [[Systems | domain.systems.md]]\n- [[Functional | domain.functional.md]]\n- [[Probability |  domain.probability.md]]\n- [[Category Theory | domain.category-theory.md]]\n- [[Relativity | domain.relativity.md]]\n- [[Game Theory | domain.game-theory.md]]\n- [[Personal Finance | domain.personal-finance.md]]\n- [[Calculus | domain.calculus.md]]\n- [[UX | domains.ux.md]]\n- [[Graphics | domain.graphics.md]]\n- [[Business | domain.business.md]]\n- [[Math | domain.math.md]]\n- [[Privacy | domain.privacy.md]]\n- [[Philosophy | domain.philosophy.md]]\n- [[Mental Health | domain.mental-health.md]]\n- [[Crypto | domain.crypto.md]]\n- [[Software Design | domain.software-design.md]]\n- [[Writing | domain.writing.md]]\n"
     }
   ],
   "noteIndex": {
@@ -7107,45 +7187,18 @@
           "id": "root",
           "vaultName": "vault"
         },
-        "value": "tags.Python",
-        "alias": "#Python",
-        "position": {
-          "start": {
-            "line": 8,
-            "column": 3,
-            "offset": 72
-          },
-          "end": {
-            "line": 8,
-            "column": 10,
-            "offset": 79
-          },
-          "indent": []
-        },
-        "xvault": false,
-        "to": {
-          "fname": "tags.Python"
-        }
-      },
-      {
-        "type": "wiki",
-        "from": {
-          "fname": "root",
-          "id": "root",
-          "vaultName": "vault"
-        },
         "value": "tech.python.cli.alembic",
         "alias": "Python specific commands",
         "position": {
           "start": {
             "line": 10,
             "column": 3,
-            "offset": 83
+            "offset": 84
           },
           "end": {
             "line": 10,
             "column": 57,
-            "offset": 137
+            "offset": 138
           },
           "indent": []
         },
@@ -7162,18 +7215,46 @@
           "id": "root",
           "vaultName": "vault"
         },
+        "value": "tech.python.nlp",
+        "alias": "Python NLP",
+        "position": {
+          "start": {
+            "line": 11,
+            "column": 3,
+            "offset": 141
+          },
+          "end": {
+            "line": 11,
+            "column": 35,
+            "offset": 173
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "tech.python.nlp"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "root",
+          "vaultName": "vault"
+        },
         "value": "tech.postgres.postgis",
         "alias": "Postgis extension",
         "position": {
           "start": {
-            "line": 14,
+            "line": 15,
             "column": 3,
-            "offset": 155
+            "offset": 191
           },
           "end": {
-            "line": 14,
+            "line": 15,
             "column": 48,
-            "offset": 200
+            "offset": 236
           },
           "indent": []
         },
@@ -7194,14 +7275,14 @@
         "alias": "GIS commands",
         "position": {
           "start": {
-            "line": 18,
+            "line": 19,
             "column": 3,
-            "offset": 213
+            "offset": 249
           },
           "end": {
-            "line": 18,
+            "line": 19,
             "column": 29,
-            "offset": 239
+            "offset": 275
           },
           "indent": []
         },
@@ -7222,14 +7303,14 @@
         "alias": "Rust First Steps",
         "position": {
           "start": {
-            "line": 22,
+            "line": 23,
             "column": 3,
-            "offset": 253
+            "offset": 289
           },
           "end": {
-            "line": 22,
+            "line": 23,
             "column": 38,
-            "offset": 288
+            "offset": 324
           },
           "indent": []
         },
@@ -7250,14 +7331,14 @@
         "alias": "Data Structure Visualizations",
         "position": {
           "start": {
-            "line": 28,
+            "line": 29,
             "column": 3,
-            "offset": 356
+            "offset": 392
           },
           "end": {
-            "line": 28,
+            "line": 29,
             "column": 49,
-            "offset": 402
+            "offset": 438
           },
           "indent": []
         },
@@ -7278,14 +7359,14 @@
         "alias": "Linux",
         "position": {
           "start": {
-            "line": 32,
+            "line": 33,
             "column": 3,
-            "offset": 417
+            "offset": 453
           },
           "end": {
-            "line": 32,
+            "line": 33,
             "column": 25,
-            "offset": 439
+            "offset": 475
           },
           "indent": []
         },
@@ -7306,14 +7387,14 @@
         "alias": "Kubernetes",
         "position": {
           "start": {
-            "line": 36,
+            "line": 37,
             "column": 3,
-            "offset": 459
+            "offset": 495
           },
           "end": {
-            "line": 36,
+            "line": 37,
             "column": 35,
-            "offset": 491
+            "offset": 527
           },
           "indent": []
         },
@@ -7334,14 +7415,14 @@
         "alias": "Docker",
         "position": {
           "start": {
-            "line": 40,
+            "line": 41,
             "column": 3,
-            "offset": 507
+            "offset": 543
           },
           "end": {
-            "line": 40,
+            "line": 41,
             "column": 27,
-            "offset": 531
+            "offset": 567
           },
           "indent": []
         },
@@ -7362,14 +7443,14 @@
         "alias": "CSS",
         "position": {
           "start": {
-            "line": 44,
+            "line": 45,
             "column": 3,
-            "offset": 544
+            "offset": 580
           },
           "end": {
-            "line": 44,
+            "line": 45,
             "column": 21,
-            "offset": 562
+            "offset": 598
           },
           "indent": []
         },
@@ -7390,14 +7471,14 @@
         "alias": "Web 3",
         "position": {
           "start": {
-            "line": 48,
+            "line": 49,
             "column": 3,
-            "offset": 576
+            "offset": 612
           },
           "end": {
-            "line": 48,
+            "line": 49,
             "column": 27,
-            "offset": 600
+            "offset": 636
           },
           "indent": []
         },
@@ -7418,14 +7499,14 @@
         "alias": "Git",
         "position": {
           "start": {
-            "line": 52,
+            "line": 53,
             "column": 3,
-            "offset": 613
+            "offset": 649
           },
           "end": {
-            "line": 52,
+            "line": 53,
             "column": 24,
-            "offset": 634
+            "offset": 670
           },
           "indent": []
         },
@@ -7446,14 +7527,14 @@
         "alias": "Flutter",
         "position": {
           "start": {
-            "line": 56,
+            "line": 57,
             "column": 3,
-            "offset": 651
+            "offset": 687
           },
           "end": {
-            "line": 56,
+            "line": 57,
             "column": 32,
-            "offset": 680
+            "offset": 716
           },
           "indent": []
         },
@@ -7474,14 +7555,14 @@
         "alias": "Web Assembly",
         "position": {
           "start": {
-            "line": 60,
+            "line": 61,
             "column": 3,
-            "offset": 702
+            "offset": 738
           },
           "end": {
-            "line": 60,
+            "line": 61,
             "column": 34,
-            "offset": 733
+            "offset": 769
           },
           "indent": []
         },
@@ -7502,14 +7583,14 @@
         "alias": "Tools",
         "position": {
           "start": {
-            "line": 64,
+            "line": 65,
             "column": 3,
-            "offset": 748
+            "offset": 784
           },
           "end": {
-            "line": 64,
+            "line": 65,
             "column": 28,
-            "offset": 773
+            "offset": 809
           },
           "indent": []
         },
@@ -7530,14 +7611,14 @@
         "alias": "System Design",
         "position": {
           "start": {
-            "line": 68,
+            "line": 69,
             "column": 3,
-            "offset": 797
+            "offset": 833
           },
           "end": {
-            "line": 68,
+            "line": 69,
             "column": 44,
-            "offset": 838
+            "offset": 874
           },
           "indent": []
         },
@@ -7558,14 +7639,14 @@
         "alias": "Leslie Lamport",
         "position": {
           "start": {
-            "line": 72,
+            "line": 73,
             "column": 3,
-            "offset": 854
+            "offset": 890
           },
           "end": {
-            "line": 72,
+            "line": 73,
             "column": 48,
-            "offset": 899
+            "offset": 935
           },
           "indent": []
         },
@@ -7586,14 +7667,14 @@
         "alias": "Paul Graham",
         "position": {
           "start": {
-            "line": 73,
+            "line": 74,
             "column": 3,
-            "offset": 902
+            "offset": 938
           },
           "end": {
-            "line": 73,
+            "line": 74,
             "column": 42,
-            "offset": 941
+            "offset": 977
           },
           "indent": []
         },
@@ -7614,14 +7695,14 @@
         "alias": "Hobbies",
         "position": {
           "start": {
-            "line": 77,
+            "line": 78,
             "column": 3,
-            "offset": 958
+            "offset": 994
           },
           "end": {
-            "line": 77,
+            "line": 78,
             "column": 37,
-            "offset": 992
+            "offset": 1028
           },
           "indent": []
         },
@@ -7642,14 +7723,14 @@
         "alias": "Queuing Theory",
         "position": {
           "start": {
-            "line": 81,
+            "line": 82,
             "column": 3,
-            "offset": 1009
+            "offset": 1045
           },
           "end": {
-            "line": 81,
+            "line": 82,
             "column": 48,
-            "offset": 1054
+            "offset": 1090
           },
           "indent": []
         },
@@ -7670,14 +7751,14 @@
         "alias": "Reversing",
         "position": {
           "start": {
-            "line": 82,
+            "line": 83,
             "column": 3,
-            "offset": 1057
+            "offset": 1093
           },
           "end": {
-            "line": 82,
+            "line": 83,
             "column": 38,
-            "offset": 1092
+            "offset": 1128
           },
           "indent": []
         },
@@ -7698,14 +7779,14 @@
         "alias": "Recruiting",
         "position": {
           "start": {
-            "line": 83,
+            "line": 84,
             "column": 3,
-            "offset": 1095
+            "offset": 1131
           },
           "end": {
-            "line": 83,
+            "line": 84,
             "column": 40,
-            "offset": 1132
+            "offset": 1168
           },
           "indent": []
         },
@@ -7726,14 +7807,14 @@
         "alias": "Systems",
         "position": {
           "start": {
-            "line": 84,
+            "line": 85,
             "column": 3,
-            "offset": 1135
+            "offset": 1171
           },
           "end": {
-            "line": 84,
+            "line": 85,
             "column": 34,
-            "offset": 1166
+            "offset": 1202
           },
           "indent": []
         },
@@ -7754,14 +7835,14 @@
         "alias": "Functional",
         "position": {
           "start": {
-            "line": 85,
+            "line": 86,
             "column": 3,
-            "offset": 1169
+            "offset": 1205
           },
           "end": {
-            "line": 85,
+            "line": 86,
             "column": 40,
-            "offset": 1206
+            "offset": 1242
           },
           "indent": []
         },
@@ -7782,14 +7863,14 @@
         "alias": "Probability",
         "position": {
           "start": {
-            "line": 86,
+            "line": 87,
             "column": 3,
-            "offset": 1209
+            "offset": 1245
           },
           "end": {
-            "line": 86,
+            "line": 87,
             "column": 43,
-            "offset": 1249
+            "offset": 1285
           },
           "indent": []
         },
@@ -7810,14 +7891,14 @@
         "alias": "Category Theory",
         "position": {
           "start": {
-            "line": 87,
+            "line": 88,
             "column": 3,
-            "offset": 1252
+            "offset": 1288
           },
           "end": {
-            "line": 87,
+            "line": 88,
             "column": 50,
-            "offset": 1299
+            "offset": 1335
           },
           "indent": []
         },
@@ -7838,14 +7919,14 @@
         "alias": "Relativity",
         "position": {
           "start": {
-            "line": 88,
+            "line": 89,
             "column": 3,
-            "offset": 1302
+            "offset": 1338
           },
           "end": {
-            "line": 88,
+            "line": 89,
             "column": 40,
-            "offset": 1339
+            "offset": 1375
           },
           "indent": []
         },
@@ -7866,14 +7947,14 @@
         "alias": "Game Theory",
         "position": {
           "start": {
-            "line": 89,
+            "line": 90,
             "column": 3,
-            "offset": 1342
+            "offset": 1378
           },
           "end": {
-            "line": 89,
+            "line": 90,
             "column": 42,
-            "offset": 1381
+            "offset": 1417
           },
           "indent": []
         },
@@ -7894,14 +7975,14 @@
         "alias": "Personal Finance",
         "position": {
           "start": {
-            "line": 90,
+            "line": 91,
             "column": 3,
-            "offset": 1384
+            "offset": 1420
           },
           "end": {
-            "line": 90,
+            "line": 91,
             "column": 52,
-            "offset": 1433
+            "offset": 1469
           },
           "indent": []
         },
@@ -7922,14 +8003,14 @@
         "alias": "Calculus",
         "position": {
           "start": {
-            "line": 91,
+            "line": 92,
             "column": 3,
-            "offset": 1436
+            "offset": 1472
           },
           "end": {
-            "line": 91,
+            "line": 92,
             "column": 36,
-            "offset": 1469
+            "offset": 1505
           },
           "indent": []
         },
@@ -7950,14 +8031,14 @@
         "alias": "UX",
         "position": {
           "start": {
-            "line": 92,
+            "line": 93,
             "column": 3,
-            "offset": 1472
+            "offset": 1508
           },
           "end": {
-            "line": 92,
+            "line": 93,
             "column": 25,
-            "offset": 1494
+            "offset": 1530
           },
           "indent": []
         },
@@ -7978,14 +8059,14 @@
         "alias": "Graphics",
         "position": {
           "start": {
-            "line": 93,
+            "line": 94,
             "column": 3,
-            "offset": 1497
+            "offset": 1533
           },
           "end": {
-            "line": 93,
+            "line": 94,
             "column": 36,
-            "offset": 1530
+            "offset": 1566
           },
           "indent": []
         },
@@ -8006,14 +8087,14 @@
         "alias": "Business",
         "position": {
           "start": {
-            "line": 94,
+            "line": 95,
             "column": 3,
-            "offset": 1533
+            "offset": 1569
           },
           "end": {
-            "line": 94,
+            "line": 95,
             "column": 36,
-            "offset": 1566
+            "offset": 1602
           },
           "indent": []
         },
@@ -8034,14 +8115,14 @@
         "alias": "Math",
         "position": {
           "start": {
-            "line": 95,
+            "line": 96,
             "column": 3,
-            "offset": 1569
+            "offset": 1605
           },
           "end": {
-            "line": 95,
+            "line": 96,
             "column": 28,
-            "offset": 1594
+            "offset": 1630
           },
           "indent": []
         },
@@ -8062,14 +8143,14 @@
         "alias": "Privacy",
         "position": {
           "start": {
-            "line": 96,
+            "line": 97,
             "column": 3,
-            "offset": 1597
+            "offset": 1633
           },
           "end": {
-            "line": 96,
+            "line": 97,
             "column": 34,
-            "offset": 1628
+            "offset": 1664
           },
           "indent": []
         },
@@ -8090,14 +8171,14 @@
         "alias": "Philosophy",
         "position": {
           "start": {
-            "line": 97,
+            "line": 98,
             "column": 3,
-            "offset": 1631
+            "offset": 1667
           },
           "end": {
-            "line": 97,
+            "line": 98,
             "column": 40,
-            "offset": 1668
+            "offset": 1704
           },
           "indent": []
         },
@@ -8118,14 +8199,14 @@
         "alias": "Mental Health",
         "position": {
           "start": {
-            "line": 98,
+            "line": 99,
             "column": 3,
-            "offset": 1671
+            "offset": 1707
           },
           "end": {
-            "line": 98,
+            "line": 99,
             "column": 46,
-            "offset": 1714
+            "offset": 1750
           },
           "indent": []
         },
@@ -8146,14 +8227,14 @@
         "alias": "Crypto",
         "position": {
           "start": {
-            "line": 99,
+            "line": 100,
             "column": 3,
-            "offset": 1717
+            "offset": 1753
           },
           "end": {
-            "line": 99,
+            "line": 100,
             "column": 32,
-            "offset": 1746
+            "offset": 1782
           },
           "indent": []
         },
@@ -8174,14 +8255,14 @@
         "alias": "Software Design",
         "position": {
           "start": {
-            "line": 100,
+            "line": 101,
             "column": 3,
-            "offset": 1749
+            "offset": 1785
           },
           "end": {
-            "line": 100,
+            "line": 101,
             "column": 50,
-            "offset": 1796
+            "offset": 1832
           },
           "indent": []
         },
@@ -8202,14 +8283,14 @@
         "alias": "Writing",
         "position": {
           "start": {
-            "line": 101,
+            "line": 102,
             "column": 3,
-            "offset": 1799
+            "offset": 1835
           },
           "end": {
-            "line": 101,
+            "line": 102,
             "column": 34,
-            "offset": 1830
+            "offset": 1866
           },
           "indent": []
         },
@@ -8228,149 +8309,156 @@
         "line": 11,
         "column": 0
       },
+      "python": {
+        "type": "header",
+        "text": "Python",
+        "value": "python",
+        "line": 15,
+        "column": 0
+      },
       "postgres": {
         "type": "header",
         "text": "Postgres",
         "value": "postgres",
-        "line": 19,
+        "line": 20,
         "column": 0
       },
       "gis": {
         "type": "header",
         "text": "GIS",
         "value": "gis",
-        "line": 23,
+        "line": 24,
         "column": 0
       },
       "rust": {
         "type": "header",
         "text": "Rust",
         "value": "rust",
-        "line": 27,
+        "line": 28,
         "column": 0
       },
       "algorithms--data-structures": {
         "type": "header",
         "text": "Algorithms & Data Structures",
         "value": "algorithms--data-structures",
-        "line": 31,
+        "line": 32,
         "column": 0
       },
       "linux": {
         "type": "header",
         "text": "Linux",
         "value": "linux",
-        "line": 37,
+        "line": 38,
         "column": 0
       },
       "kubernetes": {
         "type": "header",
         "text": "Kubernetes",
         "value": "kubernetes",
-        "line": 41,
+        "line": 42,
         "column": 0
       },
       "docker": {
         "type": "header",
         "text": "Docker",
         "value": "docker",
-        "line": 45,
+        "line": 46,
         "column": 0
       },
       "css": {
         "type": "header",
         "text": "CSS",
         "value": "css",
-        "line": 49,
+        "line": 50,
         "column": 0
       },
       "web3": {
         "type": "header",
         "text": "Web3",
         "value": "web3",
-        "line": 53,
+        "line": 54,
         "column": 0
       },
       "git": {
         "type": "header",
         "text": "Git",
         "value": "git",
-        "line": 57,
+        "line": 58,
         "column": 0
       },
       "flutter": {
         "type": "header",
         "text": "Flutter",
         "value": "flutter",
-        "line": 61,
+        "line": 62,
         "column": 0
       },
       "web-assembly": {
         "type": "header",
         "text": "Web Assembly",
         "value": "web-assembly",
-        "line": 65,
+        "line": 66,
         "column": 0
       },
       "tools": {
         "type": "header",
         "text": "Tools",
         "value": "tools",
-        "line": 69,
+        "line": 70,
         "column": 0
       },
       "system-design": {
         "type": "header",
         "text": "System Design",
         "value": "system-design",
-        "line": 73,
+        "line": 74,
         "column": 0
       },
       "people": {
         "type": "header",
         "text": "People",
         "value": "people",
-        "line": 77,
+        "line": 78,
         "column": 0
       },
       "hobbies": {
         "type": "header",
         "text": "Hobbies",
         "value": "hobbies",
-        "line": 82,
+        "line": 83,
         "column": 0
       },
       "domains": {
         "type": "header",
         "text": "Domains",
         "value": "domains",
-        "line": 86,
+        "line": 87,
         "column": 0
       }
     },
     "fname": "root",
-    "updated": 1637275149112,
+    "updated": 1637345884307,
     "created": 1595961348801,
     "parent": null,
     "children": [
-      "k5L85en4ZpgmnWbwy6Vyy",
-      "SMiVTLvKozmt8sNBHzDuA",
-      "zFbFDs6pv5RY831x0SyhF",
-      "sxkOuXGlFYLBSPMSWac9e",
-      "3oJn9Eln0V7XDr8TkFkkQ",
-      "FifBSEJTSes6vGG9o4ouk",
-      "HGqvRNOsa4iu5Jhujo1PL",
-      "jF9yfS9D7Kjl8t9I8BSb6",
+      "HmH3P1d4H7612LlIXHnCC",
+      "GjDkFgEr5m9r6SxocL0J9",
+      "9yagloTeRMuQzmsgNiiUb",
+      "nQ25lsPGG0GZgyiC9mRNT",
+      "wwRDiMzRtEn3Oa7bkwKW6",
+      "pe3x04h2NkAPH0UrRQz6D",
+      "9EUxx2cJ9KVFwxUCdtLBP",
+      "RJpOess77XPb82EqcdaaZ",
       "01u0co3RYjOM1bjpc2qIU"
     ],
     "data": {},
-    "contentHash": "1c3458975afb2f64e6ff901fd0c91dbb",
+    "contentHash": "05ebfc1e1337f4bcdc1eb226050ac415",
     "custom": {
       "stub": false,
       "nav_order": 0,
       "permalink": "/"
     },
-    "body": "\nRoot of Dendron vault.\n\n### Books\n\n- [[Tech Books | books.tech.md]]\n\n###Python\n\n- [[Python specific commands | tech.python.cli.alembic]]\n\n### Postgres\n\n- [[Postgis extension | tech.postgres.postgis]]\n\n### GIS\n\n- [[GIS commands | cli.gis]]\n\n### Rust\n\n- [[Rust First Steps | tech.rust.md]]\n\n### Algorithms & Data Structures\n\nImplementations and analyses\n\n- [[Data Structure Visualizations | algo.ds.md]]\n\n### Linux\n\n- [[Linux | tech.linux]]\n\n### Kubernetes\n\n- [[Kubernetes | tech.kubernetes]]\n\n### Docker\n\n- [[Docker | tech.docker]]\n\n### CSS\n\n- [[CSS | tech.css]]\n\n### Web3\n\n- [[Web 3 | tech.web3.md]]\n\n### Git\n\n- [[Git | tech.git.md]]\n\n### Flutter\n\n- [[Flutter | tech.flutter.md]]\n\n### Web Assembly\n\n- [[Web Assembly | tech.wasm.md]]\n\n### Tools\n\n- [[Tools | tech.tools.md]]\n\n#### System Design\n\n- [[System Design | tech.system-design.md]]\n\n### People\n\n- [[Leslie Lamport | people.leslie-lamport.md]]\n- [[Paul Graham | people.paul-graham.md]]\n\n### Hobbies\n\n- [[Hobbies | hobbies.bicycling.md]]\n\n### Domains\n\n- [[Queuing Theory | domain.queuing-theory.md]]\n- [[Reversing | domain.reversing.md]]\n- [[Recruiting | domain.recruiting.md]]\n- [[Systems | domain.systems.md]]\n- [[Functional | domain.functional.md]]\n- [[Probability |  domain.probability.md]]\n- [[Category Theory | domain.category-theory.md]]\n- [[Relativity | domain.relativity.md]]\n- [[Game Theory | domain.game-theory.md]]\n- [[Personal Finance | domain.personal-finance.md]]\n- [[Calculus | domain.calculus.md]]\n- [[UX | domains.ux.md]]\n- [[Graphics | domain.graphics.md]]\n- [[Business | domain.business.md]]\n- [[Math | domain.math.md]]\n- [[Privacy | domain.privacy.md]]\n- [[Philosophy | domain.philosophy.md]]\n- [[Mental Health | domain.mental-health.md]]\n- [[Crypto | domain.crypto.md]]\n- [[Software Design | domain.software-design.md]]\n- [[Writing | domain.writing.md]]\n"
+    "body": "\nRoot of Dendron vault.\n\n### Books\n\n- [[Tech Books | books.tech.md]]\n\n### Python\n\n- [[Python specific commands | tech.python.cli.alembic]]\n- [[Python NLP | tech.python.nlp]]\n\n### Postgres\n\n- [[Postgis extension | tech.postgres.postgis]]\n\n### GIS\n\n- [[GIS commands | cli.gis]]\n\n### Rust\n\n- [[Rust First Steps | tech.rust.md]]\n\n### Algorithms & Data Structures\n\nImplementations and analyses\n\n- [[Data Structure Visualizations | algo.ds.md]]\n\n### Linux\n\n- [[Linux | tech.linux]]\n\n### Kubernetes\n\n- [[Kubernetes | tech.kubernetes]]\n\n### Docker\n\n- [[Docker | tech.docker]]\n\n### CSS\n\n- [[CSS | tech.css]]\n\n### Web3\n\n- [[Web 3 | tech.web3.md]]\n\n### Git\n\n- [[Git | tech.git.md]]\n\n### Flutter\n\n- [[Flutter | tech.flutter.md]]\n\n### Web Assembly\n\n- [[Web Assembly | tech.wasm.md]]\n\n### Tools\n\n- [[Tools | tech.tools.md]]\n\n#### System Design\n\n- [[System Design | tech.system-design.md]]\n\n### People\n\n- [[Leslie Lamport | people.leslie-lamport.md]]\n- [[Paul Graham | people.paul-graham.md]]\n\n### Hobbies\n\n- [[Hobbies | hobbies.bicycling.md]]\n\n### Domains\n\n- [[Queuing Theory | domain.queuing-theory.md]]\n- [[Reversing | domain.reversing.md]]\n- [[Recruiting | domain.recruiting.md]]\n- [[Systems | domain.systems.md]]\n- [[Functional | domain.functional.md]]\n- [[Probability |  domain.probability.md]]\n- [[Category Theory | domain.category-theory.md]]\n- [[Relativity | domain.relativity.md]]\n- [[Game Theory | domain.game-theory.md]]\n- [[Personal Finance | domain.personal-finance.md]]\n- [[Calculus | domain.calculus.md]]\n- [[UX | domains.ux.md]]\n- [[Graphics | domain.graphics.md]]\n- [[Business | domain.business.md]]\n- [[Math | domain.math.md]]\n- [[Privacy | domain.privacy.md]]\n- [[Philosophy | domain.philosophy.md]]\n- [[Mental Health | domain.mental-health.md]]\n- [[Crypto | domain.crypto.md]]\n- [[Software Design | domain.software-design.md]]\n- [[Writing | domain.writing.md]]\n"
   },
   "vaults": [
     {

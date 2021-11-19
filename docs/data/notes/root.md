@@ -5,9 +5,10 @@ Root of Dendron vault.
 
 - [[Tech Books | books.tech.md]]
 
-###Python
+### Python
 
 - [[Python specific commands | tech.python.cli.alembic]]
+- [[Python NLP | tech.python.nlp]]
 
 ### Postgres
 
