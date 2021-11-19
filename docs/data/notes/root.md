@@ -88,7 +88,7 @@ Root of Dendron vault.
 - [[Game Theory | domain.game-theory.md]]
 - [[Personal Finance | domain.personal-finance.md]]
 - [[Calculus | domain.calculus.md]]
-- [[UX | domains.ux.md]]
+- [[UX|domain.ux]]
 - [[Graphics | domain.graphics.md]]
 - [[Business | domain.business.md]]
 - [[Math | domain.math.md]]

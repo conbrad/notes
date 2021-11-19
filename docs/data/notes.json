@@ -11,8 +11,8 @@
       "links": [],
       "anchors": {},
       "fname": "403",
-      "updated": 1637349366416,
-      "created": 1637349366416,
+      "updated": 1637349854822,
+      "created": 1637349854822,
       "parent": null,
       "children": [],
       "data": {}
@@ -901,7 +901,7 @@
             "id": "root",
             "vaultName": "vault"
           },
-          "value": "domains.ux",
+          "value": "domain.ux",
           "alias": "UX",
           "position": {
             "start": {
@@ -911,15 +911,15 @@
             },
             "end": {
               "line": 91,
-              "column": 25,
-              "offset": 1499
+              "column": 19,
+              "offset": 1493
             },
             "indent": []
           },
           "xvault": false,
           "sameFile": false,
           "to": {
-            "fname": "domains.ux"
+            "fname": "domain.ux"
           }
         },
         {
@@ -935,12 +935,12 @@
             "start": {
               "line": 92,
               "column": 3,
-              "offset": 1502
+              "offset": 1496
             },
             "end": {
               "line": 92,
               "column": 36,
-              "offset": 1535
+              "offset": 1529
             },
             "indent": []
           },
@@ -963,12 +963,12 @@
             "start": {
               "line": 93,
               "column": 3,
-              "offset": 1538
+              "offset": 1532
             },
             "end": {
               "line": 93,
               "column": 36,
-              "offset": 1571
+              "offset": 1565
             },
             "indent": []
           },
@@ -991,12 +991,12 @@
             "start": {
               "line": 94,
               "column": 3,
-              "offset": 1574
+              "offset": 1568
             },
             "end": {
               "line": 94,
               "column": 28,
-              "offset": 1599
+              "offset": 1593
             },
             "indent": []
           },
@@ -1019,12 +1019,12 @@
             "start": {
               "line": 95,
               "column": 3,
-              "offset": 1602
+              "offset": 1596
             },
             "end": {
               "line": 95,
               "column": 34,
-              "offset": 1633
+              "offset": 1627
             },
             "indent": []
           },
@@ -1047,12 +1047,12 @@
             "start": {
               "line": 96,
               "column": 3,
-              "offset": 1636
+              "offset": 1630
             },
             "end": {
               "line": 96,
               "column": 40,
-              "offset": 1673
+              "offset": 1667
             },
             "indent": []
           },
@@ -1075,12 +1075,12 @@
             "start": {
               "line": 97,
               "column": 3,
-              "offset": 1676
+              "offset": 1670
             },
             "end": {
               "line": 97,
               "column": 46,
-              "offset": 1719
+              "offset": 1713
             },
             "indent": []
           },
@@ -1103,12 +1103,12 @@
             "start": {
               "line": 98,
               "column": 3,
-              "offset": 1722
+              "offset": 1716
             },
             "end": {
               "line": 98,
               "column": 32,
-              "offset": 1751
+              "offset": 1745
             },
             "indent": []
           },
@@ -1131,12 +1131,12 @@
             "start": {
               "line": 99,
               "column": 3,
-              "offset": 1754
+              "offset": 1748
             },
             "end": {
               "line": 99,
               "column": 50,
-              "offset": 1801
+              "offset": 1795
             },
             "indent": []
           },
@@ -1159,12 +1159,12 @@
             "start": {
               "line": 100,
               "column": 3,
-              "offset": 1804
+              "offset": 1798
             },
             "end": {
               "line": 100,
               "column": 34,
-              "offset": 1835
+              "offset": 1829
             },
             "indent": []
           },
@@ -1319,14 +1319,13 @@
         "GjDkFgEr5m9r6SxocL0J9",
         "9yagloTeRMuQzmsgNiiUb",
         "nQ25lsPGG0GZgyiC9mRNT",
-        "wwRDiMzRtEn3Oa7bkwKW6",
         "pe3x04h2NkAPH0UrRQz6D",
         "9EUxx2cJ9KVFwxUCdtLBP",
         "RJpOess77XPb82EqcdaaZ",
         "01u0co3RYjOM1bjpc2qIU"
       ],
       "data": {},
-      "contentHash": "c249d19dbed2756744cca051d8df1707",
+      "contentHash": "695bcf4e1c51ddfb051e4524726ffb7d",
       "custom": {
         "stub": false,
         "nav_order": 0,
@@ -3826,93 +3825,6 @@
       "contentHash": "a2e42eb398a4222e1ba315b8b33465bc",
       "custom": {}
     },
-    "wwRDiMzRtEn3Oa7bkwKW6": {
-      "id": "wwRDiMzRtEn3Oa7bkwKW6",
-      "title": "Domains",
-      "vault": {
-        "fsPath": "vault"
-      },
-      "type": "note",
-      "desc": "",
-      "links": [],
-      "anchors": {},
-      "fname": "domains",
-      "updated": 1637348800827,
-      "created": 1637277460938,
-      "parent": "root",
-      "children": [
-        "pEi5UIsdJOiNsujSr4VAc"
-      ],
-      "data": {},
-      "contentHash": "0f660dd82d4c11d2d741a5b78dc37795",
-      "stub": false,
-      "custom": {
-        "stub": true
-      }
-    },
-    "pEi5UIsdJOiNsujSr4VAc": {
-      "id": "pEi5UIsdJOiNsujSr4VAc",
-      "title": "UX",
-      "vault": {
-        "fsPath": "vault"
-      },
-      "type": "note",
-      "desc": "",
-      "links": [
-        {
-          "from": {
-            "fname": "root",
-            "vaultName": "vault"
-          },
-          "type": "backlink",
-          "position": {
-            "start": {
-              "line": 91,
-              "column": 3,
-              "offset": 1477
-            },
-            "end": {
-              "line": 91,
-              "column": 25,
-              "offset": 1499
-            },
-            "indent": []
-          },
-          "value": "domains.ux"
-        }
-      ],
-      "anchors": {
-        "web-vitals": {
-          "type": "header",
-          "text": "Web Vitals",
-          "value": "web-vitals",
-          "line": 8,
-          "column": 0
-        },
-        "how-do-i-make-this-hard-to-reuse": {
-          "type": "header",
-          "text": "How Do I Make This Hard to Reuse",
-          "value": "how-do-i-make-this-hard-to-reuse",
-          "line": 12,
-          "column": 0
-        },
-        "collection-of-human-interface-and-software-design-guides": {
-          "type": "header",
-          "text": "Collection of Human Interface and Software Design Guides",
-          "value": "collection-of-human-interface-and-software-design-guides",
-          "line": 16,
-          "column": 0
-        }
-      },
-      "fname": "domains.ux",
-      "updated": 1637274827790,
-      "created": 1637271136261,
-      "parent": "wwRDiMzRtEn3Oa7bkwKW6",
-      "children": [],
-      "data": {},
-      "contentHash": "ba5d88609af9c515f608e6924ce4094f",
-      "custom": {}
-    },
     "nQ25lsPGG0GZgyiC9mRNT": {
       "id": "nQ25lsPGG0GZgyiC9mRNT",
       "title": "Domain",
@@ -3947,6 +3859,7 @@
         "ViYU2KkdDfZdmCq4yC46K",
         "BxoEiSfkLIPgnH6zlvuig",
         "EZjAtrJ4BD1pkRZ04LR3e",
+        "pEi5UIsdJOiNsujSr4VAc",
         "Fiz1kXocGeMXMFmFvPDSS"
       ],
       "data": {},
@@ -3975,12 +3888,12 @@
             "start": {
               "line": 100,
               "column": 3,
-              "offset": 1804
+              "offset": 1798
             },
             "end": {
               "line": 100,
               "column": 34,
-              "offset": 1835
+              "offset": 1829
             },
             "indent": []
           },
@@ -4010,6 +3923,69 @@
       "children": [],
       "data": {},
       "contentHash": "e93e00f77446e59f34d16a20b276c5ee",
+      "custom": {}
+    },
+    "pEi5UIsdJOiNsujSr4VAc": {
+      "id": "pEi5UIsdJOiNsujSr4VAc",
+      "title": "UX",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 91,
+              "column": 3,
+              "offset": 1477
+            },
+            "end": {
+              "line": 91,
+              "column": 19,
+              "offset": 1493
+            },
+            "indent": []
+          },
+          "value": "domain.ux"
+        }
+      ],
+      "anchors": {
+        "web-vitals": {
+          "type": "header",
+          "text": "Web Vitals",
+          "value": "web-vitals",
+          "line": 8,
+          "column": 0
+        },
+        "how-do-i-make-this-hard-to-reuse": {
+          "type": "header",
+          "text": "How Do I Make This Hard to Reuse",
+          "value": "how-do-i-make-this-hard-to-reuse",
+          "line": 12,
+          "column": 0
+        },
+        "collection-of-human-interface-and-software-design-guides": {
+          "type": "header",
+          "text": "Collection of Human Interface and Software Design Guides",
+          "value": "collection-of-human-interface-and-software-design-guides",
+          "line": 16,
+          "column": 0
+        }
+      },
+      "fname": "domain.ux",
+      "updated": 1637274827790,
+      "created": 1637271136261,
+      "parent": "nQ25lsPGG0GZgyiC9mRNT",
+      "children": [],
+      "data": {},
+      "contentHash": "835a8177673cb45484a7c70339aa8cc3",
       "custom": {}
     },
     "EZjAtrJ4BD1pkRZ04LR3e": {
@@ -4447,12 +4423,12 @@
             "start": {
               "line": 99,
               "column": 3,
-              "offset": 1754
+              "offset": 1748
             },
             "end": {
               "line": 99,
               "column": 50,
-              "offset": 1801
+              "offset": 1795
             },
             "indent": []
           },
@@ -4776,12 +4752,12 @@
             "start": {
               "line": 95,
               "column": 3,
-              "offset": 1602
+              "offset": 1596
             },
             "end": {
               "line": 95,
               "column": 34,
-              "offset": 1633
+              "offset": 1627
             },
             "indent": []
           },
@@ -4825,12 +4801,12 @@
             "start": {
               "line": 96,
               "column": 3,
-              "offset": 1636
+              "offset": 1630
             },
             "end": {
               "line": 96,
               "column": 40,
-              "offset": 1673
+              "offset": 1667
             },
             "indent": []
           },
@@ -4958,12 +4934,12 @@
             "start": {
               "line": 97,
               "column": 3,
-              "offset": 1676
+              "offset": 1670
             },
             "end": {
               "line": 97,
               "column": 46,
-              "offset": 1719
+              "offset": 1713
             },
             "indent": []
           },
@@ -5063,12 +5039,12 @@
             "start": {
               "line": 94,
               "column": 3,
-              "offset": 1574
+              "offset": 1568
             },
             "end": {
               "line": 94,
               "column": 28,
-              "offset": 1599
+              "offset": 1593
             },
             "indent": []
           },
@@ -5112,12 +5088,12 @@
             "start": {
               "line": 92,
               "column": 3,
-              "offset": 1502
+              "offset": 1496
             },
             "end": {
               "line": 92,
               "column": 36,
-              "offset": 1535
+              "offset": 1529
             },
             "indent": []
           },
@@ -5259,12 +5235,12 @@
             "start": {
               "line": 98,
               "column": 3,
-              "offset": 1722
+              "offset": 1716
             },
             "end": {
               "line": 98,
               "column": 32,
-              "offset": 1751
+              "offset": 1745
             },
             "indent": []
           },
@@ -5448,12 +5424,12 @@
             "start": {
               "line": 93,
               "column": 3,
-              "offset": 1538
+              "offset": 1532
             },
             "end": {
               "line": 93,
               "column": 36,
-              "offset": 1571
+              "offset": 1565
             },
             "indent": []
           },
@@ -6716,7 +6692,7 @@
             "id": "root",
             "vaultName": "vault"
           },
-          "value": "domains.ux",
+          "value": "domain.ux",
           "alias": "UX",
           "position": {
             "start": {
@@ -6726,15 +6702,15 @@
             },
             "end": {
               "line": 91,
-              "column": 25,
-              "offset": 1499
+              "column": 19,
+              "offset": 1493
             },
             "indent": []
           },
           "xvault": false,
           "sameFile": false,
           "to": {
-            "fname": "domains.ux"
+            "fname": "domain.ux"
           }
         },
         {
@@ -6750,12 +6726,12 @@
             "start": {
               "line": 92,
               "column": 3,
-              "offset": 1502
+              "offset": 1496
             },
             "end": {
               "line": 92,
               "column": 36,
-              "offset": 1535
+              "offset": 1529
             },
             "indent": []
           },
@@ -6778,12 +6754,12 @@
             "start": {
               "line": 93,
               "column": 3,
-              "offset": 1538
+              "offset": 1532
             },
             "end": {
               "line": 93,
               "column": 36,
-              "offset": 1571
+              "offset": 1565
             },
             "indent": []
           },
@@ -6806,12 +6782,12 @@
             "start": {
               "line": 94,
               "column": 3,
-              "offset": 1574
+              "offset": 1568
             },
             "end": {
               "line": 94,
               "column": 28,
-              "offset": 1599
+              "offset": 1593
             },
             "indent": []
           },
@@ -6834,12 +6810,12 @@
             "start": {
               "line": 95,
               "column": 3,
-              "offset": 1602
+              "offset": 1596
             },
             "end": {
               "line": 95,
               "column": 34,
-              "offset": 1633
+              "offset": 1627
             },
             "indent": []
           },
@@ -6862,12 +6838,12 @@
             "start": {
               "line": 96,
               "column": 3,
-              "offset": 1636
+              "offset": 1630
             },
             "end": {
               "line": 96,
               "column": 40,
-              "offset": 1673
+              "offset": 1667
             },
             "indent": []
           },
@@ -6890,12 +6866,12 @@
             "start": {
               "line": 97,
               "column": 3,
-              "offset": 1676
+              "offset": 1670
             },
             "end": {
               "line": 97,
               "column": 46,
-              "offset": 1719
+              "offset": 1713
             },
             "indent": []
           },
@@ -6918,12 +6894,12 @@
             "start": {
               "line": 98,
               "column": 3,
-              "offset": 1722
+              "offset": 1716
             },
             "end": {
               "line": 98,
               "column": 32,
-              "offset": 1751
+              "offset": 1745
             },
             "indent": []
           },
@@ -6946,12 +6922,12 @@
             "start": {
               "line": 99,
               "column": 3,
-              "offset": 1754
+              "offset": 1748
             },
             "end": {
               "line": 99,
               "column": 50,
-              "offset": 1801
+              "offset": 1795
             },
             "indent": []
           },
@@ -6974,12 +6950,12 @@
             "start": {
               "line": 100,
               "column": 3,
-              "offset": 1804
+              "offset": 1798
             },
             "end": {
               "line": 100,
               "column": 34,
-              "offset": 1835
+              "offset": 1829
             },
             "indent": []
           },
@@ -7134,20 +7110,19 @@
         "GjDkFgEr5m9r6SxocL0J9",
         "9yagloTeRMuQzmsgNiiUb",
         "nQ25lsPGG0GZgyiC9mRNT",
-        "wwRDiMzRtEn3Oa7bkwKW6",
         "pe3x04h2NkAPH0UrRQz6D",
         "9EUxx2cJ9KVFwxUCdtLBP",
         "RJpOess77XPb82EqcdaaZ",
         "01u0co3RYjOM1bjpc2qIU"
       ],
       "data": {},
-      "contentHash": "c249d19dbed2756744cca051d8df1707",
+      "contentHash": "695bcf4e1c51ddfb051e4524726ffb7d",
       "custom": {
         "stub": false,
         "nav_order": 0,
         "permalink": "/"
       },
-      "body": "\nRoot of Dendron vault.\n\n### Books\n\n- [[Tech Books | books.tech.md]]\n\n### Python\n\n- [[Python specific commands | tech.python.cli.alembic]]\n- [[Python NLP | tech.python.nlp]]\n\n### Postgres\n\n- [[Postgis extension | tech.postgres.postgis]]\n\n### GIS\n\n- [[GIS commands | cli.gis]]\n\n### Rust\n\n- [[Rust First Steps | tech.rust.md]]\n\n### Algorithms & Data Structures\n\n- [[Algorithms & Data Structures | algo.ds.md]]\n\n### Linux\n\n- [[Linux | tech.linux]]\n\n### Kubernetes\n\n- [[Kubernetes | tech.kubernetes]]\n\n### Docker\n\n- [[Docker | tech.docker]]\n\n### CSS\n\n- [[CSS | tech.css]]\n\n### Web3\n\n- [[Web 3 | tech.web3.md]]\n\n### Git\n\n- [[Git | tech.git.md]]\n\n### Flutter\n\n- [[Flutter | tech.flutter.md]]\n\n### Web Assembly\n\n- [[Web Assembly | tech.wasm.md]]\n\n### Tools\n\n- [[Tools | tech.tools.md]]\n\n#### System Design\n\n- [[System Design | tech.system-design.md]]\n\n### People\n\n- [[Leslie Lamport | people.leslie-lamport.md]]\n- [[Paul Graham | people.paul-graham.md]]\n\n### Hobbies\n\n- [[Hobbies | hobbies.bicycling.md]]\n\n### Domains\n\n- [[Queuing Theory | domain.queuing-theory.md]]\n- [[Reversing | domain.reversing.md]]\n- [[Recruiting | domain.recruiting.md]]\n- [[Systems | domain.systems.md]]\n- [[Functional | domain.functional.md]]\n- [[Probability |  domain.probability.md]]\n- [[Category Theory | domain.category-theory.md]]\n- [[Relativity | domain.relativity.md]]\n- [[Game Theory | domain.game-theory.md]]\n- [[Personal Finance | domain.personal-finance.md]]\n- [[Calculus | domain.calculus.md]]\n- [[UX | domains.ux.md]]\n- [[Graphics | domain.graphics.md]]\n- [[Business | domain.business.md]]\n- [[Math | domain.math.md]]\n- [[Privacy | domain.privacy.md]]\n- [[Philosophy | domain.philosophy.md]]\n- [[Mental Health | domain.mental-health.md]]\n- [[Crypto | domain.crypto.md]]\n- [[Software Design | domain.software-design.md]]\n- [[Writing | domain.writing.md]]\n"
+      "body": "\nRoot of Dendron vault.\n\n### Books\n\n- [[Tech Books | books.tech.md]]\n\n### Python\n\n- [[Python specific commands | tech.python.cli.alembic]]\n- [[Python NLP | tech.python.nlp]]\n\n### Postgres\n\n- [[Postgis extension | tech.postgres.postgis]]\n\n### GIS\n\n- [[GIS commands | cli.gis]]\n\n### Rust\n\n- [[Rust First Steps | tech.rust.md]]\n\n### Algorithms & Data Structures\n\n- [[Algorithms & Data Structures | algo.ds.md]]\n\n### Linux\n\n- [[Linux | tech.linux]]\n\n### Kubernetes\n\n- [[Kubernetes | tech.kubernetes]]\n\n### Docker\n\n- [[Docker | tech.docker]]\n\n### CSS\n\n- [[CSS | tech.css]]\n\n### Web3\n\n- [[Web 3 | tech.web3.md]]\n\n### Git\n\n- [[Git | tech.git.md]]\n\n### Flutter\n\n- [[Flutter | tech.flutter.md]]\n\n### Web Assembly\n\n- [[Web Assembly | tech.wasm.md]]\n\n### Tools\n\n- [[Tools | tech.tools.md]]\n\n#### System Design\n\n- [[System Design | tech.system-design.md]]\n\n### People\n\n- [[Leslie Lamport | people.leslie-lamport.md]]\n- [[Paul Graham | people.paul-graham.md]]\n\n### Hobbies\n\n- [[Hobbies | hobbies.bicycling.md]]\n\n### Domains\n\n- [[Queuing Theory | domain.queuing-theory.md]]\n- [[Reversing | domain.reversing.md]]\n- [[Recruiting | domain.recruiting.md]]\n- [[Systems | domain.systems.md]]\n- [[Functional | domain.functional.md]]\n- [[Probability |  domain.probability.md]]\n- [[Category Theory | domain.category-theory.md]]\n- [[Relativity | domain.relativity.md]]\n- [[Game Theory | domain.game-theory.md]]\n- [[Personal Finance | domain.personal-finance.md]]\n- [[Calculus | domain.calculus.md]]\n- [[UX|domain.ux]]\n- [[Graphics | domain.graphics.md]]\n- [[Business | domain.business.md]]\n- [[Math | domain.math.md]]\n- [[Privacy | domain.privacy.md]]\n- [[Philosophy | domain.philosophy.md]]\n- [[Mental Health | domain.mental-health.md]]\n- [[Crypto | domain.crypto.md]]\n- [[Software Design | domain.software-design.md]]\n- [[Writing | domain.writing.md]]\n"
     }
   ],
   "noteIndex": {
@@ -8034,7 +8009,7 @@
           "id": "root",
           "vaultName": "vault"
         },
-        "value": "domains.ux",
+        "value": "domain.ux",
         "alias": "UX",
         "position": {
           "start": {
@@ -8044,15 +8019,15 @@
           },
           "end": {
             "line": 91,
-            "column": 25,
-            "offset": 1499
+            "column": 19,
+            "offset": 1493
           },
           "indent": []
         },
         "xvault": false,
         "sameFile": false,
         "to": {
-          "fname": "domains.ux"
+          "fname": "domain.ux"
         }
       },
       {
@@ -8068,12 +8043,12 @@
           "start": {
             "line": 92,
             "column": 3,
-            "offset": 1502
+            "offset": 1496
           },
           "end": {
             "line": 92,
             "column": 36,
-            "offset": 1535
+            "offset": 1529
           },
           "indent": []
         },
@@ -8096,12 +8071,12 @@
           "start": {
             "line": 93,
             "column": 3,
-            "offset": 1538
+            "offset": 1532
           },
           "end": {
             "line": 93,
             "column": 36,
-            "offset": 1571
+            "offset": 1565
           },
           "indent": []
         },
@@ -8124,12 +8099,12 @@
           "start": {
             "line": 94,
             "column": 3,
-            "offset": 1574
+            "offset": 1568
           },
           "end": {
             "line": 94,
             "column": 28,
-            "offset": 1599
+            "offset": 1593
           },
           "indent": []
         },
@@ -8152,12 +8127,12 @@
           "start": {
             "line": 95,
             "column": 3,
-            "offset": 1602
+            "offset": 1596
           },
           "end": {
             "line": 95,
             "column": 34,
-            "offset": 1633
+            "offset": 1627
           },
           "indent": []
         },
@@ -8180,12 +8155,12 @@
           "start": {
             "line": 96,
             "column": 3,
-            "offset": 1636
+            "offset": 1630
           },
           "end": {
             "line": 96,
             "column": 40,
-            "offset": 1673
+            "offset": 1667
           },
           "indent": []
         },
@@ -8208,12 +8183,12 @@
           "start": {
             "line": 97,
             "column": 3,
-            "offset": 1676
+            "offset": 1670
           },
           "end": {
             "line": 97,
             "column": 46,
-            "offset": 1719
+            "offset": 1713
           },
           "indent": []
         },
@@ -8236,12 +8211,12 @@
           "start": {
             "line": 98,
             "column": 3,
-            "offset": 1722
+            "offset": 1716
           },
           "end": {
             "line": 98,
             "column": 32,
-            "offset": 1751
+            "offset": 1745
           },
           "indent": []
         },
@@ -8264,12 +8239,12 @@
           "start": {
             "line": 99,
             "column": 3,
-            "offset": 1754
+            "offset": 1748
           },
           "end": {
             "line": 99,
             "column": 50,
-            "offset": 1801
+            "offset": 1795
           },
           "indent": []
         },
@@ -8292,12 +8267,12 @@
           "start": {
             "line": 100,
             "column": 3,
-            "offset": 1804
+            "offset": 1798
           },
           "end": {
             "line": 100,
             "column": 34,
-            "offset": 1835
+            "offset": 1829
           },
           "indent": []
         },
@@ -8452,20 +8427,19 @@
       "GjDkFgEr5m9r6SxocL0J9",
       "9yagloTeRMuQzmsgNiiUb",
       "nQ25lsPGG0GZgyiC9mRNT",
-      "wwRDiMzRtEn3Oa7bkwKW6",
       "pe3x04h2NkAPH0UrRQz6D",
       "9EUxx2cJ9KVFwxUCdtLBP",
       "RJpOess77XPb82EqcdaaZ",
       "01u0co3RYjOM1bjpc2qIU"
     ],
     "data": {},
-    "contentHash": "c249d19dbed2756744cca051d8df1707",
+    "contentHash": "695bcf4e1c51ddfb051e4524726ffb7d",
     "custom": {
       "stub": false,
       "nav_order": 0,
       "permalink": "/"
     },
-    "body": "\nRoot of Dendron vault.\n\n### Books\n\n- [[Tech Books | books.tech.md]]\n\n### Python\n\n- [[Python specific commands | tech.python.cli.alembic]]\n- [[Python NLP | tech.python.nlp]]\n\n### Postgres\n\n- [[Postgis extension | tech.postgres.postgis]]\n\n### GIS\n\n- [[GIS commands | cli.gis]]\n\n### Rust\n\n- [[Rust First Steps | tech.rust.md]]\n\n### Algorithms & Data Structures\n\n- [[Algorithms & Data Structures | algo.ds.md]]\n\n### Linux\n\n- [[Linux | tech.linux]]\n\n### Kubernetes\n\n- [[Kubernetes | tech.kubernetes]]\n\n### Docker\n\n- [[Docker | tech.docker]]\n\n### CSS\n\n- [[CSS | tech.css]]\n\n### Web3\n\n- [[Web 3 | tech.web3.md]]\n\n### Git\n\n- [[Git | tech.git.md]]\n\n### Flutter\n\n- [[Flutter | tech.flutter.md]]\n\n### Web Assembly\n\n- [[Web Assembly | tech.wasm.md]]\n\n### Tools\n\n- [[Tools | tech.tools.md]]\n\n#### System Design\n\n- [[System Design | tech.system-design.md]]\n\n### People\n\n- [[Leslie Lamport | people.leslie-lamport.md]]\n- [[Paul Graham | people.paul-graham.md]]\n\n### Hobbies\n\n- [[Hobbies | hobbies.bicycling.md]]\n\n### Domains\n\n- [[Queuing Theory | domain.queuing-theory.md]]\n- [[Reversing | domain.reversing.md]]\n- [[Recruiting | domain.recruiting.md]]\n- [[Systems | domain.systems.md]]\n- [[Functional | domain.functional.md]]\n- [[Probability |  domain.probability.md]]\n- [[Category Theory | domain.category-theory.md]]\n- [[Relativity | domain.relativity.md]]\n- [[Game Theory | domain.game-theory.md]]\n- [[Personal Finance | domain.personal-finance.md]]\n- [[Calculus | domain.calculus.md]]\n- [[UX | domains.ux.md]]\n- [[Graphics | domain.graphics.md]]\n- [[Business | domain.business.md]]\n- [[Math | domain.math.md]]\n- [[Privacy | domain.privacy.md]]\n- [[Philosophy | domain.philosophy.md]]\n- [[Mental Health | domain.mental-health.md]]\n- [[Crypto | domain.crypto.md]]\n- [[Software Design | domain.software-design.md]]\n- [[Writing | domain.writing.md]]\n"
+    "body": "\nRoot of Dendron vault.\n\n### Books\n\n- [[Tech Books | books.tech.md]]\n\n### Python\n\n- [[Python specific commands | tech.python.cli.alembic]]\n- [[Python NLP | tech.python.nlp]]\n\n### Postgres\n\n- [[Postgis extension | tech.postgres.postgis]]\n\n### GIS\n\n- [[GIS commands | cli.gis]]\n\n### Rust\n\n- [[Rust First Steps | tech.rust.md]]\n\n### Algorithms & Data Structures\n\n- [[Algorithms & Data Structures | algo.ds.md]]\n\n### Linux\n\n- [[Linux | tech.linux]]\n\n### Kubernetes\n\n- [[Kubernetes | tech.kubernetes]]\n\n### Docker\n\n- [[Docker | tech.docker]]\n\n### CSS\n\n- [[CSS | tech.css]]\n\n### Web3\n\n- [[Web 3 | tech.web3.md]]\n\n### Git\n\n- [[Git | tech.git.md]]\n\n### Flutter\n\n- [[Flutter | tech.flutter.md]]\n\n### Web Assembly\n\n- [[Web Assembly | tech.wasm.md]]\n\n### Tools\n\n- [[Tools | tech.tools.md]]\n\n#### System Design\n\n- [[System Design | tech.system-design.md]]\n\n### People\n\n- [[Leslie Lamport | people.leslie-lamport.md]]\n- [[Paul Graham | people.paul-graham.md]]\n\n### Hobbies\n\n- [[Hobbies | hobbies.bicycling.md]]\n\n### Domains\n\n- [[Queuing Theory | domain.queuing-theory.md]]\n- [[Reversing | domain.reversing.md]]\n- [[Recruiting | domain.recruiting.md]]\n- [[Systems | domain.systems.md]]\n- [[Functional | domain.functional.md]]\n- [[Probability |  domain.probability.md]]\n- [[Category Theory | domain.category-theory.md]]\n- [[Relativity | domain.relativity.md]]\n- [[Game Theory | domain.game-theory.md]]\n- [[Personal Finance | domain.personal-finance.md]]\n- [[Calculus | domain.calculus.md]]\n- [[UX|domain.ux]]\n- [[Graphics | domain.graphics.md]]\n- [[Business | domain.business.md]]\n- [[Math | domain.math.md]]\n- [[Privacy | domain.privacy.md]]\n- [[Philosophy | domain.philosophy.md]]\n- [[Mental Health | domain.mental-health.md]]\n- [[Crypto | domain.crypto.md]]\n- [[Software Design | domain.software-design.md]]\n- [[Writing | domain.writing.md]]\n"
   },
   "vaults": [
     {
