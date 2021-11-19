@@ -11,8 +11,8 @@
       "links": [],
       "anchors": {},
       "fname": "403",
-      "updated": 1637348990258,
-      "created": 1637348990258,
+      "updated": 1637349366416,
+      "created": 1637349366416,
       "parent": null,
       "children": [],
       "data": {}
@@ -202,17 +202,17 @@
             "vaultName": "vault"
           },
           "value": "algo.ds",
-          "alias": "Data Structure Visualizations",
+          "alias": "Algorithms & Data Structures",
           "position": {
             "start": {
-              "line": 29,
+              "line": 27,
               "column": 3,
-              "offset": 392
+              "offset": 362
             },
             "end": {
-              "line": 29,
-              "column": 49,
-              "offset": 438
+              "line": 27,
+              "column": 48,
+              "offset": 407
             },
             "indent": []
           },
@@ -233,14 +233,14 @@
           "alias": "Linux",
           "position": {
             "start": {
-              "line": 33,
+              "line": 31,
               "column": 3,
-              "offset": 453
+              "offset": 422
             },
             "end": {
-              "line": 33,
+              "line": 31,
               "column": 25,
-              "offset": 475
+              "offset": 444
             },
             "indent": []
           },
@@ -261,14 +261,14 @@
           "alias": "Kubernetes",
           "position": {
             "start": {
-              "line": 37,
+              "line": 35,
               "column": 3,
-              "offset": 495
+              "offset": 464
             },
             "end": {
-              "line": 37,
+              "line": 35,
               "column": 35,
-              "offset": 527
+              "offset": 496
             },
             "indent": []
           },
@@ -289,14 +289,14 @@
           "alias": "Docker",
           "position": {
             "start": {
-              "line": 41,
+              "line": 39,
               "column": 3,
-              "offset": 543
+              "offset": 512
             },
             "end": {
-              "line": 41,
+              "line": 39,
               "column": 27,
-              "offset": 567
+              "offset": 536
             },
             "indent": []
           },
@@ -317,14 +317,14 @@
           "alias": "CSS",
           "position": {
             "start": {
-              "line": 45,
+              "line": 43,
               "column": 3,
-              "offset": 580
+              "offset": 549
             },
             "end": {
-              "line": 45,
+              "line": 43,
               "column": 21,
-              "offset": 598
+              "offset": 567
             },
             "indent": []
           },
@@ -345,14 +345,14 @@
           "alias": "Web 3",
           "position": {
             "start": {
-              "line": 49,
+              "line": 47,
               "column": 3,
-              "offset": 612
+              "offset": 581
             },
             "end": {
-              "line": 49,
+              "line": 47,
               "column": 27,
-              "offset": 636
+              "offset": 605
             },
             "indent": []
           },
@@ -373,14 +373,14 @@
           "alias": "Git",
           "position": {
             "start": {
-              "line": 53,
+              "line": 51,
               "column": 3,
-              "offset": 649
+              "offset": 618
             },
             "end": {
-              "line": 53,
+              "line": 51,
               "column": 24,
-              "offset": 670
+              "offset": 639
             },
             "indent": []
           },
@@ -401,14 +401,14 @@
           "alias": "Flutter",
           "position": {
             "start": {
-              "line": 57,
+              "line": 55,
               "column": 3,
-              "offset": 687
+              "offset": 656
             },
             "end": {
-              "line": 57,
+              "line": 55,
               "column": 32,
-              "offset": 716
+              "offset": 685
             },
             "indent": []
           },
@@ -429,14 +429,14 @@
           "alias": "Web Assembly",
           "position": {
             "start": {
-              "line": 61,
+              "line": 59,
               "column": 3,
-              "offset": 738
+              "offset": 707
             },
             "end": {
-              "line": 61,
+              "line": 59,
               "column": 34,
-              "offset": 769
+              "offset": 738
             },
             "indent": []
           },
@@ -457,14 +457,14 @@
           "alias": "Tools",
           "position": {
             "start": {
-              "line": 65,
+              "line": 63,
               "column": 3,
-              "offset": 784
+              "offset": 753
             },
             "end": {
-              "line": 65,
+              "line": 63,
               "column": 28,
-              "offset": 809
+              "offset": 778
             },
             "indent": []
           },
@@ -485,14 +485,14 @@
           "alias": "System Design",
           "position": {
             "start": {
-              "line": 69,
+              "line": 67,
               "column": 3,
-              "offset": 833
+              "offset": 802
             },
             "end": {
-              "line": 69,
+              "line": 67,
               "column": 44,
-              "offset": 874
+              "offset": 843
             },
             "indent": []
           },
@@ -513,14 +513,14 @@
           "alias": "Leslie Lamport",
           "position": {
             "start": {
-              "line": 73,
+              "line": 71,
               "column": 3,
-              "offset": 890
+              "offset": 859
             },
             "end": {
-              "line": 73,
+              "line": 71,
               "column": 48,
-              "offset": 935
+              "offset": 904
             },
             "indent": []
           },
@@ -541,14 +541,14 @@
           "alias": "Paul Graham",
           "position": {
             "start": {
-              "line": 74,
+              "line": 72,
               "column": 3,
-              "offset": 938
+              "offset": 907
             },
             "end": {
-              "line": 74,
+              "line": 72,
               "column": 42,
-              "offset": 977
+              "offset": 946
             },
             "indent": []
           },
@@ -569,14 +569,14 @@
           "alias": "Hobbies",
           "position": {
             "start": {
-              "line": 78,
+              "line": 76,
               "column": 3,
-              "offset": 994
+              "offset": 963
             },
             "end": {
-              "line": 78,
+              "line": 76,
               "column": 37,
-              "offset": 1028
+              "offset": 997
             },
             "indent": []
           },
@@ -597,14 +597,14 @@
           "alias": "Queuing Theory",
           "position": {
             "start": {
-              "line": 82,
+              "line": 80,
               "column": 3,
-              "offset": 1045
+              "offset": 1014
             },
             "end": {
-              "line": 82,
+              "line": 80,
               "column": 48,
-              "offset": 1090
+              "offset": 1059
             },
             "indent": []
           },
@@ -625,14 +625,14 @@
           "alias": "Reversing",
           "position": {
             "start": {
-              "line": 83,
+              "line": 81,
               "column": 3,
-              "offset": 1093
+              "offset": 1062
             },
             "end": {
-              "line": 83,
+              "line": 81,
               "column": 38,
-              "offset": 1128
+              "offset": 1097
             },
             "indent": []
           },
@@ -653,14 +653,14 @@
           "alias": "Recruiting",
           "position": {
             "start": {
-              "line": 84,
+              "line": 82,
               "column": 3,
-              "offset": 1131
+              "offset": 1100
             },
             "end": {
-              "line": 84,
+              "line": 82,
               "column": 40,
-              "offset": 1168
+              "offset": 1137
             },
             "indent": []
           },
@@ -681,14 +681,14 @@
           "alias": "Systems",
           "position": {
             "start": {
-              "line": 85,
+              "line": 83,
               "column": 3,
-              "offset": 1171
+              "offset": 1140
             },
             "end": {
-              "line": 85,
+              "line": 83,
               "column": 34,
-              "offset": 1202
+              "offset": 1171
             },
             "indent": []
           },
@@ -709,14 +709,14 @@
           "alias": "Functional",
           "position": {
             "start": {
-              "line": 86,
+              "line": 84,
               "column": 3,
-              "offset": 1205
+              "offset": 1174
             },
             "end": {
-              "line": 86,
+              "line": 84,
               "column": 40,
-              "offset": 1242
+              "offset": 1211
             },
             "indent": []
           },
@@ -737,14 +737,14 @@
           "alias": "Probability",
           "position": {
             "start": {
-              "line": 87,
+              "line": 85,
               "column": 3,
-              "offset": 1245
+              "offset": 1214
             },
             "end": {
-              "line": 87,
+              "line": 85,
               "column": 43,
-              "offset": 1285
+              "offset": 1254
             },
             "indent": []
           },
@@ -765,14 +765,14 @@
           "alias": "Category Theory",
           "position": {
             "start": {
-              "line": 88,
+              "line": 86,
               "column": 3,
-              "offset": 1288
+              "offset": 1257
             },
             "end": {
-              "line": 88,
+              "line": 86,
               "column": 50,
-              "offset": 1335
+              "offset": 1304
             },
             "indent": []
           },
@@ -793,14 +793,14 @@
           "alias": "Relativity",
           "position": {
             "start": {
-              "line": 89,
+              "line": 87,
               "column": 3,
-              "offset": 1338
+              "offset": 1307
             },
             "end": {
-              "line": 89,
+              "line": 87,
               "column": 40,
-              "offset": 1375
+              "offset": 1344
             },
             "indent": []
           },
@@ -821,14 +821,14 @@
           "alias": "Game Theory",
           "position": {
             "start": {
-              "line": 90,
+              "line": 88,
               "column": 3,
-              "offset": 1378
+              "offset": 1347
             },
             "end": {
-              "line": 90,
+              "line": 88,
               "column": 42,
-              "offset": 1417
+              "offset": 1386
             },
             "indent": []
           },
@@ -849,14 +849,14 @@
           "alias": "Personal Finance",
           "position": {
             "start": {
-              "line": 91,
+              "line": 89,
               "column": 3,
-              "offset": 1420
+              "offset": 1389
             },
             "end": {
-              "line": 91,
+              "line": 89,
               "column": 52,
-              "offset": 1469
+              "offset": 1438
             },
             "indent": []
           },
@@ -877,14 +877,14 @@
           "alias": "Calculus",
           "position": {
             "start": {
-              "line": 92,
+              "line": 90,
               "column": 3,
-              "offset": 1472
+              "offset": 1441
             },
             "end": {
-              "line": 92,
+              "line": 90,
               "column": 36,
-              "offset": 1505
+              "offset": 1474
             },
             "indent": []
           },
@@ -905,14 +905,14 @@
           "alias": "UX",
           "position": {
             "start": {
-              "line": 93,
+              "line": 91,
               "column": 3,
-              "offset": 1508
+              "offset": 1477
             },
             "end": {
-              "line": 93,
+              "line": 91,
               "column": 25,
-              "offset": 1530
+              "offset": 1499
             },
             "indent": []
           },
@@ -933,14 +933,14 @@
           "alias": "Graphics",
           "position": {
             "start": {
-              "line": 94,
+              "line": 92,
               "column": 3,
-              "offset": 1533
+              "offset": 1502
             },
             "end": {
-              "line": 94,
+              "line": 92,
               "column": 36,
-              "offset": 1566
+              "offset": 1535
             },
             "indent": []
           },
@@ -961,14 +961,14 @@
           "alias": "Business",
           "position": {
             "start": {
-              "line": 95,
+              "line": 93,
               "column": 3,
-              "offset": 1569
+              "offset": 1538
             },
             "end": {
-              "line": 95,
+              "line": 93,
               "column": 36,
-              "offset": 1602
+              "offset": 1571
             },
             "indent": []
           },
@@ -989,14 +989,14 @@
           "alias": "Math",
           "position": {
             "start": {
-              "line": 96,
+              "line": 94,
               "column": 3,
-              "offset": 1605
+              "offset": 1574
             },
             "end": {
-              "line": 96,
+              "line": 94,
               "column": 28,
-              "offset": 1630
+              "offset": 1599
             },
             "indent": []
           },
@@ -1017,14 +1017,14 @@
           "alias": "Privacy",
           "position": {
             "start": {
-              "line": 97,
+              "line": 95,
               "column": 3,
-              "offset": 1633
+              "offset": 1602
             },
             "end": {
-              "line": 97,
+              "line": 95,
               "column": 34,
-              "offset": 1664
+              "offset": 1633
             },
             "indent": []
           },
@@ -1045,14 +1045,14 @@
           "alias": "Philosophy",
           "position": {
             "start": {
-              "line": 98,
+              "line": 96,
               "column": 3,
-              "offset": 1667
+              "offset": 1636
             },
             "end": {
-              "line": 98,
+              "line": 96,
               "column": 40,
-              "offset": 1704
+              "offset": 1673
             },
             "indent": []
           },
@@ -1073,14 +1073,14 @@
           "alias": "Mental Health",
           "position": {
             "start": {
-              "line": 99,
+              "line": 97,
               "column": 3,
-              "offset": 1707
+              "offset": 1676
             },
             "end": {
-              "line": 99,
+              "line": 97,
               "column": 46,
-              "offset": 1750
+              "offset": 1719
             },
             "indent": []
           },
@@ -1101,14 +1101,14 @@
           "alias": "Crypto",
           "position": {
             "start": {
-              "line": 100,
+              "line": 98,
               "column": 3,
-              "offset": 1753
+              "offset": 1722
             },
             "end": {
-              "line": 100,
+              "line": 98,
               "column": 32,
-              "offset": 1782
+              "offset": 1751
             },
             "indent": []
           },
@@ -1129,14 +1129,14 @@
           "alias": "Software Design",
           "position": {
             "start": {
-              "line": 101,
+              "line": 99,
               "column": 3,
-              "offset": 1785
+              "offset": 1754
             },
             "end": {
-              "line": 101,
+              "line": 99,
               "column": 50,
-              "offset": 1832
+              "offset": 1801
             },
             "indent": []
           },
@@ -1157,14 +1157,14 @@
           "alias": "Writing",
           "position": {
             "start": {
-              "line": 102,
+              "line": 100,
               "column": 3,
-              "offset": 1835
+              "offset": 1804
             },
             "end": {
-              "line": 102,
+              "line": 100,
               "column": 34,
-              "offset": 1866
+              "offset": 1835
             },
             "indent": []
           },
@@ -1222,96 +1222,96 @@
           "type": "header",
           "text": "Linux",
           "value": "linux",
-          "line": 38,
+          "line": 36,
           "column": 0
         },
         "kubernetes": {
           "type": "header",
           "text": "Kubernetes",
           "value": "kubernetes",
-          "line": 42,
+          "line": 40,
           "column": 0
         },
         "docker": {
           "type": "header",
           "text": "Docker",
           "value": "docker",
-          "line": 46,
+          "line": 44,
           "column": 0
         },
         "css": {
           "type": "header",
           "text": "CSS",
           "value": "css",
-          "line": 50,
+          "line": 48,
           "column": 0
         },
         "web3": {
           "type": "header",
           "text": "Web3",
           "value": "web3",
-          "line": 54,
+          "line": 52,
           "column": 0
         },
         "git": {
           "type": "header",
           "text": "Git",
           "value": "git",
-          "line": 58,
+          "line": 56,
           "column": 0
         },
         "flutter": {
           "type": "header",
           "text": "Flutter",
           "value": "flutter",
-          "line": 62,
+          "line": 60,
           "column": 0
         },
         "web-assembly": {
           "type": "header",
           "text": "Web Assembly",
           "value": "web-assembly",
-          "line": 66,
+          "line": 64,
           "column": 0
         },
         "tools": {
           "type": "header",
           "text": "Tools",
           "value": "tools",
-          "line": 70,
+          "line": 68,
           "column": 0
         },
         "system-design": {
           "type": "header",
           "text": "System Design",
           "value": "system-design",
-          "line": 74,
+          "line": 72,
           "column": 0
         },
         "people": {
           "type": "header",
           "text": "People",
           "value": "people",
-          "line": 78,
+          "line": 76,
           "column": 0
         },
         "hobbies": {
           "type": "header",
           "text": "Hobbies",
           "value": "hobbies",
-          "line": 83,
+          "line": 81,
           "column": 0
         },
         "domains": {
           "type": "header",
           "text": "Domains",
           "value": "domains",
-          "line": 87,
+          "line": 85,
           "column": 0
         }
       },
       "fname": "root",
-      "updated": 1637345884307,
+      "updated": 1637349308265,
       "created": 1595961348801,
       "parent": null,
       "children": [
@@ -1326,7 +1326,7 @@
         "01u0co3RYjOM1bjpc2qIU"
       ],
       "data": {},
-      "contentHash": "05ebfc1e1337f4bcdc1eb226050ac415",
+      "contentHash": "c249d19dbed2756744cca051d8df1707",
       "custom": {
         "stub": false,
         "nav_order": 0,
@@ -2641,7 +2641,7 @@
         "7u97tPNOEb2GJqyPBXnH4"
       ],
       "data": {},
-      "contentHash": "4e8cd856a4199b7e208ed86a74ecafe4",
+      "contentHash": "fcf4084e99745299a231674e537ca76f",
       "stub": false,
       "custom": {
         "stub": true
@@ -2664,14 +2664,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 49,
+              "line": 47,
               "column": 3,
-              "offset": 612
+              "offset": 581
             },
             "end": {
-              "line": 49,
+              "line": 47,
               "column": 27,
-              "offset": 636
+              "offset": 605
             },
             "indent": []
           },
@@ -2713,14 +2713,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 61,
+              "line": 59,
               "column": 3,
-              "offset": 738
+              "offset": 707
             },
             "end": {
-              "line": 61,
+              "line": 59,
               "column": 34,
-              "offset": 769
+              "offset": 738
             },
             "indent": []
           },
@@ -2762,14 +2762,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 65,
+              "line": 63,
               "column": 3,
-              "offset": 784
+              "offset": 753
             },
             "end": {
-              "line": 65,
+              "line": 63,
               "column": 28,
-              "offset": 809
+              "offset": 778
             },
             "indent": []
           },
@@ -2902,14 +2902,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 69,
+              "line": 67,
               "column": 3,
-              "offset": 833
+              "offset": 802
             },
             "end": {
-              "line": 69,
+              "line": 67,
               "column": 44,
-              "offset": 874
+              "offset": 843
             },
             "indent": []
           },
@@ -3086,7 +3086,7 @@
         "x3YMGw4MEl4A7W4yuWCzX"
       ],
       "data": {},
-      "contentHash": "23b887da5fa8b059fbdf45cb4a253c9b",
+      "contentHash": "cec3588de70436da64a138b3f343b7a0",
       "stub": false,
       "custom": {
         "stub": true
@@ -3159,7 +3159,7 @@
         "ulIDF3xiWsnEVBi52du6l"
       ],
       "data": {},
-      "contentHash": "1cb0da6a07aa5064f048bb41fb55f77a",
+      "contentHash": "abcaacb973078913d2c1d09e3b5ad86f",
       "stub": false,
       "custom": {
         "stub": true
@@ -3239,7 +3239,7 @@
         "k1wzz2lc5jAeXRKyEW775"
       ],
       "data": {},
-      "contentHash": "f40e50083ac1b68b047b9a648cc680fd",
+      "contentHash": "fbbb613877dff6e574fbdcae4e1fe0d1",
       "stub": false,
       "custom": {
         "stub": true
@@ -3318,14 +3318,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 33,
+              "line": 31,
               "column": 3,
-              "offset": 453
+              "offset": 422
             },
             "end": {
-              "line": 33,
+              "line": 31,
               "column": 25,
-              "offset": 475
+              "offset": 444
             },
             "indent": []
           },
@@ -3367,14 +3367,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 37,
+              "line": 35,
               "column": 3,
-              "offset": 495
+              "offset": 464
             },
             "end": {
-              "line": 37,
+              "line": 35,
               "column": 35,
-              "offset": 527
+              "offset": 496
             },
             "indent": []
           },
@@ -3416,14 +3416,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 53,
+              "line": 51,
               "column": 3,
-              "offset": 649
+              "offset": 618
             },
             "end": {
-              "line": 53,
+              "line": 51,
               "column": 24,
-              "offset": 670
+              "offset": 639
             },
             "indent": []
           },
@@ -3486,14 +3486,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 57,
+              "line": 55,
               "column": 3,
-              "offset": 687
+              "offset": 656
             },
             "end": {
-              "line": 57,
+              "line": 55,
               "column": 32,
-              "offset": 716
+              "offset": 685
             },
             "indent": []
           },
@@ -3535,14 +3535,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 41,
+              "line": 39,
               "column": 3,
-              "offset": 543
+              "offset": 512
             },
             "end": {
-              "line": 41,
+              "line": 39,
               "column": 27,
-              "offset": 567
+              "offset": 536
             },
             "indent": []
           },
@@ -3584,14 +3584,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 45,
+              "line": 43,
               "column": 3,
-              "offset": 580
+              "offset": 549
             },
             "end": {
-              "line": 45,
+              "line": 43,
               "column": 21,
-              "offset": 598
+              "offset": 567
             },
             "indent": []
           },
@@ -3635,7 +3635,7 @@
         "tX09Y1o2g7HKaSzeD8qgj"
       ],
       "data": {},
-      "contentHash": "887a8fdf9d98536e5978c34f1e184049",
+      "contentHash": "79919d12c9bf169d59ca5d4784c29049",
       "stub": false,
       "custom": {
         "stub": true
@@ -3658,14 +3658,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 74,
+              "line": 72,
               "column": 3,
-              "offset": 938
+              "offset": 907
             },
             "end": {
-              "line": 74,
+              "line": 72,
               "column": 42,
-              "offset": 977
+              "offset": 946
             },
             "indent": []
           },
@@ -3707,14 +3707,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 73,
+              "line": 71,
               "column": 3,
-              "offset": 890
+              "offset": 859
             },
             "end": {
-              "line": 73,
+              "line": 71,
               "column": 48,
-              "offset": 935
+              "offset": 904
             },
             "indent": []
           },
@@ -3764,7 +3764,7 @@
         "urfbs2lJqysEs7lqmcOEG"
       ],
       "data": {},
-      "contentHash": "91798683f46138abe7fbdd5f39d9d42d",
+      "contentHash": "2469bb1f12873b2b1bbd77f8b48292e7",
       "stub": false,
       "custom": {
         "stub": true
@@ -3787,14 +3787,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 78,
+              "line": 76,
               "column": 3,
-              "offset": 994
+              "offset": 963
             },
             "end": {
-              "line": 78,
+              "line": 76,
               "column": 37,
-              "offset": 1028
+              "offset": 997
             },
             "indent": []
           },
@@ -3844,7 +3844,7 @@
         "pEi5UIsdJOiNsujSr4VAc"
       ],
       "data": {},
-      "contentHash": "c86d459ace27ce466868c6a6b632a9f1",
+      "contentHash": "0f660dd82d4c11d2d741a5b78dc37795",
       "stub": false,
       "custom": {
         "stub": true
@@ -3867,14 +3867,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 93,
+              "line": 91,
               "column": 3,
-              "offset": 1508
+              "offset": 1477
             },
             "end": {
-              "line": 93,
+              "line": 91,
               "column": 25,
-              "offset": 1530
+              "offset": 1499
             },
             "indent": []
           },
@@ -3950,7 +3950,7 @@
         "Fiz1kXocGeMXMFmFvPDSS"
       ],
       "data": {},
-      "contentHash": "b48ef746f3e3db3f5411f2a582f7a170",
+      "contentHash": "15b05f5e131ef86c7b8736da944b3817",
       "stub": false,
       "custom": {
         "stub": true
@@ -3973,14 +3973,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 102,
+              "line": 100,
               "column": 3,
-              "offset": 1835
+              "offset": 1804
             },
             "end": {
-              "line": 102,
+              "line": 100,
               "column": 34,
-              "offset": 1866
+              "offset": 1835
             },
             "indent": []
           },
@@ -4085,14 +4085,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 85,
+              "line": 83,
               "column": 3,
-              "offset": 1171
+              "offset": 1140
             },
             "end": {
-              "line": 85,
+              "line": 83,
               "column": 34,
-              "offset": 1202
+              "offset": 1171
             },
             "indent": []
           },
@@ -4445,14 +4445,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 101,
+              "line": 99,
               "column": 3,
-              "offset": 1785
+              "offset": 1754
             },
             "end": {
-              "line": 101,
+              "line": 99,
               "column": 50,
-              "offset": 1832
+              "offset": 1801
             },
             "indent": []
           },
@@ -4515,14 +4515,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 83,
+              "line": 81,
               "column": 3,
-              "offset": 1093
+              "offset": 1062
             },
             "end": {
-              "line": 83,
+              "line": 81,
               "column": 38,
-              "offset": 1128
+              "offset": 1097
             },
             "indent": []
           },
@@ -4564,14 +4564,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 89,
+              "line": 87,
               "column": 3,
-              "offset": 1338
+              "offset": 1307
             },
             "end": {
-              "line": 89,
+              "line": 87,
               "column": 40,
-              "offset": 1375
+              "offset": 1344
             },
             "indent": []
           },
@@ -4613,14 +4613,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 84,
+              "line": 82,
               "column": 3,
-              "offset": 1131
+              "offset": 1100
             },
             "end": {
-              "line": 84,
+              "line": 82,
               "column": 40,
-              "offset": 1168
+              "offset": 1137
             },
             "indent": []
           },
@@ -4662,14 +4662,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 82,
+              "line": 80,
               "column": 3,
-              "offset": 1045
+              "offset": 1014
             },
             "end": {
-              "line": 82,
+              "line": 80,
               "column": 48,
-              "offset": 1090
+              "offset": 1059
             },
             "indent": []
           },
@@ -4711,14 +4711,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 87,
+              "line": 85,
               "column": 3,
-              "offset": 1245
+              "offset": 1214
             },
             "end": {
-              "line": 87,
+              "line": 85,
               "column": 43,
-              "offset": 1285
+              "offset": 1254
             },
             "indent": []
           },
@@ -4774,14 +4774,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 97,
+              "line": 95,
               "column": 3,
-              "offset": 1633
+              "offset": 1602
             },
             "end": {
-              "line": 97,
+              "line": 95,
               "column": 34,
-              "offset": 1664
+              "offset": 1633
             },
             "indent": []
           },
@@ -4823,14 +4823,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 98,
+              "line": 96,
               "column": 3,
-              "offset": 1667
+              "offset": 1636
             },
             "end": {
-              "line": 98,
+              "line": 96,
               "column": 40,
-              "offset": 1704
+              "offset": 1673
             },
             "indent": []
           },
@@ -4886,14 +4886,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 91,
+              "line": 89,
               "column": 3,
-              "offset": 1420
+              "offset": 1389
             },
             "end": {
-              "line": 91,
+              "line": 89,
               "column": 52,
-              "offset": 1469
+              "offset": 1438
             },
             "indent": []
           },
@@ -4956,14 +4956,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 99,
+              "line": 97,
               "column": 3,
-              "offset": 1707
+              "offset": 1676
             },
             "end": {
-              "line": 99,
+              "line": 97,
               "column": 46,
-              "offset": 1750
+              "offset": 1719
             },
             "indent": []
           },
@@ -5061,14 +5061,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 96,
+              "line": 94,
               "column": 3,
-              "offset": 1605
+              "offset": 1574
             },
             "end": {
-              "line": 96,
+              "line": 94,
               "column": 28,
-              "offset": 1630
+              "offset": 1599
             },
             "indent": []
           },
@@ -5110,14 +5110,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 94,
+              "line": 92,
               "column": 3,
-              "offset": 1533
+              "offset": 1502
             },
             "end": {
-              "line": 94,
+              "line": 92,
               "column": 36,
-              "offset": 1566
+              "offset": 1535
             },
             "indent": []
           },
@@ -5159,14 +5159,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 90,
+              "line": 88,
               "column": 3,
-              "offset": 1378
+              "offset": 1347
             },
             "end": {
-              "line": 90,
+              "line": 88,
               "column": 42,
-              "offset": 1417
+              "offset": 1386
             },
             "indent": []
           },
@@ -5208,14 +5208,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 86,
+              "line": 84,
               "column": 3,
-              "offset": 1205
+              "offset": 1174
             },
             "end": {
-              "line": 86,
+              "line": 84,
               "column": 40,
-              "offset": 1242
+              "offset": 1211
             },
             "indent": []
           },
@@ -5257,14 +5257,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 100,
+              "line": 98,
               "column": 3,
-              "offset": 1753
+              "offset": 1722
             },
             "end": {
-              "line": 100,
+              "line": 98,
               "column": 32,
-              "offset": 1782
+              "offset": 1751
             },
             "indent": []
           },
@@ -5306,14 +5306,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 88,
+              "line": 86,
               "column": 3,
-              "offset": 1288
+              "offset": 1257
             },
             "end": {
-              "line": 88,
+              "line": 86,
               "column": 50,
-              "offset": 1335
+              "offset": 1304
             },
             "indent": []
           },
@@ -5376,14 +5376,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 92,
+              "line": 90,
               "column": 3,
-              "offset": 1472
+              "offset": 1441
             },
             "end": {
-              "line": 92,
+              "line": 90,
               "column": 36,
-              "offset": 1505
+              "offset": 1474
             },
             "indent": []
           },
@@ -5446,14 +5446,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 95,
+              "line": 93,
               "column": 3,
-              "offset": 1569
+              "offset": 1538
             },
             "end": {
-              "line": 95,
+              "line": 93,
               "column": 36,
-              "offset": 1602
+              "offset": 1571
             },
             "indent": []
           },
@@ -5503,7 +5503,7 @@
         "skuK3wKzCehUeboW5rWfq"
       ],
       "data": {},
-      "contentHash": "e08fb7cdf813b2371cf275385f6ecf12",
+      "contentHash": "f235268aa5c80c3ef4dcbd2be817e5fa",
       "stub": false,
       "custom": {
         "stub": true
@@ -5583,7 +5583,7 @@
         "rCCbU6JgFk3nnkyXrVMSs"
       ],
       "data": {},
-      "contentHash": "c4b9e69c5c72bbf54ddbde9d6395dc1d",
+      "contentHash": "d393aefe997c325c1983b44beb04869c",
       "stub": false,
       "custom": {
         "stub": true
@@ -5726,7 +5726,7 @@
         "rYQt8aiZwtMNzT2ARlEKA"
       ],
       "data": {},
-      "contentHash": "96b028d72b6f48c5b3acabe021a2a7cb",
+      "contentHash": "7bce5cce085dd27385b3269bc5f8dfe7",
       "stub": false,
       "custom": {
         "stub": true
@@ -5749,14 +5749,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 29,
+              "line": 27,
               "column": 3,
-              "offset": 392
+              "offset": 362
             },
             "end": {
-              "line": 29,
-              "column": 49,
-              "offset": 438
+              "line": 27,
+              "column": 48,
+              "offset": 407
             },
             "indent": []
           },
@@ -5764,63 +5764,70 @@
         }
       ],
       "anchors": {
+        "implementations-and-analyses": {
+          "type": "header",
+          "text": "Implementations and analyses",
+          "value": "implementations-and-analyses",
+          "line": 8,
+          "column": 0
+        },
         "data-structure-visualizations": {
           "type": "header",
           "text": "Data Structure Visualizations",
           "value": "data-structure-visualizations",
-          "line": 8,
+          "line": 10,
           "column": 0
         },
         "bracket-pair-colorization-10000x-faster": {
           "type": "header",
           "text": "Bracket pair colorization 10,000x faster",
           "value": "bracket-pair-colorization-10000x-faster",
-          "line": 12,
+          "line": 14,
           "column": 0
         },
         "verkle-trees": {
           "type": "header",
           "text": "Verkle Trees",
           "value": "verkle-trees",
-          "line": 16,
+          "line": 18,
           "column": 0
         },
         "bloom-filters": {
           "type": "header",
           "text": "Bloom Filters",
           "value": "bloom-filters",
-          "line": 20,
+          "line": 22,
           "column": 0
         },
         "e-graphs": {
           "type": "header",
           "text": "E-graphs",
           "value": "e-graphs",
-          "line": 24,
+          "line": 26,
           "column": 0
         },
         "cache-aware-lock-free-concurrent-hash-tries": {
           "type": "header",
           "text": "Cache-Aware Lock-Free Concurrent Hash Tries",
           "value": "cache-aware-lock-free-concurrent-hash-tries",
-          "line": 28,
+          "line": 30,
           "column": 0
         },
         "hat-trie-a-cache-conscious-trie-based-data-structure-for-strings": {
           "type": "header",
           "text": "HAT-Trie: A Cache-Conscious Trie-Based Data Structure For Strings",
           "value": "hat-trie-a-cache-conscious-trie-based-data-structure-for-strings",
-          "line": 32,
+          "line": 34,
           "column": 0
         }
       },
       "fname": "algo.ds",
-      "updated": 1637274262637,
+      "updated": 1637349317867,
       "created": 1637270139292,
       "parent": "HmH3P1d4H7612LlIXHnCC",
       "children": [],
       "data": {},
-      "contentHash": "61960bd6d169afccb831d5a1108db36b",
+      "contentHash": "20f4025c4306a989a71c434d59e2e0a9",
       "custom": {}
     }
   },
@@ -6010,17 +6017,17 @@
             "vaultName": "vault"
           },
           "value": "algo.ds",
-          "alias": "Data Structure Visualizations",
+          "alias": "Algorithms & Data Structures",
           "position": {
             "start": {
-              "line": 29,
+              "line": 27,
               "column": 3,
-              "offset": 392
+              "offset": 362
             },
             "end": {
-              "line": 29,
-              "column": 49,
-              "offset": 438
+              "line": 27,
+              "column": 48,
+              "offset": 407
             },
             "indent": []
           },
@@ -6041,14 +6048,14 @@
           "alias": "Linux",
           "position": {
             "start": {
-              "line": 33,
+              "line": 31,
               "column": 3,
-              "offset": 453
+              "offset": 422
             },
             "end": {
-              "line": 33,
+              "line": 31,
               "column": 25,
-              "offset": 475
+              "offset": 444
             },
             "indent": []
           },
@@ -6069,14 +6076,14 @@
           "alias": "Kubernetes",
           "position": {
             "start": {
-              "line": 37,
+              "line": 35,
               "column": 3,
-              "offset": 495
+              "offset": 464
             },
             "end": {
-              "line": 37,
+              "line": 35,
               "column": 35,
-              "offset": 527
+              "offset": 496
             },
             "indent": []
           },
@@ -6097,14 +6104,14 @@
           "alias": "Docker",
           "position": {
             "start": {
-              "line": 41,
+              "line": 39,
               "column": 3,
-              "offset": 543
+              "offset": 512
             },
             "end": {
-              "line": 41,
+              "line": 39,
               "column": 27,
-              "offset": 567
+              "offset": 536
             },
             "indent": []
           },
@@ -6125,14 +6132,14 @@
           "alias": "CSS",
           "position": {
             "start": {
-              "line": 45,
+              "line": 43,
               "column": 3,
-              "offset": 580
+              "offset": 549
             },
             "end": {
-              "line": 45,
+              "line": 43,
               "column": 21,
-              "offset": 598
+              "offset": 567
             },
             "indent": []
           },
@@ -6153,14 +6160,14 @@
           "alias": "Web 3",
           "position": {
             "start": {
-              "line": 49,
+              "line": 47,
               "column": 3,
-              "offset": 612
+              "offset": 581
             },
             "end": {
-              "line": 49,
+              "line": 47,
               "column": 27,
-              "offset": 636
+              "offset": 605
             },
             "indent": []
           },
@@ -6181,14 +6188,14 @@
           "alias": "Git",
           "position": {
             "start": {
-              "line": 53,
+              "line": 51,
               "column": 3,
-              "offset": 649
+              "offset": 618
             },
             "end": {
-              "line": 53,
+              "line": 51,
               "column": 24,
-              "offset": 670
+              "offset": 639
             },
             "indent": []
           },
@@ -6209,14 +6216,14 @@
           "alias": "Flutter",
           "position": {
             "start": {
-              "line": 57,
+              "line": 55,
               "column": 3,
-              "offset": 687
+              "offset": 656
             },
             "end": {
-              "line": 57,
+              "line": 55,
               "column": 32,
-              "offset": 716
+              "offset": 685
             },
             "indent": []
           },
@@ -6237,14 +6244,14 @@
           "alias": "Web Assembly",
           "position": {
             "start": {
-              "line": 61,
+              "line": 59,
               "column": 3,
-              "offset": 738
+              "offset": 707
             },
             "end": {
-              "line": 61,
+              "line": 59,
               "column": 34,
-              "offset": 769
+              "offset": 738
             },
             "indent": []
           },
@@ -6265,14 +6272,14 @@
           "alias": "Tools",
           "position": {
             "start": {
-              "line": 65,
+              "line": 63,
               "column": 3,
-              "offset": 784
+              "offset": 753
             },
             "end": {
-              "line": 65,
+              "line": 63,
               "column": 28,
-              "offset": 809
+              "offset": 778
             },
             "indent": []
           },
@@ -6293,14 +6300,14 @@
           "alias": "System Design",
           "position": {
             "start": {
-              "line": 69,
+              "line": 67,
               "column": 3,
-              "offset": 833
+              "offset": 802
             },
             "end": {
-              "line": 69,
+              "line": 67,
               "column": 44,
-              "offset": 874
+              "offset": 843
             },
             "indent": []
           },
@@ -6321,14 +6328,14 @@
           "alias": "Leslie Lamport",
           "position": {
             "start": {
-              "line": 73,
+              "line": 71,
               "column": 3,
-              "offset": 890
+              "offset": 859
             },
             "end": {
-              "line": 73,
+              "line": 71,
               "column": 48,
-              "offset": 935
+              "offset": 904
             },
             "indent": []
           },
@@ -6349,14 +6356,14 @@
           "alias": "Paul Graham",
           "position": {
             "start": {
-              "line": 74,
+              "line": 72,
               "column": 3,
-              "offset": 938
+              "offset": 907
             },
             "end": {
-              "line": 74,
+              "line": 72,
               "column": 42,
-              "offset": 977
+              "offset": 946
             },
             "indent": []
           },
@@ -6377,14 +6384,14 @@
           "alias": "Hobbies",
           "position": {
             "start": {
-              "line": 78,
+              "line": 76,
               "column": 3,
-              "offset": 994
+              "offset": 963
             },
             "end": {
-              "line": 78,
+              "line": 76,
               "column": 37,
-              "offset": 1028
+              "offset": 997
             },
             "indent": []
           },
@@ -6405,14 +6412,14 @@
           "alias": "Queuing Theory",
           "position": {
             "start": {
-              "line": 82,
+              "line": 80,
               "column": 3,
-              "offset": 1045
+              "offset": 1014
             },
             "end": {
-              "line": 82,
+              "line": 80,
               "column": 48,
-              "offset": 1090
+              "offset": 1059
             },
             "indent": []
           },
@@ -6433,14 +6440,14 @@
           "alias": "Reversing",
           "position": {
             "start": {
-              "line": 83,
+              "line": 81,
               "column": 3,
-              "offset": 1093
+              "offset": 1062
             },
             "end": {
-              "line": 83,
+              "line": 81,
               "column": 38,
-              "offset": 1128
+              "offset": 1097
             },
             "indent": []
           },
@@ -6461,14 +6468,14 @@
           "alias": "Recruiting",
           "position": {
             "start": {
-              "line": 84,
+              "line": 82,
               "column": 3,
-              "offset": 1131
+              "offset": 1100
             },
             "end": {
-              "line": 84,
+              "line": 82,
               "column": 40,
-              "offset": 1168
+              "offset": 1137
             },
             "indent": []
           },
@@ -6489,14 +6496,14 @@
           "alias": "Systems",
           "position": {
             "start": {
-              "line": 85,
+              "line": 83,
               "column": 3,
-              "offset": 1171
+              "offset": 1140
             },
             "end": {
-              "line": 85,
+              "line": 83,
               "column": 34,
-              "offset": 1202
+              "offset": 1171
             },
             "indent": []
           },
@@ -6517,14 +6524,14 @@
           "alias": "Functional",
           "position": {
             "start": {
-              "line": 86,
+              "line": 84,
               "column": 3,
-              "offset": 1205
+              "offset": 1174
             },
             "end": {
-              "line": 86,
+              "line": 84,
               "column": 40,
-              "offset": 1242
+              "offset": 1211
             },
             "indent": []
           },
@@ -6545,14 +6552,14 @@
           "alias": "Probability",
           "position": {
             "start": {
-              "line": 87,
+              "line": 85,
               "column": 3,
-              "offset": 1245
+              "offset": 1214
             },
             "end": {
-              "line": 87,
+              "line": 85,
               "column": 43,
-              "offset": 1285
+              "offset": 1254
             },
             "indent": []
           },
@@ -6573,14 +6580,14 @@
           "alias": "Category Theory",
           "position": {
             "start": {
-              "line": 88,
+              "line": 86,
               "column": 3,
-              "offset": 1288
+              "offset": 1257
             },
             "end": {
-              "line": 88,
+              "line": 86,
               "column": 50,
-              "offset": 1335
+              "offset": 1304
             },
             "indent": []
           },
@@ -6601,14 +6608,14 @@
           "alias": "Relativity",
           "position": {
             "start": {
-              "line": 89,
+              "line": 87,
               "column": 3,
-              "offset": 1338
+              "offset": 1307
             },
             "end": {
-              "line": 89,
+              "line": 87,
               "column": 40,
-              "offset": 1375
+              "offset": 1344
             },
             "indent": []
           },
@@ -6629,14 +6636,14 @@
           "alias": "Game Theory",
           "position": {
             "start": {
-              "line": 90,
+              "line": 88,
               "column": 3,
-              "offset": 1378
+              "offset": 1347
             },
             "end": {
-              "line": 90,
+              "line": 88,
               "column": 42,
-              "offset": 1417
+              "offset": 1386
             },
             "indent": []
           },
@@ -6657,14 +6664,14 @@
           "alias": "Personal Finance",
           "position": {
             "start": {
-              "line": 91,
+              "line": 89,
               "column": 3,
-              "offset": 1420
+              "offset": 1389
             },
             "end": {
-              "line": 91,
+              "line": 89,
               "column": 52,
-              "offset": 1469
+              "offset": 1438
             },
             "indent": []
           },
@@ -6685,14 +6692,14 @@
           "alias": "Calculus",
           "position": {
             "start": {
-              "line": 92,
+              "line": 90,
               "column": 3,
-              "offset": 1472
+              "offset": 1441
             },
             "end": {
-              "line": 92,
+              "line": 90,
               "column": 36,
-              "offset": 1505
+              "offset": 1474
             },
             "indent": []
           },
@@ -6713,14 +6720,14 @@
           "alias": "UX",
           "position": {
             "start": {
-              "line": 93,
+              "line": 91,
               "column": 3,
-              "offset": 1508
+              "offset": 1477
             },
             "end": {
-              "line": 93,
+              "line": 91,
               "column": 25,
-              "offset": 1530
+              "offset": 1499
             },
             "indent": []
           },
@@ -6741,14 +6748,14 @@
           "alias": "Graphics",
           "position": {
             "start": {
-              "line": 94,
+              "line": 92,
               "column": 3,
-              "offset": 1533
+              "offset": 1502
             },
             "end": {
-              "line": 94,
+              "line": 92,
               "column": 36,
-              "offset": 1566
+              "offset": 1535
             },
             "indent": []
           },
@@ -6769,14 +6776,14 @@
           "alias": "Business",
           "position": {
             "start": {
-              "line": 95,
+              "line": 93,
               "column": 3,
-              "offset": 1569
+              "offset": 1538
             },
             "end": {
-              "line": 95,
+              "line": 93,
               "column": 36,
-              "offset": 1602
+              "offset": 1571
             },
             "indent": []
           },
@@ -6797,14 +6804,14 @@
           "alias": "Math",
           "position": {
             "start": {
-              "line": 96,
+              "line": 94,
               "column": 3,
-              "offset": 1605
+              "offset": 1574
             },
             "end": {
-              "line": 96,
+              "line": 94,
               "column": 28,
-              "offset": 1630
+              "offset": 1599
             },
             "indent": []
           },
@@ -6825,14 +6832,14 @@
           "alias": "Privacy",
           "position": {
             "start": {
-              "line": 97,
+              "line": 95,
               "column": 3,
-              "offset": 1633
+              "offset": 1602
             },
             "end": {
-              "line": 97,
+              "line": 95,
               "column": 34,
-              "offset": 1664
+              "offset": 1633
             },
             "indent": []
           },
@@ -6853,14 +6860,14 @@
           "alias": "Philosophy",
           "position": {
             "start": {
-              "line": 98,
+              "line": 96,
               "column": 3,
-              "offset": 1667
+              "offset": 1636
             },
             "end": {
-              "line": 98,
+              "line": 96,
               "column": 40,
-              "offset": 1704
+              "offset": 1673
             },
             "indent": []
           },
@@ -6881,14 +6888,14 @@
           "alias": "Mental Health",
           "position": {
             "start": {
-              "line": 99,
+              "line": 97,
               "column": 3,
-              "offset": 1707
+              "offset": 1676
             },
             "end": {
-              "line": 99,
+              "line": 97,
               "column": 46,
-              "offset": 1750
+              "offset": 1719
             },
             "indent": []
           },
@@ -6909,14 +6916,14 @@
           "alias": "Crypto",
           "position": {
             "start": {
-              "line": 100,
+              "line": 98,
               "column": 3,
-              "offset": 1753
+              "offset": 1722
             },
             "end": {
-              "line": 100,
+              "line": 98,
               "column": 32,
-              "offset": 1782
+              "offset": 1751
             },
             "indent": []
           },
@@ -6937,14 +6944,14 @@
           "alias": "Software Design",
           "position": {
             "start": {
-              "line": 101,
+              "line": 99,
               "column": 3,
-              "offset": 1785
+              "offset": 1754
             },
             "end": {
-              "line": 101,
+              "line": 99,
               "column": 50,
-              "offset": 1832
+              "offset": 1801
             },
             "indent": []
           },
@@ -6965,14 +6972,14 @@
           "alias": "Writing",
           "position": {
             "start": {
-              "line": 102,
+              "line": 100,
               "column": 3,
-              "offset": 1835
+              "offset": 1804
             },
             "end": {
-              "line": 102,
+              "line": 100,
               "column": 34,
-              "offset": 1866
+              "offset": 1835
             },
             "indent": []
           },
@@ -7030,96 +7037,96 @@
           "type": "header",
           "text": "Linux",
           "value": "linux",
-          "line": 38,
+          "line": 36,
           "column": 0
         },
         "kubernetes": {
           "type": "header",
           "text": "Kubernetes",
           "value": "kubernetes",
-          "line": 42,
+          "line": 40,
           "column": 0
         },
         "docker": {
           "type": "header",
           "text": "Docker",
           "value": "docker",
-          "line": 46,
+          "line": 44,
           "column": 0
         },
         "css": {
           "type": "header",
           "text": "CSS",
           "value": "css",
-          "line": 50,
+          "line": 48,
           "column": 0
         },
         "web3": {
           "type": "header",
           "text": "Web3",
           "value": "web3",
-          "line": 54,
+          "line": 52,
           "column": 0
         },
         "git": {
           "type": "header",
           "text": "Git",
           "value": "git",
-          "line": 58,
+          "line": 56,
           "column": 0
         },
         "flutter": {
           "type": "header",
           "text": "Flutter",
           "value": "flutter",
-          "line": 62,
+          "line": 60,
           "column": 0
         },
         "web-assembly": {
           "type": "header",
           "text": "Web Assembly",
           "value": "web-assembly",
-          "line": 66,
+          "line": 64,
           "column": 0
         },
         "tools": {
           "type": "header",
           "text": "Tools",
           "value": "tools",
-          "line": 70,
+          "line": 68,
           "column": 0
         },
         "system-design": {
           "type": "header",
           "text": "System Design",
           "value": "system-design",
-          "line": 74,
+          "line": 72,
           "column": 0
         },
         "people": {
           "type": "header",
           "text": "People",
           "value": "people",
-          "line": 78,
+          "line": 76,
           "column": 0
         },
         "hobbies": {
           "type": "header",
           "text": "Hobbies",
           "value": "hobbies",
-          "line": 83,
+          "line": 81,
           "column": 0
         },
         "domains": {
           "type": "header",
           "text": "Domains",
           "value": "domains",
-          "line": 87,
+          "line": 85,
           "column": 0
         }
       },
       "fname": "root",
-      "updated": 1637345884307,
+      "updated": 1637349308265,
       "created": 1595961348801,
       "parent": null,
       "children": [
@@ -7134,13 +7141,13 @@
         "01u0co3RYjOM1bjpc2qIU"
       ],
       "data": {},
-      "contentHash": "05ebfc1e1337f4bcdc1eb226050ac415",
+      "contentHash": "c249d19dbed2756744cca051d8df1707",
       "custom": {
         "stub": false,
         "nav_order": 0,
         "permalink": "/"
       },
-      "body": "\nRoot of Dendron vault.\n\n### Books\n\n- [[Tech Books | books.tech.md]]\n\n### Python\n\n- [[Python specific commands | tech.python.cli.alembic]]\n- [[Python NLP | tech.python.nlp]]\n\n### Postgres\n\n- [[Postgis extension | tech.postgres.postgis]]\n\n### GIS\n\n- [[GIS commands | cli.gis]]\n\n### Rust\n\n- [[Rust First Steps | tech.rust.md]]\n\n### Algorithms & Data Structures\n\nImplementations and analyses\n\n- [[Data Structure Visualizations | algo.ds.md]]\n\n### Linux\n\n- [[Linux | tech.linux]]\n\n### Kubernetes\n\n- [[Kubernetes | tech.kubernetes]]\n\n### Docker\n\n- [[Docker | tech.docker]]\n\n### CSS\n\n- [[CSS | tech.css]]\n\n### Web3\n\n- [[Web 3 | tech.web3.md]]\n\n### Git\n\n- [[Git | tech.git.md]]\n\n### Flutter\n\n- [[Flutter | tech.flutter.md]]\n\n### Web Assembly\n\n- [[Web Assembly | tech.wasm.md]]\n\n### Tools\n\n- [[Tools | tech.tools.md]]\n\n#### System Design\n\n- [[System Design | tech.system-design.md]]\n\n### People\n\n- [[Leslie Lamport | people.leslie-lamport.md]]\n- [[Paul Graham | people.paul-graham.md]]\n\n### Hobbies\n\n- [[Hobbies | hobbies.bicycling.md]]\n\n### Domains\n\n- [[Queuing Theory | domain.queuing-theory.md]]\n- [[Reversing | domain.reversing.md]]\n- [[Recruiting | domain.recruiting.md]]\n- [[Systems | domain.systems.md]]\n- [[Functional | domain.functional.md]]\n- [[Probability |  domain.probability.md]]\n- [[Category Theory | domain.category-theory.md]]\n- [[Relativity | domain.relativity.md]]\n- [[Game Theory | domain.game-theory.md]]\n- [[Personal Finance | domain.personal-finance.md]]\n- [[Calculus | domain.calculus.md]]\n- [[UX | domains.ux.md]]\n- [[Graphics | domain.graphics.md]]\n- [[Business | domain.business.md]]\n- [[Math | domain.math.md]]\n- [[Privacy | domain.privacy.md]]\n- [[Philosophy | domain.philosophy.md]]\n- [[Mental Health | domain.mental-health.md]]\n- [[Crypto | domain.crypto.md]]\n- [[Software Design | domain.software-design.md]]\n- [[Writing | domain.writing.md]]\n"
+      "body": "\nRoot of Dendron vault.\n\n### Books\n\n- [[Tech Books | books.tech.md]]\n\n### Python\n\n- [[Python specific commands | tech.python.cli.alembic]]\n- [[Python NLP | tech.python.nlp]]\n\n### Postgres\n\n- [[Postgis extension | tech.postgres.postgis]]\n\n### GIS\n\n- [[GIS commands | cli.gis]]\n\n### Rust\n\n- [[Rust First Steps | tech.rust.md]]\n\n### Algorithms & Data Structures\n\n- [[Algorithms & Data Structures | algo.ds.md]]\n\n### Linux\n\n- [[Linux | tech.linux]]\n\n### Kubernetes\n\n- [[Kubernetes | tech.kubernetes]]\n\n### Docker\n\n- [[Docker | tech.docker]]\n\n### CSS\n\n- [[CSS | tech.css]]\n\n### Web3\n\n- [[Web 3 | tech.web3.md]]\n\n### Git\n\n- [[Git | tech.git.md]]\n\n### Flutter\n\n- [[Flutter | tech.flutter.md]]\n\n### Web Assembly\n\n- [[Web Assembly | tech.wasm.md]]\n\n### Tools\n\n- [[Tools | tech.tools.md]]\n\n#### System Design\n\n- [[System Design | tech.system-design.md]]\n\n### People\n\n- [[Leslie Lamport | people.leslie-lamport.md]]\n- [[Paul Graham | people.paul-graham.md]]\n\n### Hobbies\n\n- [[Hobbies | hobbies.bicycling.md]]\n\n### Domains\n\n- [[Queuing Theory | domain.queuing-theory.md]]\n- [[Reversing | domain.reversing.md]]\n- [[Recruiting | domain.recruiting.md]]\n- [[Systems | domain.systems.md]]\n- [[Functional | domain.functional.md]]\n- [[Probability |  domain.probability.md]]\n- [[Category Theory | domain.category-theory.md]]\n- [[Relativity | domain.relativity.md]]\n- [[Game Theory | domain.game-theory.md]]\n- [[Personal Finance | domain.personal-finance.md]]\n- [[Calculus | domain.calculus.md]]\n- [[UX | domains.ux.md]]\n- [[Graphics | domain.graphics.md]]\n- [[Business | domain.business.md]]\n- [[Math | domain.math.md]]\n- [[Privacy | domain.privacy.md]]\n- [[Philosophy | domain.philosophy.md]]\n- [[Mental Health | domain.mental-health.md]]\n- [[Crypto | domain.crypto.md]]\n- [[Software Design | domain.software-design.md]]\n- [[Writing | domain.writing.md]]\n"
     }
   ],
   "noteIndex": {
@@ -7328,17 +7335,17 @@
           "vaultName": "vault"
         },
         "value": "algo.ds",
-        "alias": "Data Structure Visualizations",
+        "alias": "Algorithms & Data Structures",
         "position": {
           "start": {
-            "line": 29,
+            "line": 27,
             "column": 3,
-            "offset": 392
+            "offset": 362
           },
           "end": {
-            "line": 29,
-            "column": 49,
-            "offset": 438
+            "line": 27,
+            "column": 48,
+            "offset": 407
           },
           "indent": []
         },
@@ -7359,14 +7366,14 @@
         "alias": "Linux",
         "position": {
           "start": {
-            "line": 33,
+            "line": 31,
             "column": 3,
-            "offset": 453
+            "offset": 422
           },
           "end": {
-            "line": 33,
+            "line": 31,
             "column": 25,
-            "offset": 475
+            "offset": 444
           },
           "indent": []
         },
@@ -7387,14 +7394,14 @@
         "alias": "Kubernetes",
         "position": {
           "start": {
-            "line": 37,
+            "line": 35,
             "column": 3,
-            "offset": 495
+            "offset": 464
           },
           "end": {
-            "line": 37,
+            "line": 35,
             "column": 35,
-            "offset": 527
+            "offset": 496
           },
           "indent": []
         },
@@ -7415,14 +7422,14 @@
         "alias": "Docker",
         "position": {
           "start": {
-            "line": 41,
+            "line": 39,
             "column": 3,
-            "offset": 543
+            "offset": 512
           },
           "end": {
-            "line": 41,
+            "line": 39,
             "column": 27,
-            "offset": 567
+            "offset": 536
           },
           "indent": []
         },
@@ -7443,14 +7450,14 @@
         "alias": "CSS",
         "position": {
           "start": {
-            "line": 45,
+            "line": 43,
             "column": 3,
-            "offset": 580
+            "offset": 549
           },
           "end": {
-            "line": 45,
+            "line": 43,
             "column": 21,
-            "offset": 598
+            "offset": 567
           },
           "indent": []
         },
@@ -7471,14 +7478,14 @@
         "alias": "Web 3",
         "position": {
           "start": {
-            "line": 49,
+            "line": 47,
             "column": 3,
-            "offset": 612
+            "offset": 581
           },
           "end": {
-            "line": 49,
+            "line": 47,
             "column": 27,
-            "offset": 636
+            "offset": 605
           },
           "indent": []
         },
@@ -7499,14 +7506,14 @@
         "alias": "Git",
         "position": {
           "start": {
-            "line": 53,
+            "line": 51,
             "column": 3,
-            "offset": 649
+            "offset": 618
           },
           "end": {
-            "line": 53,
+            "line": 51,
             "column": 24,
-            "offset": 670
+            "offset": 639
           },
           "indent": []
         },
@@ -7527,14 +7534,14 @@
         "alias": "Flutter",
         "position": {
           "start": {
-            "line": 57,
+            "line": 55,
             "column": 3,
-            "offset": 687
+            "offset": 656
           },
           "end": {
-            "line": 57,
+            "line": 55,
             "column": 32,
-            "offset": 716
+            "offset": 685
           },
           "indent": []
         },
@@ -7555,14 +7562,14 @@
         "alias": "Web Assembly",
         "position": {
           "start": {
-            "line": 61,
+            "line": 59,
             "column": 3,
-            "offset": 738
+            "offset": 707
           },
           "end": {
-            "line": 61,
+            "line": 59,
             "column": 34,
-            "offset": 769
+            "offset": 738
           },
           "indent": []
         },
@@ -7583,14 +7590,14 @@
         "alias": "Tools",
         "position": {
           "start": {
-            "line": 65,
+            "line": 63,
             "column": 3,
-            "offset": 784
+            "offset": 753
           },
           "end": {
-            "line": 65,
+            "line": 63,
             "column": 28,
-            "offset": 809
+            "offset": 778
           },
           "indent": []
         },
@@ -7611,14 +7618,14 @@
         "alias": "System Design",
         "position": {
           "start": {
-            "line": 69,
+            "line": 67,
             "column": 3,
-            "offset": 833
+            "offset": 802
           },
           "end": {
-            "line": 69,
+            "line": 67,
             "column": 44,
-            "offset": 874
+            "offset": 843
           },
           "indent": []
         },
@@ -7639,14 +7646,14 @@
         "alias": "Leslie Lamport",
         "position": {
           "start": {
-            "line": 73,
+            "line": 71,
             "column": 3,
-            "offset": 890
+            "offset": 859
           },
           "end": {
-            "line": 73,
+            "line": 71,
             "column": 48,
-            "offset": 935
+            "offset": 904
           },
           "indent": []
         },
@@ -7667,14 +7674,14 @@
         "alias": "Paul Graham",
         "position": {
           "start": {
-            "line": 74,
+            "line": 72,
             "column": 3,
-            "offset": 938
+            "offset": 907
           },
           "end": {
-            "line": 74,
+            "line": 72,
             "column": 42,
-            "offset": 977
+            "offset": 946
           },
           "indent": []
         },
@@ -7695,14 +7702,14 @@
         "alias": "Hobbies",
         "position": {
           "start": {
-            "line": 78,
+            "line": 76,
             "column": 3,
-            "offset": 994
+            "offset": 963
           },
           "end": {
-            "line": 78,
+            "line": 76,
             "column": 37,
-            "offset": 1028
+            "offset": 997
           },
           "indent": []
         },
@@ -7723,14 +7730,14 @@
         "alias": "Queuing Theory",
         "position": {
           "start": {
-            "line": 82,
+            "line": 80,
             "column": 3,
-            "offset": 1045
+            "offset": 1014
           },
           "end": {
-            "line": 82,
+            "line": 80,
             "column": 48,
-            "offset": 1090
+            "offset": 1059
           },
           "indent": []
         },
@@ -7751,14 +7758,14 @@
         "alias": "Reversing",
         "position": {
           "start": {
-            "line": 83,
+            "line": 81,
             "column": 3,
-            "offset": 1093
+            "offset": 1062
           },
           "end": {
-            "line": 83,
+            "line": 81,
             "column": 38,
-            "offset": 1128
+            "offset": 1097
           },
           "indent": []
         },
@@ -7779,14 +7786,14 @@
         "alias": "Recruiting",
         "position": {
           "start": {
-            "line": 84,
+            "line": 82,
             "column": 3,
-            "offset": 1131
+            "offset": 1100
           },
           "end": {
-            "line": 84,
+            "line": 82,
             "column": 40,
-            "offset": 1168
+            "offset": 1137
           },
           "indent": []
         },
@@ -7807,14 +7814,14 @@
         "alias": "Systems",
         "position": {
           "start": {
-            "line": 85,
+            "line": 83,
             "column": 3,
-            "offset": 1171
+            "offset": 1140
           },
           "end": {
-            "line": 85,
+            "line": 83,
             "column": 34,
-            "offset": 1202
+            "offset": 1171
           },
           "indent": []
         },
@@ -7835,14 +7842,14 @@
         "alias": "Functional",
         "position": {
           "start": {
-            "line": 86,
+            "line": 84,
             "column": 3,
-            "offset": 1205
+            "offset": 1174
           },
           "end": {
-            "line": 86,
+            "line": 84,
             "column": 40,
-            "offset": 1242
+            "offset": 1211
           },
           "indent": []
         },
@@ -7863,14 +7870,14 @@
         "alias": "Probability",
         "position": {
           "start": {
-            "line": 87,
+            "line": 85,
             "column": 3,
-            "offset": 1245
+            "offset": 1214
           },
           "end": {
-            "line": 87,
+            "line": 85,
             "column": 43,
-            "offset": 1285
+            "offset": 1254
           },
           "indent": []
         },
@@ -7891,14 +7898,14 @@
         "alias": "Category Theory",
         "position": {
           "start": {
-            "line": 88,
+            "line": 86,
             "column": 3,
-            "offset": 1288
+            "offset": 1257
           },
           "end": {
-            "line": 88,
+            "line": 86,
             "column": 50,
-            "offset": 1335
+            "offset": 1304
           },
           "indent": []
         },
@@ -7919,14 +7926,14 @@
         "alias": "Relativity",
         "position": {
           "start": {
-            "line": 89,
+            "line": 87,
             "column": 3,
-            "offset": 1338
+            "offset": 1307
           },
           "end": {
-            "line": 89,
+            "line": 87,
             "column": 40,
-            "offset": 1375
+            "offset": 1344
           },
           "indent": []
         },
@@ -7947,14 +7954,14 @@
         "alias": "Game Theory",
         "position": {
           "start": {
-            "line": 90,
+            "line": 88,
             "column": 3,
-            "offset": 1378
+            "offset": 1347
           },
           "end": {
-            "line": 90,
+            "line": 88,
             "column": 42,
-            "offset": 1417
+            "offset": 1386
           },
           "indent": []
         },
@@ -7975,14 +7982,14 @@
         "alias": "Personal Finance",
         "position": {
           "start": {
-            "line": 91,
+            "line": 89,
             "column": 3,
-            "offset": 1420
+            "offset": 1389
           },
           "end": {
-            "line": 91,
+            "line": 89,
             "column": 52,
-            "offset": 1469
+            "offset": 1438
           },
           "indent": []
         },
@@ -8003,14 +8010,14 @@
         "alias": "Calculus",
         "position": {
           "start": {
-            "line": 92,
+            "line": 90,
             "column": 3,
-            "offset": 1472
+            "offset": 1441
           },
           "end": {
-            "line": 92,
+            "line": 90,
             "column": 36,
-            "offset": 1505
+            "offset": 1474
           },
           "indent": []
         },
@@ -8031,14 +8038,14 @@
         "alias": "UX",
         "position": {
           "start": {
-            "line": 93,
+            "line": 91,
             "column": 3,
-            "offset": 1508
+            "offset": 1477
           },
           "end": {
-            "line": 93,
+            "line": 91,
             "column": 25,
-            "offset": 1530
+            "offset": 1499
           },
           "indent": []
         },
@@ -8059,14 +8066,14 @@
         "alias": "Graphics",
         "position": {
           "start": {
-            "line": 94,
+            "line": 92,
             "column": 3,
-            "offset": 1533
+            "offset": 1502
           },
           "end": {
-            "line": 94,
+            "line": 92,
             "column": 36,
-            "offset": 1566
+            "offset": 1535
           },
           "indent": []
         },
@@ -8087,14 +8094,14 @@
         "alias": "Business",
         "position": {
           "start": {
-            "line": 95,
+            "line": 93,
             "column": 3,
-            "offset": 1569
+            "offset": 1538
           },
           "end": {
-            "line": 95,
+            "line": 93,
             "column": 36,
-            "offset": 1602
+            "offset": 1571
           },
           "indent": []
         },
@@ -8115,14 +8122,14 @@
         "alias": "Math",
         "position": {
           "start": {
-            "line": 96,
+            "line": 94,
             "column": 3,
-            "offset": 1605
+            "offset": 1574
           },
           "end": {
-            "line": 96,
+            "line": 94,
             "column": 28,
-            "offset": 1630
+            "offset": 1599
           },
           "indent": []
         },
@@ -8143,14 +8150,14 @@
         "alias": "Privacy",
         "position": {
           "start": {
-            "line": 97,
+            "line": 95,
             "column": 3,
-            "offset": 1633
+            "offset": 1602
           },
           "end": {
-            "line": 97,
+            "line": 95,
             "column": 34,
-            "offset": 1664
+            "offset": 1633
           },
           "indent": []
         },
@@ -8171,14 +8178,14 @@
         "alias": "Philosophy",
         "position": {
           "start": {
-            "line": 98,
+            "line": 96,
             "column": 3,
-            "offset": 1667
+            "offset": 1636
           },
           "end": {
-            "line": 98,
+            "line": 96,
             "column": 40,
-            "offset": 1704
+            "offset": 1673
           },
           "indent": []
         },
@@ -8199,14 +8206,14 @@
         "alias": "Mental Health",
         "position": {
           "start": {
-            "line": 99,
+            "line": 97,
             "column": 3,
-            "offset": 1707
+            "offset": 1676
           },
           "end": {
-            "line": 99,
+            "line": 97,
             "column": 46,
-            "offset": 1750
+            "offset": 1719
           },
           "indent": []
         },
@@ -8227,14 +8234,14 @@
         "alias": "Crypto",
         "position": {
           "start": {
-            "line": 100,
+            "line": 98,
             "column": 3,
-            "offset": 1753
+            "offset": 1722
           },
           "end": {
-            "line": 100,
+            "line": 98,
             "column": 32,
-            "offset": 1782
+            "offset": 1751
           },
           "indent": []
         },
@@ -8255,14 +8262,14 @@
         "alias": "Software Design",
         "position": {
           "start": {
-            "line": 101,
+            "line": 99,
             "column": 3,
-            "offset": 1785
+            "offset": 1754
           },
           "end": {
-            "line": 101,
+            "line": 99,
             "column": 50,
-            "offset": 1832
+            "offset": 1801
           },
           "indent": []
         },
@@ -8283,14 +8290,14 @@
         "alias": "Writing",
         "position": {
           "start": {
-            "line": 102,
+            "line": 100,
             "column": 3,
-            "offset": 1835
+            "offset": 1804
           },
           "end": {
-            "line": 102,
+            "line": 100,
             "column": 34,
-            "offset": 1866
+            "offset": 1835
           },
           "indent": []
         },
@@ -8348,96 +8355,96 @@
         "type": "header",
         "text": "Linux",
         "value": "linux",
-        "line": 38,
+        "line": 36,
         "column": 0
       },
       "kubernetes": {
         "type": "header",
         "text": "Kubernetes",
         "value": "kubernetes",
-        "line": 42,
+        "line": 40,
         "column": 0
       },
       "docker": {
         "type": "header",
         "text": "Docker",
         "value": "docker",
-        "line": 46,
+        "line": 44,
         "column": 0
       },
       "css": {
         "type": "header",
         "text": "CSS",
         "value": "css",
-        "line": 50,
+        "line": 48,
         "column": 0
       },
       "web3": {
         "type": "header",
         "text": "Web3",
         "value": "web3",
-        "line": 54,
+        "line": 52,
         "column": 0
       },
       "git": {
         "type": "header",
         "text": "Git",
         "value": "git",
-        "line": 58,
+        "line": 56,
         "column": 0
       },
       "flutter": {
         "type": "header",
         "text": "Flutter",
         "value": "flutter",
-        "line": 62,
+        "line": 60,
         "column": 0
       },
       "web-assembly": {
         "type": "header",
         "text": "Web Assembly",
         "value": "web-assembly",
-        "line": 66,
+        "line": 64,
         "column": 0
       },
       "tools": {
         "type": "header",
         "text": "Tools",
         "value": "tools",
-        "line": 70,
+        "line": 68,
         "column": 0
       },
       "system-design": {
         "type": "header",
         "text": "System Design",
         "value": "system-design",
-        "line": 74,
+        "line": 72,
         "column": 0
       },
       "people": {
         "type": "header",
         "text": "People",
         "value": "people",
-        "line": 78,
+        "line": 76,
         "column": 0
       },
       "hobbies": {
         "type": "header",
         "text": "Hobbies",
         "value": "hobbies",
-        "line": 83,
+        "line": 81,
         "column": 0
       },
       "domains": {
         "type": "header",
         "text": "Domains",
         "value": "domains",
-        "line": 87,
+        "line": 85,
         "column": 0
       }
     },
     "fname": "root",
-    "updated": 1637345884307,
+    "updated": 1637349308265,
     "created": 1595961348801,
     "parent": null,
     "children": [
@@ -8452,13 +8459,13 @@
       "01u0co3RYjOM1bjpc2qIU"
     ],
     "data": {},
-    "contentHash": "05ebfc1e1337f4bcdc1eb226050ac415",
+    "contentHash": "c249d19dbed2756744cca051d8df1707",
     "custom": {
       "stub": false,
       "nav_order": 0,
       "permalink": "/"
     },
-    "body": "\nRoot of Dendron vault.\n\n### Books\n\n- [[Tech Books | books.tech.md]]\n\n### Python\n\n- [[Python specific commands | tech.python.cli.alembic]]\n- [[Python NLP | tech.python.nlp]]\n\n### Postgres\n\n- [[Postgis extension | tech.postgres.postgis]]\n\n### GIS\n\n- [[GIS commands | cli.gis]]\n\n### Rust\n\n- [[Rust First Steps | tech.rust.md]]\n\n### Algorithms & Data Structures\n\nImplementations and analyses\n\n- [[Data Structure Visualizations | algo.ds.md]]\n\n### Linux\n\n- [[Linux | tech.linux]]\n\n### Kubernetes\n\n- [[Kubernetes | tech.kubernetes]]\n\n### Docker\n\n- [[Docker | tech.docker]]\n\n### CSS\n\n- [[CSS | tech.css]]\n\n### Web3\n\n- [[Web 3 | tech.web3.md]]\n\n### Git\n\n- [[Git | tech.git.md]]\n\n### Flutter\n\n- [[Flutter | tech.flutter.md]]\n\n### Web Assembly\n\n- [[Web Assembly | tech.wasm.md]]\n\n### Tools\n\n- [[Tools | tech.tools.md]]\n\n#### System Design\n\n- [[System Design | tech.system-design.md]]\n\n### People\n\n- [[Leslie Lamport | people.leslie-lamport.md]]\n- [[Paul Graham | people.paul-graham.md]]\n\n### Hobbies\n\n- [[Hobbies | hobbies.bicycling.md]]\n\n### Domains\n\n- [[Queuing Theory | domain.queuing-theory.md]]\n- [[Reversing | domain.reversing.md]]\n- [[Recruiting | domain.recruiting.md]]\n- [[Systems | domain.systems.md]]\n- [[Functional | domain.functional.md]]\n- [[Probability |  domain.probability.md]]\n- [[Category Theory | domain.category-theory.md]]\n- [[Relativity | domain.relativity.md]]\n- [[Game Theory | domain.game-theory.md]]\n- [[Personal Finance | domain.personal-finance.md]]\n- [[Calculus | domain.calculus.md]]\n- [[UX | domains.ux.md]]\n- [[Graphics | domain.graphics.md]]\n- [[Business | domain.business.md]]\n- [[Math | domain.math.md]]\n- [[Privacy | domain.privacy.md]]\n- [[Philosophy | domain.philosophy.md]]\n- [[Mental Health | domain.mental-health.md]]\n- [[Crypto | domain.crypto.md]]\n- [[Software Design | domain.software-design.md]]\n- [[Writing | domain.writing.md]]\n"
+    "body": "\nRoot of Dendron vault.\n\n### Books\n\n- [[Tech Books | books.tech.md]]\n\n### Python\n\n- [[Python specific commands | tech.python.cli.alembic]]\n- [[Python NLP | tech.python.nlp]]\n\n### Postgres\n\n- [[Postgis extension | tech.postgres.postgis]]\n\n### GIS\n\n- [[GIS commands | cli.gis]]\n\n### Rust\n\n- [[Rust First Steps | tech.rust.md]]\n\n### Algorithms & Data Structures\n\n- [[Algorithms & Data Structures | algo.ds.md]]\n\n### Linux\n\n- [[Linux | tech.linux]]\n\n### Kubernetes\n\n- [[Kubernetes | tech.kubernetes]]\n\n### Docker\n\n- [[Docker | tech.docker]]\n\n### CSS\n\n- [[CSS | tech.css]]\n\n### Web3\n\n- [[Web 3 | tech.web3.md]]\n\n### Git\n\n- [[Git | tech.git.md]]\n\n### Flutter\n\n- [[Flutter | tech.flutter.md]]\n\n### Web Assembly\n\n- [[Web Assembly | tech.wasm.md]]\n\n### Tools\n\n- [[Tools | tech.tools.md]]\n\n#### System Design\n\n- [[System Design | tech.system-design.md]]\n\n### People\n\n- [[Leslie Lamport | people.leslie-lamport.md]]\n- [[Paul Graham | people.paul-graham.md]]\n\n### Hobbies\n\n- [[Hobbies | hobbies.bicycling.md]]\n\n### Domains\n\n- [[Queuing Theory | domain.queuing-theory.md]]\n- [[Reversing | domain.reversing.md]]\n- [[Recruiting | domain.recruiting.md]]\n- [[Systems | domain.systems.md]]\n- [[Functional | domain.functional.md]]\n- [[Probability |  domain.probability.md]]\n- [[Category Theory | domain.category-theory.md]]\n- [[Relativity | domain.relativity.md]]\n- [[Game Theory | domain.game-theory.md]]\n- [[Personal Finance | domain.personal-finance.md]]\n- [[Calculus | domain.calculus.md]]\n- [[UX | domains.ux.md]]\n- [[Graphics | domain.graphics.md]]\n- [[Business | domain.business.md]]\n- [[Math | domain.math.md]]\n- [[Privacy | domain.privacy.md]]\n- [[Philosophy | domain.philosophy.md]]\n- [[Mental Health | domain.mental-health.md]]\n- [[Crypto | domain.crypto.md]]\n- [[Software Design | domain.software-design.md]]\n- [[Writing | domain.writing.md]]\n"
   },
   "vaults": [
     {

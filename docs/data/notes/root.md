@@ -24,9 +24,7 @@ Root of Dendron vault.
 
 ### Algorithms & Data Structures
 
-Implementations and analyses
-
-- [[Data Structure Visualizations | algo.ds.md]]
+- [[Algorithms & Data Structures | algo.ds.md]]
 
 ### Linux
 
