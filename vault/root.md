@@ -2,7 +2,7 @@
 id: root
 title: root
 desc: ""
-updated: 1637345884307
+updated: 1637349308265
 created: 1595961348801
 stub: false
 ---
@@ -32,9 +32,7 @@ Root of Dendron vault.
 
 ### Algorithms & Data Structures
 
-Implementations and analyses
-
-- [[Data Structure Visualizations | algo.ds.md]]
+- [[Algorithms & Data Structures | algo.ds.md]]
 
 ### Linux
 
