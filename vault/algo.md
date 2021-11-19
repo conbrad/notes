@@ -1,9 +1,8 @@
 ---
-id: k5L85en4ZpgmnWbwy6Vyy
+id: HmH3P1d4H7612LlIXHnCC
 title: Algo
-desc: ''
-updated: 1637347806157
-created: 1637347806157
+desc: ""
+updated: 1637348790128
+created: 1637277460935
 stub: true
 ---
-

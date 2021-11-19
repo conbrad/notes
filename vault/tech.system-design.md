@@ -2,7 +2,7 @@
 id: dy9k1oRVoe6i3l6bzvKos
 title: System Design
 desc: ""
-updated: 1637275006240
+updated: 1637275838084
 created: 1637269418874
 ---
 
@@ -53,3 +53,7 @@ created: 1637269418874
 #### Load balancing and its different types
 
 - https://www.wisdomgeek.com/development/software-architecture/load-balancing-and-its-different-types/
+
+#### Build Your own Async Primitive
+
+- https://tweedegolf.nl/blog/50/build-your-own-async-primitive

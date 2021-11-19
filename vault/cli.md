@@ -1,9 +1,8 @@
 ---
-id: zFbFDs6pv5RY831x0SyhF
+id: 9yagloTeRMuQzmsgNiiUb
 title: CLI
-desc: ''
-updated: 1637347806158
-created: 1637347806158
+desc: ""
+updated: 1637348796255
+created: 1637277460936
 stub: true
 ---
-

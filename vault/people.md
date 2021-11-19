@@ -1,9 +1,8 @@
 ---
-id: HGqvRNOsa4iu5Jhujo1PL
+id: 9EUxx2cJ9KVFwxUCdtLBP
 title: People
-desc: ''
-updated: 1637347806161
-created: 1637347806161
+desc: ""
+updated: 1637348805438
+created: 1637277460939
 stub: true
 ---
-

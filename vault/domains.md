@@ -1,9 +1,8 @@
 ---
-id: 3oJn9Eln0V7XDr8TkFkkQ
+id: wwRDiMzRtEn3Oa7bkwKW6
 title: Domains
-desc: ''
-updated: 1637347806161
-created: 1637347806161
+desc: ""
+updated: 1637348800827
+created: 1637277460938
 stub: true
 ---
-

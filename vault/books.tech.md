@@ -2,7 +2,7 @@
 id: rCCbU6JgFk3nnkyXrVMSs
 title: Tech
 desc: ""
-updated: 1637274864828
+updated: 1637275687555
 created: 1637270292899
 ---
 
@@ -45,3 +45,7 @@ created: 1637270292899
 #### Computer Graphics from Scratch
 
 - https://gabrielgambetta.com/computer-graphics-from-scratch/
+
+#### Algorithms for Decision Making
+
+- https://algorithmsbook.com

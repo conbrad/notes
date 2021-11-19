@@ -1,9 +1,8 @@
 ---
-id: jF9yfS9D7Kjl8t9I8BSb6
+id: RJpOess77XPb82EqcdaaZ
 title: Tech
-desc: ''
-updated: 1637347806162
-created: 1637347806162
+desc: ""
+updated: 1637348807695
+created: 1637277460939
 stub: true
 ---
-

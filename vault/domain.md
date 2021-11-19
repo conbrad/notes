@@ -1,9 +1,8 @@
 ---
-id: sxkOuXGlFYLBSPMSWac9e
+id: nQ25lsPGG0GZgyiC9mRNT
 title: Domain
-desc: ''
-updated: 1637347806158
-created: 1637347806158
+desc: ""
+updated: 1637348798532
+created: 1637277460936
 stub: true
 ---
-
