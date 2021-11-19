@@ -9,6 +9,7 @@ dev:
   enablePreviewV2: true
 site:
   siteUrl: https://conbrad.github.io/notes/
+  assetsPrefix: notes
   copyAssets: true
   siteHierarchies:
     - root
