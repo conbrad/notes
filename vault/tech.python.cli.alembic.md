@@ -2,7 +2,7 @@
 id: ulIDF3xiWsnEVBi52du6l
 title: Alembic
 desc: ""
-updated: 1637261253474
+updated: 1637606454944
 created: 1637261207176
 ---
 
@@ -10,6 +10,10 @@ created: 1637261207176
 
 `PYTHONPATH=. poetry run alembic history`
 
-### New model or update
+### New empty revision update
+
+`PYTHONPATH=. alembic revision -m "Comment relevant to change"`
+
+### New model or update via autogenerate
 
 `PYTHONPATH=. alembic revision --autogenerate -m "Comment relevant to change"`
