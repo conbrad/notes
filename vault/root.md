@@ -2,7 +2,7 @@
 id: root
 title: root
 desc: ""
-updated: 1637349308265
+updated: 1639432973942
 created: 1595961348801
 stub: false
 ---
@@ -41,6 +41,7 @@ Root of Dendron vault.
 ### Kubernetes
 
 - [[Kubernetes | tech.kubernetes]]
+- [[Openshift | tech.openshift]]
 
 ### Docker
 
