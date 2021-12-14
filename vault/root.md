@@ -2,7 +2,7 @@
 id: root
 title: root
 desc: ""
-updated: 1639432973942
+updated: 1639507688193
 created: 1595961348801
 stub: false
 ---
@@ -15,8 +15,7 @@ Root of Dendron vault.
 
 ### Python
 
-- [[Python specific commands | tech.python.cli.alembic]]
-- [[Python NLP | tech.python.nlp]]
+- [[Python | tech.python]]
 
 ### Postgres
 

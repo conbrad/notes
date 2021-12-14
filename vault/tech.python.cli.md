@@ -1,9 +1,9 @@
 ---
 id: prBfGVuKANtWFCPMrCUYc
 title: CLI
-desc: ''
-updated: 1637348813745
+desc: ""
+updated: 1639507730455
 created: 1637277460943
-stub: true
 ---
 
+[[Alembic CLI commands | tech.python.cli.alembic]]
