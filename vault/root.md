@@ -2,7 +2,7 @@
 id: root
 title: root
 desc: ""
-updated: 1639507688193
+updated: 1639767048438
 created: 1595961348801
 stub: false
 ---
@@ -24,6 +24,10 @@ Root of Dendron vault.
 ### GIS
 
 - [[GIS commands | cli.gis]]
+
+### Web
+
+- [[Web | tech.web]]
 
 ### Rust
 
